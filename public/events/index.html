@@ -3,105 +3,97 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Stadtprogramm – Ludwigsburg</title>
+  <title>Kinderprogramm Ludwigsburg</title>
+  
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>">
+  
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800;900&display=swap" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
   <style>
-    /* ── TWEEN/TEEN DARK MODE TOKENS ───────────────────── */
+    /* ── FUN & BRIGHT TOKENS (Soft Shadows) ─────────────────────────── */
     :root {
-      --bg-main:    #0f172a; /* Slate 900 */
-      --bg-card:    #1e293b; /* Slate 800 */
-      --bg-input:   #334155; /* Slate 700 */
-      --accent-1:   #8b5cf6; /* Vibrant Purple */
-      --accent-2:   #06b6d4; /* Cyan */
-      --text-main:  #f8fafc; /* Slate 50 */
-      --text-muted: #94a3b8; /* Slate 400 */
-      --success:    #10b981; /* Emerald */
+      --primary:    #6C5CE7; /* Playful Purple */
+      --secondary:  #FF7675; /* Soft Coral / Red */
+      --accent:     #FDCB6E; /* Sunny Yellow */
+      --success:    #55E6C1; /* Mint Green */
+      --sky:        #E0F2FE; /* Background Sky Blue */
+      --ink:        #2D3436; /* Dark text for readability */
+      --card-bg:    #ffffff;
       
-      --radius-lg:  16px;
-      --radius-md:  8px;
-      --shadow:     0 10px 30px rgba(0, 0, 0, 0.4);
-      --glow:       0 0 15px rgba(139, 92, 246, 0.3);
+      --radius-lg:  24px;
+      --radius-md:  16px;
+      
+      /* Soft, modern shadows instead of chunky ones */
+      --shadow:     0 8px 24px rgba(108, 92, 231, 0.12);
+      --shadow-hover: 0 15px 35px rgba(108, 92, 231, 0.25);
     }
 
     /* ── RESET & BASE ──────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body {
-      font-family: 'Outfit', sans-serif;
-      background: var(--bg-main);
-      color: var(--text-main);
+      font-family: 'Nunito', sans-serif;
+      background: var(--sky);
+      color: var(--ink);
       min-height: 100vh;
       overflow-x: hidden;
     }
 
-    /* ── HEADER: SLEEK & BOLD ────────────────────────── */
+    /* ── HEADER: VIBRANT & CURVED ────────────────────────── */
     header {
-      background: linear-gradient(135deg, rgba(15,23,42,1) 0%, rgba(30,41,59,1) 100%);
-      padding: 4rem 1.5rem 3rem;
+      background: linear-gradient(135deg, #6C5CE7 0%, #A29BFE 100%);
+      padding: 4rem 1.5rem 5rem;
       text-align: center;
+      color: white;
       position: relative;
-      border-bottom: 1px solid var(--bg-input);
-    }
-    header::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 4px;
-      background: linear-gradient(90deg, var(--accent-1), var(--accent-2));
+      clip-path: ellipse(150% 100% at 50% 0%);
     }
     header h1 {
-      font-size: clamp(2.5rem, 6vw, 3.5rem);
-      font-weight: 800;
-      letter-spacing: -1px;
-      background: linear-gradient(to right, #f8fafc, #cbd5e1);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+      font-size: clamp(2.5rem, 8vw, 4rem);
+      font-weight: 900;
+      text-shadow: 2px 4px 0px rgba(0,0,0,0.1);
       margin-bottom: 0.5rem;
-      text-transform: uppercase;
+      letter-spacing: -0.5px;
     }
     header p {
-      font-size: 1.1rem;
-      font-weight: 400;
-      color: var(--text-muted);
+      font-size: 1.25rem;
+      font-weight: 600;
+      opacity: 0.95;
     }
     .header-badge {
       display: inline-block;
       margin-top: 1.5rem;
-      background: transparent;
-      border: 1px solid var(--accent-1);
-      color: var(--accent-1);
-      font-weight: 600;
-      padding: 0.4rem 1rem;
-      border-radius: 4px;
-      font-size: 0.85rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+      background: var(--accent);
+      color: var(--ink);
+      font-weight: 800;
+      padding: 0.5rem 1.2rem;
+      border-radius: 50px;
+      box-shadow: 0 4px 15px rgba(253, 203, 110, 0.5);
     }
 
-    /* ── MODERN FILTERS ──────────────────────── */
+    /* ── MODERN FLOATING FILTERS ──────────────────────── */
     .filters-wrap {
       max-width: 1100px;
-      margin: 2rem auto;
+      margin: -2.5rem auto 2rem;
       padding: 0 1.5rem;
       position: sticky;
       top: 1rem;
       z-index: 100;
     }
     .filters {
-      background: rgba(30, 41, 59, 0.85);
-      backdrop-filter: blur(12px);
-      padding: 1.2rem;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      padding: 1.5rem;
       border-radius: var(--radius-lg);
       box-shadow: var(--shadow);
       display: flex;
       flex-wrap: wrap;
       gap: 1rem;
       align-items: flex-end;
-      border: 1px solid rgba(255,255,255,0.05);
+      border: 2px solid white;
     }
     .filter-group {
       display: flex;
@@ -110,57 +102,54 @@
       flex: 1 1 140px;
     }
     .filter-group label {
-      font-size: 0.75rem;
-      font-weight: 600;
-      color: var(--text-muted);
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
+      font-size: 0.85rem;
+      font-weight: 800;
+      color: var(--primary);
+      margin-left: 0.2rem;
     }
     .filter-group input,
     .filter-group select {
-      background: var(--bg-main);
-      border: 1px solid var(--bg-input);
-      color: var(--text-main);
+      border: 2px solid #E2E8F0;
       border-radius: var(--radius-md);
       padding: 0.7rem 1rem;
       font-family: inherit;
-      font-size: 0.9rem;
+      font-weight: 600;
+      font-size: 0.95rem;
+      background: white;
+      color: var(--ink);
       transition: all 0.2s;
       outline: none;
       width: 100%;
     }
     .filter-group input:focus, 
     .filter-group select:focus {
-      border-color: var(--accent-1);
-      box-shadow: var(--glow);
-    }
-    /* Fix for date picker icon visibility in dark mode */
-    ::-webkit-calendar-picker-indicator {
-      filter: invert(1);
-      opacity: 0.6;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 4px rgba(108, 92, 231, 0.15);
     }
 
     .btn-reset {
       padding: 0.7rem 1.2rem;
       border-radius: var(--radius-md);
-      border: 1px solid var(--text-muted);
-      background: transparent;
-      color: var(--text-muted);
-      font-weight: 600;
+      border: none;
+      background: var(--secondary);
+      color: white;
+      font-weight: 800;
+      font-size: 0.95rem;
       cursor: pointer;
-      transition: all 0.2s;
+      transition: transform 0.2s, box-shadow 0.2s;
       white-space: nowrap;
+      box-shadow: 0 4px 15px rgba(255, 118, 117, 0.3);
     }
     .btn-reset:hover { 
-      background: var(--text-muted);
-      color: var(--bg-main);
+      transform: translateY(-2px); 
+      box-shadow: 0 6px 20px rgba(255, 118, 117, 0.4);
     }
 
     .result-count {
       align-self: flex-end;
-      font-size: 0.85rem;
-      font-weight: 400;
-      color: var(--text-muted);
+      font-size: 0.9rem;
+      font-weight: 800;
+      color: var(--primary);
       white-space: nowrap;
       padding-bottom: 0.4rem;
       margin-left: auto;
@@ -177,27 +166,26 @@
     }
     .search-box input {
       width: 100%;
-      padding: 1.2rem 1.5rem 1.2rem 3rem;
-      border-radius: var(--radius-lg);
-      background: var(--bg-card);
-      border: 1px solid var(--bg-input);
-      color: var(--text-main);
+      padding: 1.2rem 1.5rem 1.2rem 3.5rem;
+      border-radius: 100px;
+      border: none;
+      box-shadow: var(--shadow);
       font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--ink);
       outline: none;
       font-family: inherit;
-      transition: all 0.2s;
+      transition: box-shadow 0.2s;
     }
     .search-box input:focus {
-      border-color: var(--accent-2);
-      box-shadow: 0 0 15px rgba(6, 182, 212, 0.2);
+      box-shadow: 0 0 0 4px rgba(108, 92, 231, 0.15);
     }
     .search-icon {
       position: absolute;
-      left: 1.2rem;
+      left: 1.5rem;
       top: 50%;
       transform: translateY(-50%);
       font-size: 1.2rem;
-      color: var(--text-muted);
       pointer-events: none;
     }
 
@@ -212,27 +200,27 @@
     #event-list {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 1.5rem;
+      gap: 2rem;
     }
     .event-card {
-      background: var(--bg-card);
+      background: white;
       border-radius: var(--radius-lg);
       padding: 1.5rem;
       display: flex;
       flex-direction: column;
       position: relative;
-      border: 1px solid rgba(255,255,255,0.03);
+      border: none;
       box-shadow: var(--shadow);
-      transition: transform 0.2s, border-color 0.2s;
-      animation: fadeUp .3s ease both;
+      transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      animation: fadeUp .4s ease both;
     }
     .event-card:hover {
-      transform: translateY(-5px);
-      border-color: var(--accent-1);
+      transform: translateY(-8px);
+      box-shadow: var(--shadow-hover);
     }
     
     @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(10px); }
+      from { opacity: 0; transform: translateY(15px); }
       to   { opacity: 1; transform: translateY(0); }
     }
 
@@ -240,32 +228,33 @@
       display: flex;
       gap: 0.5rem;
       flex-wrap: wrap;
-      margin-bottom: 1rem;
+      margin-bottom: 0.8rem;
     }
     .tag {
-      background: var(--bg-input);
-      color: var(--text-main);
+      background: var(--sky);
+      color: var(--primary);
       border: none;
-      padding: 0.3rem 0.6rem;
-      font-weight: 600;
-      font-size: 0.7rem;
-      border-radius: 4px;
+      padding: 0.4rem 0.8rem;
+      font-weight: 800;
+      font-size: 0.75rem;
+      border-radius: 12px;
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
-    .tag.age { color: var(--accent-2); border: 1px solid rgba(6, 182, 212, 0.3); background: transparent; }
-    .tag.venue { color: var(--text-muted); }
+    .tag.age { background: #FFEAA7; color: #D6A000; }
+    .tag.venue { background: #DFF9FB; color: #0984E3; }
 
     .card-title {
-      font-size: 1.3rem;
-      font-weight: 600;
-      color: var(--text-main);
+      font-size: 1.35rem;
+      font-weight: 900;
+      color: var(--primary);
       margin: 0 0 0.5rem;
-      line-height: 1.3;
+      line-height: 1.25;
     }
     .card-subtitle {
-      font-size: 0.9rem;
-      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #636e72;
       margin-bottom: 1.2rem;
       flex-grow: 1;
     }
@@ -274,14 +263,11 @@
       display: flex;
       flex-direction: column;
       gap: 0.4rem;
-      font-size: 0.85rem;
-      color: var(--text-muted);
+      font-size: 0.9rem;
+      color: var(--ink);
       margin-bottom: 1.5rem;
-      background: var(--bg-main);
-      padding: 0.8rem;
-      border-radius: var(--radius-md);
     }
-    .card-info span { display: flex; align-items: center; gap: 0.5rem; font-weight: 400;}
+    .card-info span { display: flex; align-items: center; gap: 0.5rem; font-weight: 700;}
 
     .card-footer {
       display: flex;
@@ -290,24 +276,30 @@
       margin-top: auto;
     }
     .price-badge {
-      color: var(--success);
-      font-weight: 600;
+      background: var(--success);
+      color: #006266;
+      padding: 0.4rem 1rem;
+      border-radius: 12px;
+      font-weight: 900;
       font-size: 1.1rem;
     }
     .btn-details {
-      background: var(--accent-1);
+      background: var(--primary);
       color: white;
-      border-radius: var(--radius-md);
-      padding: 0.6rem 1.2rem;
-      font-weight: 600;
+      border-radius: 12px;
+      padding: 0.8rem 1.2rem;
+      font-weight: 800;
+      font-size: 1rem;
       border: none;
       cursor: pointer;
       font-family: inherit;
-      transition: background 0.2s, box-shadow 0.2s;
+      transition: transform 0.2s, background 0.2s;
+      box-shadow: 0 4px 15px rgba(108, 92, 231, 0.3);
     }
     .btn-details:hover {
-      background: #7c3aed;
-      box-shadow: var(--glow);
+      transform: translateY(-2px);
+      background: #5A4FCF;
+      box-shadow: 0 6px 20px rgba(108, 92, 231, 0.4);
     }
 
     /* ── EMPTY STATE ────────────────────────────────────── */
@@ -315,24 +307,26 @@
       grid-column: 1 / -1;
       text-align: center;
       padding: 4rem 2rem;
-      color: var(--text-muted);
+      color: var(--primary);
     }
-    .empty-state p { font-size: 1.1rem; font-weight: 400;}
+    .empty-state .big { font-size: 4rem; margin-bottom: 1rem; display: block;}
+    .empty-state p { font-size: 1.2rem; font-weight: 800;}
 
     /* ── LOADING ────────────────────────────────────────── */
     #loading {
       text-align: center;
       padding: 4rem;
-      color: var(--text-muted);
-      font-size: 1rem;
+      color: var(--secondary);
+      font-size: 1.2rem;
+      font-weight: 800;
     }
     .spinner {
       display: inline-block;
-      width: 30px; height: 30px;
-      border: 3px solid var(--bg-input);
-      border-top-color: var(--accent-1);
+      width: 40px; height: 40px;
+      border: 4px solid var(--sky);
+      border-top-color: var(--secondary);
       border-radius: 50%;
-      animation: spin 0.8s linear infinite;
+      animation: spin 1s linear infinite;
       margin-bottom: 1rem;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
@@ -341,8 +335,8 @@
     .modal-overlay {
       position: fixed;
       inset: 0;
-      background: rgba(15, 23, 42, 0.8);
-      backdrop-filter: blur(8px);
+      background: rgba(45, 52, 54, 0.6);
+      backdrop-filter: blur(5px);
       z-index: 200;
       display: flex;
       align-items: center;
@@ -350,102 +344,111 @@
       padding: 1.5rem;
       opacity: 0;
       pointer-events: none;
-      transition: opacity .2s ease;
+      transition: opacity .3s ease;
     }
     .modal-overlay.open { opacity: 1; pointer-events: all; }
 
     .modal {
-      background: var(--bg-card);
-      border-radius: var(--radius-lg);
-      border: 1px solid var(--bg-input);
+      background: var(--card-bg);
+      border-radius: 30px;
+      border: 6px solid var(--primary);
       max-width: 650px;
       width: 100%;
       max-height: 85vh;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
-      transform: scale(0.95) translateY(10px);
-      transition: transform .2s ease;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+      transform: scale(0.9) translateY(20px);
+      transition: transform .3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     }
     .modal-overlay.open .modal { transform: scale(1) translateY(0); }
 
     .modal-header {
-      padding: 1.5rem;
-      border-bottom: 1px solid var(--bg-input);
+      background: var(--primary);
+      padding: 1.8rem 2rem 1.5rem;
+      border-radius: 22px 22px 0 0;
       position: relative;
+      color: white;
     }
     .modal-header h2 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      line-height: 1.3;
+      font-size: 1.6rem;
+      font-weight: 900;
+      line-height: 1.2;
       padding-right: 2.5rem;
-      margin-bottom: 0.3rem;
+      margin-bottom: 0.5rem;
     }
     .modal-header p {
-      font-size: 0.9rem;
-      color: var(--text-muted);
+      font-size: 1rem;
+      font-weight: 600;
+      opacity: 0.9;
     }
     .modal-close {
       position: absolute;
-      top: 1.5rem; right: 1.5rem;
-      width: 32px; height: 32px;
-      border-radius: var(--radius-md);
-      background: var(--bg-input);
-      color: var(--text-muted);
-      border: none;
-      font-size: 1rem;
+      top: 1.2rem; right: 1.2rem;
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      border: 2px solid white;
+      background: rgba(255,255,255,0.2);
+      color: white;
+      font-size: 1.2rem;
+      font-weight: 900;
       cursor: pointer;
       display: flex; align-items: center; justify-content: center;
       transition: all 0.2s;
     }
-    .modal-close:hover { background: var(--text-main); color: var(--bg-main); }
+    .modal-close:hover { background: white; color: var(--primary); transform: rotate(90deg); }
 
     .modal-body {
-      padding: 1.5rem;
+      padding: 2rem;
       overflow-y: auto;
       flex: 1;
     }
     .modal-meta {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.5rem;
+      gap: 0.8rem;
       margin-bottom: 1.5rem;
     }
     .modal-detail-text {
-      font-size: 0.95rem;
-      line-height: 1.7;
-      color: var(--text-main);
+      font-size: 1.05rem;
+      line-height: 1.6;
+      font-weight: 600;
+      color: var(--ink);
       white-space: pre-wrap;
+      border-top: 2px dashed #dfe6e9;
+      padding-top: 1.5rem;
     }
     .modal-footer {
-      padding: 1.2rem 1.5rem;
-      background: var(--bg-main);
-      border-top: 1px solid var(--bg-input);
-      border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+      padding: 1.5rem 2rem;
+      background: var(--sky);
+      border-radius: 0 0 22px 22px;
       display: flex;
     }
     .btn-link {
       flex: 1;
-      padding: 0.8rem;
-      border-radius: var(--radius-md);
-      background: linear-gradient(90deg, var(--accent-1), #c084fc);
-      color: white;
-      font-size: 1rem;
-      font-weight: 600;
+      padding: 1rem;
+      border-radius: 100px;
+      background: var(--accent);
+      color: var(--ink);
+      font-family: inherit;
+      font-size: 1.15rem;
+      font-weight: 900;
       border: none;
       cursor: pointer;
       text-align: center;
       text-decoration: none;
-      transition: opacity .2s;
+      transition: transform .2s, box-shadow .2s;
+      box-shadow: 0 4px 15px rgba(253, 203, 110, 0.4);
     }
     .btn-link:hover {
-      opacity: 0.9;
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(253, 203, 110, 0.6);
     }
 
     /* ── RESPONSIVE ─────────────────────────────────────── */
     @media (max-width: 768px) {
-      .filters { gap: 0.8rem; }
-      .filter-group { flex-basis: calc(50% - 0.4rem); }
+      .filters { gap: .5rem; }
+      .filter-group { flex-basis: calc(50% - .25rem); }
     }
     @media (max-width: 480px) {
       #event-list { grid-template-columns: 1fr; }
@@ -458,63 +461,63 @@
 
 <header>
   <div class="header-inner">
-    <h1>Stadtprogramm</h1>
-    <p>Events, Kurse & Workshops in Ludwigsburg</p>
-    <span class="header-badge">sooraj.de</span>
+    <h1>Abenteuer Stadt! 🎨</h1>
+    <p>Finde die coolsten Workshops & Events in Ludwigsburg</p>
+    <span class="header-badge">✨ sooraj.de</span>
   </div>
 </header>
 
 <div class="filters-wrap">
   <div class="filters">
     <div class="filter-group">
-      <label>Von Datum</label>
+      <label>📅 Wann geht's los?</label>
       <input type="date" id="filter-date-from" />
     </div>
     <div class="filter-group">
-      <label>Bis Datum</label>
+      <label>🏁 Bis wann?</label>
       <input type="date" id="filter-date-to" />
     </div>
     <div class="filter-group">
-      <label>Alter</label>
+      <label>🎂 Wie alt bist du?</label>
       <select id="filter-age">
-        <option value="">Alle</option>
+        <option value="">Alle Altersgruppen</option>
         <option value="Ab 4 Jahren">Ab 4 Jahren</option>
         <option value="Ab 6 Jahren">Ab 6 Jahren</option>
         <option value="Ab 8 Jahren">Ab 8 Jahren</option>
         <option value="Ab 10 Jahren">Ab 10 Jahren</option>
         <option value="Ab 12 Jahren">Ab 12 Jahren</option>
-        <option value="Für Erwachsene">Erwachsene</option>
-        <option value="Kinder und Erwachsene">Familien</option>
-        <option value="Kinder (allgemein)">Kinder (allg.)</option>
+        <option value="Für Erwachsene">Für Große (Erwachsene)</option>
+        <option value="Kinder und Erwachsene">Kids & Eltern</option>
+        <option value="Kinder (allgemein)">Kinder (allgemein)</option>
       </select>
     </div>
     <div class="filter-group">
-      <label>Location</label>
+      <label>📍 Wo suchen wir?</label>
       <select id="filter-venue">
         <option value="">Alle Orte</option>
       </select>
     </div>
     <div class="filter-group">
-      <label>Kategorie</label>
+      <label>🎭 Was möchtest du machen?</label>
       <select id="filter-category">
-        <option value="">Alle Kategorien</option>
+        <option value="">Alle Abenteuer</option>
       </select>
     </div>
-    <button class="btn-reset" id="btn-reset">Filter zurücksetzen</button>
+    <button class="btn-reset" id="btn-reset">🗑️ Alles löschen</button>
     <span class="result-count" id="result-count"></span>
   </div>
 </div>
 
 <div class="search-wrap">
   <div class="search-box">
-    <span class="search-icon">🔍</span>
-    <input type="text" id="search-input" placeholder="Titel, Info oder Kursnummer suchen..." />
+    <span class="search-icon">🚀</span>
+    <input type="text" id="search-input" placeholder="Tippe hier, um nach Spaß zu suchen..." />
   </div>
 </div>
 
 <main>
   <div id="loading">
-    <div class="spinner"></div><br>Lade Events...
+    <div class="spinner"></div><br>Wir suchen die besten Abenteuer für dich...
   </div>
   <div id="event-list"></div>
 </main>
@@ -532,7 +535,7 @@
     </div>
     <div class="modal-footer">
       <a class="btn-link" id="modal-link" href="#" target="_blank" rel="noopener">
-        Offizielle Website öffnen ➔
+        Jetzt anmelden! ➔
       </a>
     </div>
   </div>
@@ -578,13 +581,14 @@ function renderEvents(events) {
   const list = document.getElementById('event-list');
   document.getElementById('result-count').textContent =
     events.length === allEvents.length
-      ? `${events.length} Events gefunden`
+      ? `${events.length} Abenteuer`
       : `${events.length} von ${allEvents.length}`;
 
   if (!events.length) {
     list.innerHTML = `
       <div class="empty-state">
-        <p>Keine passenden Events gefunden. Passe deine Suche an.</p>
+        <span class="big">🕵️‍♂️</span>
+        <p>Oh nein! Keine Abenteuer gefunden.<br>Versuche es mit anderen Filtern!</p>
       </div>`;
     return;
   }
@@ -599,24 +603,25 @@ function renderEvents(events) {
     return `
     <div class="event-card" style="animation-delay:${Math.min(i * 30, 300)}ms">
       <div class="card-meta">
-        ${ageTag ? `<span class="tag age">${ageTag}</span>` : ''}
-        ${otherCats.map(c => `<span class="tag">${c}</span>`).join('')}
-        <span class="tag venue">${decodeHtml(ev.Venue)}</span>
+        ${ageTag ? `<span class="tag age">🎈 ${ageTag}</span>` : ''}
+        ${otherCats.map(c => `<span class="tag">🏷️ ${c}</span>`).join('')}
+        <span class="tag venue">📍 ${decodeHtml(ev.Venue)}</span>
       </div>
       <h3 class="card-title">${decodeHtml(ev.Title)}</h3>
       ${ev.Subtitle ? `<div class="card-subtitle">${decodeHtml(ev.Subtitle)}</div>` : ''}
       <div class="card-info">
-        <span>🗓️ ${formatDate(ev.Date_Start)}${ev.Date_End && ev.Date_End !== ev.Date_Start ? ' – ' + formatDate(ev.Date_End) : ''}</span>
+        <span>📅 ${formatDate(ev.Date_Start)}${ev.Date_End && ev.Date_End !== ev.Date_Start ? ' – ' + formatDate(ev.Date_End) : ''}</span>
         ${ev.Time ? `<span>⏰ ${ev.Time}</span>` : ''}
-        ${ev.Course_Nr ? `<span>🎟️ Kurs: ${ev.Course_Nr}</span>` : ''}
+        ${ev.Course_Nr ? `<span>🎟️ Kurs-Nr: ${ev.Course_Nr}</span>` : ''}
       </div>
       <div class="card-footer">
-        <span class="price-badge">${decodeHtml(ev.Price) || 'Kostenlos'}</span>
-        <button class="btn-details" data-file="${ev.detail_file}" data-idx="${i}">Details</button>
+        <span class="price-badge">${decodeHtml(ev.Price) || '🎁 Kostenlos'}</span>
+        <button class="btn-details" data-file="${ev.detail_file}" data-idx="${i}">Details ✨</button>
       </div>
     </div>`;
   }).join('');
 
+  // bind detail buttons
   list.querySelectorAll('.btn-details').forEach(btn => {
     btn.addEventListener('click', () => {
       const idx = +btn.dataset.idx;
@@ -668,28 +673,30 @@ function openModal(ev, detailFile) {
   const cats = (ev.Categories || '').split(',').map(c => decodeHtml(c.trim()));
   const ageTag = extractAgeTag(ev);
   document.getElementById('modal-meta').innerHTML = `
-    ${ageTag ? `<span class="tag age">${ageTag}</span>` : ''}
-    <span class="tag">🗓️ ${formatDate(ev.Date_Start)}</span>
+    ${ageTag ? `<span class="tag age">🎈 ${ageTag}</span>` : ''}
+    <span class="tag">📅 ${formatDate(ev.Date_Start)}</span>
     ${ev.Time ? `<span class="tag">⏰ ${ev.Time}</span>` : ''}
     <span class="tag venue">📍 ${decodeHtml(ev.Venue)}</span>
-    <span class="tag">🏷️ ${decodeHtml(ev.Price)}</span>
+    <span class="tag">🪙 ${decodeHtml(ev.Price)}</span>
   `;
 
   const detailEl = document.getElementById('modal-detail');
-  detailEl.textContent = 'Lade Details...';
+  detailEl.textContent = 'Spannende Infos werden geladen... 🪄';
 
   overlay.classList.add('open');
   document.body.style.overflow = 'hidden';
 
+  // fetch detail txt
   fetch(detailFile)
     .then(r => r.ok ? r.text() : Promise.reject(r.status))
     .then(text => {
+      // strip the header block
       const parts = text.split(/={10,}/);
       const body = (parts[1] || parts[0]).trim();
       detailEl.textContent = body;
     })
     .catch(() => {
-      detailEl.textContent = 'Details konnten nicht geladen werden.';
+      detailEl.textContent = 'Ups! Die Infos haben sich versteckt. 🙈';
     });
 }
 
@@ -742,7 +749,7 @@ document.getElementById('btn-reset').addEventListener('click', () => {
   document.getElementById('filter-venue').value     = '';
   document.getElementById('filter-category').value  = '';
   document.getElementById('search-input').value     = '';
-  renderEvents(allEvents);
+  applyFilters();
 });
 
 ['filter-date-from','filter-date-to','filter-age','filter-venue','filter-category'].forEach(id => {
@@ -762,7 +769,7 @@ Papa.parse('manifest.csv', {
   },
   error(err) {
     document.getElementById('loading').innerHTML =
-      '<p style="color:var(--secondary)">Fehler beim Laden: ' + err.message + '</p>';
+      '<p style="color:var(--secondary)">Ohje! Ein Fehler beim Laden der Events: ' + err.message + '</p>';
   }
 });
 </script>
