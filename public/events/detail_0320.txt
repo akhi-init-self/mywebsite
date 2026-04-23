@@ -1,12 +1,12 @@
-TITLE:      Mythos Mätresse
-DATE_START: 01.05.2026
+TITLE:      Freifrau von Schwarzenfels
+DATE_START: 04.06.2026
 DATE_END:   –
-TIME:       11:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/mythos-maetresse/9331/769686
+TIME:       14:30
+URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/freifrau-von-schwarzenfels/9357/769922
 SOURCE:     schloss-ludwigsburg.de
 ============================================================
 
-Weitere Informationen zum ausgewählten Angebot: Mythos Mätresse
+Weitere Informationen zum ausgewählten Angebot: Freifrau von Schwarzenfels
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
 Ihre Einwilligung in die Speicherung der Cookies und den Zugriff darauf erfolgt nach § 25 Abs. 1 TTDSG, die Einwilligung in die weitere Datenverarbeitung nach Art. 6 Abs. 1 Buchstabe a) DSGVO.
@@ -317,21 +317,43 @@ Besuchsinformation
 Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
-Geliebte oder Karrierefrau?
-Mythos Mätresse
+Vom Charme des sorglosen Lebens
+Freifrau von Schwarzenfels
 Residenzschloss Ludwigsburg
-Sonderführung: Wissen & Staunen
-Veranstaltung mit: Laura Imprescia
-Termin: Freitag, 01.05.2026, 11:00
+Sonderführung: Perücke & Kostüm
+Veranstaltung mit: Claudine Iglesias Schmidt
+Termin: Donnerstag, 04.06.2026, 14:30
 Dauer: circa 75 Minuten
-Im Barock hatten Herrscher eine offizielle Geliebte, so auch am württembergischen Hof. Wie konnte eine Frau diese hohe Stellung erreichen – und wie behielt sie ihre Position als „zweite Dame“? Der Schlossrundgang führt zu den Orten, an denen die Mätressen der württembergischen Regenten lebten und wirkten. Vor dem Hintergrund der gesellschaftlichen Stellung der Frau im Barock erfährt man, was es mit dem „Mythos Mätresse“ auf sich hat, wie das Bild der emanzipierten Frau entstand und wie das Mätressentum sein Ende fand.
+Seit November 1766 weilt Herzog Carl Eugen in Venedig. Währenddessen nutzt Freifrau von Schwarzenfels die Gelegenheit, ihre Gäste heimlich durch die Räume des Herzogs zu führen. Diese „Neuen Zimmer“ hatte sich Carl Eugen erst vor Kurzem im Stil des Rokokos einrichten lassen. Die Hofdame berichtet vom höfischen Leben mit seinen prunkvollen Festen, Opern, Theater- und Spielabenden und von den ausgiebigen und teuren Reisen des Herzogs nach Frankreich und Italien.
 Service
 Alle Termine dieser Veranstaltung
-Freitag, 30. Januar 2026 | 11:00 Uhr
-Sonntag, 15. Februar 2026 | 11:00 Uhr
-Freitag,  1. Mai 2026 | 11:00 Uhr
-Sonntag, 27. September 2026 | 11:00 Uhr
-Sonntag, 27. Dezember 2026 | 11:00 Uhr
+Dienstag,  6. Januar 2026 | 13:30 Uhr
+Samstag, 17. Januar 2026 | 14:30 Uhr
+Samstag, 31. Januar 2026 | 11:30 Uhr
+Sonntag, 15. Februar 2026 | 13:30 Uhr
+Samstag, 28. Februar 2026 | 15:30 Uhr
+Samstag,  7. März 2026 | 14:30 Uhr
+Sonntag, 15. März 2026 | 12:30 Uhr
+Samstag, 21. März 2026 | 11:30 Uhr
+Samstag,  4. April 2026 | 11:30 Uhr
+Sonntag, 12. April 2026 | 11:30 Uhr
+Sonntag, 10. Mai 2026 | 14:30 Uhr
+Sonntag, 24. Mai 2026 | 12:30 Uhr
+Sonntag, 31. Mai 2026 | 13:30 Uhr
+Donnerstag,  4. Juni 2026 | 14:30 Uhr
+Sonntag,  7. Juni 2026 | 12:30 Uhr
+Samstag, 20. Juni 2026 | 15:30 Uhr
+Sonntag,  5. Juli 2026 | 15:30 Uhr
+Samstag, 15. August 2026 | 11:30 Uhr
+Sonntag, 23. August 2026 | 11:30 Uhr
+Sonntag,  6. September 2026 | 14:30 Uhr
+Sonntag, 13. September 2026 | 15:30 Uhr
+Samstag, 26. September 2026 | 14:30 Uhr
+Samstag, 10. Oktober 2026 | 14:30 Uhr
+Sonntag,  1. November 2026 | 12:30 Uhr
+Sonntag, 29. November 2026 | 14:30 Uhr
+Samstag, 12. Dezember 2026 | 12:30 Uhr
+Sonntag, 20. Dezember 2026 | 14:30 Uhr
 Adresse
 Residenzschloss Ludwigsburg
 Schlossstraße 30
@@ -350,7 +372,7 @@ Besucherzentrum
 Dauer
 Circa 75 Minuten
 Teilnehmerzahl
-maximal 25 Personen
+Maximal 20 Personen
 Preis
 Erwachsene 13,00 €
 Ermäßigte 6,50 €
@@ -360,7 +382,8 @@ Zusätzliche Termine für Gruppen können telefonisch oder per E-Mail vereinbart
 Gruppen bis 20 Personen: pauschal 234,00 €
 Gruppen ab 20 Personen: pro Person 11,70 €
 Hinweis
-Trittsicherheit erforderlich.
+Für Erwachsene und Jugendliche ab 12 Jahren geeignet.
+Nicht barrierefrei. Trittsicherheit erforderlich.
 Warme Kleidung im Herbst und Winter erforderlich.
 zur Ergebnisliste
 Kommen. Staunen. Genießen.

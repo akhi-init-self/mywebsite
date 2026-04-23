@@ -1,12 +1,12 @@
-TITLE:      Mythos Mätresse
-DATE_START: 01.05.2026
+TITLE:      Tiere im Schloss
+DATE_START: 01.06.2026
 DATE_END:   –
-TIME:       11:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/mythos-maetresse/9331/769686
+TIME:       14:30
+URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/tiere-im-schloss/9364/770192
 SOURCE:     schloss-ludwigsburg.de
 ============================================================
 
-Weitere Informationen zum ausgewählten Angebot: Mythos Mätresse
+Weitere Informationen zum ausgewählten Angebot: Tiere im Schloss
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
 Ihre Einwilligung in die Speicherung der Cookies und den Zugriff darauf erfolgt nach § 25 Abs. 1 TTDSG, die Einwilligung in die weitere Datenverarbeitung nach Art. 6 Abs. 1 Buchstabe a) DSGVO.
@@ -317,21 +317,23 @@ Besuchsinformation
 Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
-Geliebte oder Karrierefrau?
-Mythos Mätresse
+Bitte nicht füttern!
+Tiere im Schloss
 Residenzschloss Ludwigsburg
-Sonderführung: Wissen & Staunen
-Veranstaltung mit: Laura Imprescia
-Termin: Freitag, 01.05.2026, 11:00
-Dauer: circa 75 Minuten
-Im Barock hatten Herrscher eine offizielle Geliebte, so auch am württembergischen Hof. Wie konnte eine Frau diese hohe Stellung erreichen – und wie behielt sie ihre Position als „zweite Dame“? Der Schlossrundgang führt zu den Orten, an denen die Mätressen der württembergischen Regenten lebten und wirkten. Vor dem Hintergrund der gesellschaftlichen Stellung der Frau im Barock erfährt man, was es mit dem „Mythos Mätresse“ auf sich hat, wie das Bild der emanzipierten Frau entstand und wie das Mätressentum sein Ende fand.
+Sonderführung: Kinder & Familie
+Veranstaltung mit: Schlossteam
+Termin: Montag, 01.06.2026, 14:30
+Dauer: 1 Stunde
+Viele Schlossgäste kennen im Schlosshof die Löwen und Adler. Doch fast scheint es, als wäre im Barockschloss ein Zoo zu Hause, der auch magische Tiere mit sich führt. Der Rundgang für die ganze Familie führt in die Tierwelt und lüftet Geheimnisse um die nicht-menschlichen Bewohner des Residenzschlosses. Besucherinnen und Besucher suchen in verschiedenen Räumen der Residenz nach geflügelten und flauschigen Wesen: Es gibt winzig kleine Tiere und sogar ein Zauberpferd etwa in der Bildergalerie oder im Marmorsaal zu entdecken.
 Service
 Alle Termine dieser Veranstaltung
-Freitag, 30. Januar 2026 | 11:00 Uhr
-Sonntag, 15. Februar 2026 | 11:00 Uhr
-Freitag,  1. Mai 2026 | 11:00 Uhr
-Sonntag, 27. September 2026 | 11:00 Uhr
-Sonntag, 27. Dezember 2026 | 11:00 Uhr
+Montag, 30. März 2026 | 14:30 Uhr
+Dienstag,  7. April 2026 | 14:30 Uhr
+Montag,  1. Juni 2026 | 14:30 Uhr
+Montag, 17. August 2026 | 14:30 Uhr
+Montag, 24. August 2026 | 14:30 Uhr
+Montag,  7. September 2026 | 14:30 Uhr
+Montag, 26. Oktober 2026 | 14:30 Uhr
 Adresse
 Residenzschloss Ludwigsburg
 Schlossstraße 30
@@ -348,7 +350,7 @@ Schlosskasse
 Treffpunkt
 Besucherzentrum
 Dauer
-Circa 75 Minuten
+1 Stunde
 Teilnehmerzahl
 maximal 25 Personen
 Preis
@@ -357,11 +359,10 @@ Ermäßigte 6,50 €
 Familien 32,50 €
 Gruppen
 Zusätzliche Termine für Gruppen können telefonisch oder per E-Mail vereinbart werden.
-Gruppen bis 20 Personen: pauschal 234,00 €
-Gruppen ab 20 Personen: pro Person 11,70 €
+Gruppen bis 20 Personen: pauschal 130,00 €
+Gruppen ab 20 Personen: pro Person 6,50 €
 Hinweis
-Trittsicherheit erforderlich.
-Warme Kleidung im Herbst und Winter erforderlich.
+Für Familien mit Kindern von 6 bis 12 Jahren geeignet.
 zur Ergebnisliste
 Kommen. Staunen. Genießen.
 Residenzschloss Ludwigsburg

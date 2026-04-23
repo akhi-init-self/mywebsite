@@ -1,12 +1,12 @@
-TITLE:      Mythos Mätresse
-DATE_START: 01.05.2026
+TITLE:      Vom Gewölbe zum Genuss
+DATE_START: 06.06.2026
 DATE_END:   –
 TIME:       11:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/mythos-maetresse/9331/769686
+URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/vom-gewoelbe-zum-genuss/9319/769583
 SOURCE:     schloss-ludwigsburg.de
 ============================================================
 
-Weitere Informationen zum ausgewählten Angebot: Mythos Mätresse
+Weitere Informationen zum ausgewählten Angebot: Vom Gewölbe zum Genuss
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
 Ihre Einwilligung in die Speicherung der Cookies und den Zugriff darauf erfolgt nach § 25 Abs. 1 TTDSG, die Einwilligung in die weitere Datenverarbeitung nach Art. 6 Abs. 1 Buchstabe a) DSGVO.
@@ -317,21 +317,18 @@ Besuchsinformation
 Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
-Geliebte oder Karrierefrau?
-Mythos Mätresse
+Führung in den Bauch des Schlosses mit anschließendem Essen
+Vom Gewölbe zum Genuss
 Residenzschloss Ludwigsburg
-Sonderführung: Wissen & Staunen
-Veranstaltung mit: Laura Imprescia
-Termin: Freitag, 01.05.2026, 11:00
-Dauer: circa 75 Minuten
-Im Barock hatten Herrscher eine offizielle Geliebte, so auch am württembergischen Hof. Wie konnte eine Frau diese hohe Stellung erreichen – und wie behielt sie ihre Position als „zweite Dame“? Der Schlossrundgang führt zu den Orten, an denen die Mätressen der württembergischen Regenten lebten und wirkten. Vor dem Hintergrund der gesellschaftlichen Stellung der Frau im Barock erfährt man, was es mit dem „Mythos Mätresse“ auf sich hat, wie das Bild der emanzipierten Frau entstand und wie das Mätressentum sein Ende fand.
+Sonderführung: Genuss & Geschichte
+Veranstaltung mit: Mike Mack
+Termin: Samstag, 06.06.2026, 11:00
+Dauer: Circa 2 Stunde
+Der Ausflug in den „Bauch“ des Schlosses folgt dem Weg von Gemüse, Fisch, Fleisch und Co. vom Lagerraum über die Küche auf die fürstliche Tafel. Im Hintergrund der Diners und festlichen Anlässe lief die Küchenlogistik auf Hochtouren: Warmhalteöfen und versteckte Versorgungsgänge halfen, die Speisen zur richtigen Zeit mit der richtigen Temperatur zu servieren, sodass der Adel ungestört das Essen genießen konnte und von den komplexen Abläufen so wenig als möglich mitbekam. Diesen Wegen folgt die Führung und es wird auch verraten, was bei Hofe serviert wurde. Im Anschluss an den Rundgang geht es in das Café Schlosswache: Hier wird ein Eintopf serviert.
 Service
 Alle Termine dieser Veranstaltung
-Freitag, 30. Januar 2026 | 11:00 Uhr
-Sonntag, 15. Februar 2026 | 11:00 Uhr
-Freitag,  1. Mai 2026 | 11:00 Uhr
-Sonntag, 27. September 2026 | 11:00 Uhr
-Sonntag, 27. Dezember 2026 | 11:00 Uhr
+Samstag,  9. Mai 2026 | 11:00 Uhr
+Samstag,  6. Juni 2026 | 11:00 Uhr
 Adresse
 Residenzschloss Ludwigsburg
 Schlossstraße 30
@@ -348,20 +345,20 @@ Schlosskasse
 Treffpunkt
 Besucherzentrum
 Dauer
-Circa 75 Minuten
+Circa 2 Stunden
 Teilnehmerzahl
 maximal 25 Personen
 Preis
-Erwachsene 13,00 €
-Ermäßigte 6,50 €
-Familien 32,50 €
+Erwachsene 21,00 €
+Ermäßigte 14,50 €
+(Preis inklusive Gemüseeintopf; Getränke und weitere Speisen sind zusätzlich zu bezahlen)
 Gruppen
-Zusätzliche Termine für Gruppen können telefonisch oder per E-Mail vereinbart werden.
-Gruppen bis 20 Personen: pauschal 234,00 €
-Gruppen ab 20 Personen: pro Person 11,70 €
+Diese Führung ist für Gruppen nicht buchbar.
 Hinweis
-Trittsicherheit erforderlich.
+Nicht barrierefrei. Trittsicherheit erforderlich.
 Warme Kleidung im Herbst und Winter erforderlich.
+Der Eintopf ist vegetarisch, aber nicht vegan.
+Zur Planung ist eine Anmeldung spätestens zwei Tage vor Führungsbeginn erforderlich.
 zur Ergebnisliste
 Kommen. Staunen. Genießen.
 Residenzschloss Ludwigsburg

@@ -1,12 +1,12 @@
-TITLE:      Mythos Mätresse
-DATE_START: 01.05.2026
+TITLE:      Etikette und Intrigen
+DATE_START: 03.10.2026
 DATE_END:   –
-TIME:       11:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/mythos-maetresse/9331/769686
+TIME:       15:00
+URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/etikette-und-intrigen/9359/769962
 SOURCE:     schloss-ludwigsburg.de
 ============================================================
 
-Weitere Informationen zum ausgewählten Angebot: Mythos Mätresse
+Weitere Informationen zum ausgewählten Angebot: Etikette und Intrigen
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
 Ihre Einwilligung in die Speicherung der Cookies und den Zugriff darauf erfolgt nach § 25 Abs. 1 TTDSG, die Einwilligung in die weitere Datenverarbeitung nach Art. 6 Abs. 1 Buchstabe a) DSGVO.
@@ -317,21 +317,36 @@ Besuchsinformation
 Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
-Geliebte oder Karrierefrau?
-Mythos Mätresse
+Mit Gräfin von Weidenbach durchs Schloss
+Etikette und Intrigen
 Residenzschloss Ludwigsburg
-Sonderführung: Wissen & Staunen
-Veranstaltung mit: Laura Imprescia
-Termin: Freitag, 01.05.2026, 11:00
+Sonderführung: Perücke & Kostüm
+Veranstaltung mit: Julia Tluk
+Termin: Samstag, 03.10.2026, 15:00
 Dauer: circa 75 Minuten
-Im Barock hatten Herrscher eine offizielle Geliebte, so auch am württembergischen Hof. Wie konnte eine Frau diese hohe Stellung erreichen – und wie behielt sie ihre Position als „zweite Dame“? Der Schlossrundgang führt zu den Orten, an denen die Mätressen der württembergischen Regenten lebten und wirkten. Vor dem Hintergrund der gesellschaftlichen Stellung der Frau im Barock erfährt man, was es mit dem „Mythos Mätresse“ auf sich hat, wie das Bild der emanzipierten Frau entstand und wie das Mätressentum sein Ende fand.
+Endlich hat Herzog Eberhard Ludwig seiner Mätresse Wilhelmine von Grävenitz den Laufpass gegeben! Nach 25 Jahren darf seine Ehefrau Johanna Elisabeth wieder ins Ludwigsburger Schloss einziehen. Ihre Vertraute Gräfin von Weidenbach bereitet alles dafür vor und nimmt die Gäste mit auf eine unterhaltsame Zeitreise. Sie berichtet vom Leben am Hof Eberhard Ludwigs und den skandalösen Ereignissen um dessen langjährige Mätresse.
 Service
 Alle Termine dieser Veranstaltung
-Freitag, 30. Januar 2026 | 11:00 Uhr
-Sonntag, 15. Februar 2026 | 11:00 Uhr
-Freitag,  1. Mai 2026 | 11:00 Uhr
-Sonntag, 27. September 2026 | 11:00 Uhr
-Sonntag, 27. Dezember 2026 | 11:00 Uhr
+Samstag,  3. Januar 2026 | 15:00 Uhr
+Dienstag,  6. Januar 2026 | 15:00 Uhr
+Samstag,  7. Februar 2026 | 15:00 Uhr
+Sonntag,  8. Februar 2026 | 15:00 Uhr
+Samstag, 14. März 2026 | 15:00 Uhr
+Sonntag, 15. März 2026 | 15:00 Uhr
+Freitag,  3. April 2026 | 15:00 Uhr
+Samstag, 27. Juni 2026 | 11:00 Uhr
+Sonntag, 28. Juni 2026 | 11:00 Uhr
+Samstag,  4. Juli 2026 | 11:00 Uhr
+Sonntag,  5. Juli 2026 | 11:00 Uhr
+Samstag, 29. August 2026 | 11:00 Uhr
+Sonntag, 30. August 2026 | 11:00 Uhr
+Samstag, 19. September 2026 | 11:00 Uhr
+Sonntag, 20. September 2026 | 11:00 Uhr
+Samstag,  3. Oktober 2026 | 15:00 Uhr
+Samstag,  7. November 2026 | 15:00 Uhr
+Sonntag,  8. November 2026 | 15:00 Uhr
+Samstag, 19. Dezember 2026 | 15:00 Uhr
+Sonntag, 20. Dezember 2026 | 15:00 Uhr
 Adresse
 Residenzschloss Ludwigsburg
 Schlossstraße 30
@@ -360,7 +375,6 @@ Zusätzliche Termine für Gruppen können telefonisch oder per E-Mail vereinbart
 Gruppen bis 20 Personen: pauschal 234,00 €
 Gruppen ab 20 Personen: pro Person 11,70 €
 Hinweis
-Trittsicherheit erforderlich.
 Warme Kleidung im Herbst und Winter erforderlich.
 zur Ergebnisliste
 Kommen. Staunen. Genießen.

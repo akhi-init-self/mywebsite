@@ -1,12 +1,12 @@
-TITLE:      Mythos Mätresse
-DATE_START: 01.05.2026
+TITLE:      Zwischen List und Lust
+DATE_START: 05.09.2026
 DATE_END:   –
-TIME:       11:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/mythos-maetresse/9331/769686
+TIME:       14:00
+URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/zwischen-list-und-lust/9355/769894
 SOURCE:     schloss-ludwigsburg.de
 ============================================================
 
-Weitere Informationen zum ausgewählten Angebot: Mythos Mätresse
+Weitere Informationen zum ausgewählten Angebot: Zwischen List und Lust
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
 Ihre Einwilligung in die Speicherung der Cookies und den Zugriff darauf erfolgt nach § 25 Abs. 1 TTDSG, die Einwilligung in die weitere Datenverarbeitung nach Art. 6 Abs. 1 Buchstabe a) DSGVO.
@@ -317,21 +317,39 @@ Besuchsinformation
 Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
-Geliebte oder Karrierefrau?
-Mythos Mätresse
+Tête-à-Tête mit einer Mätresse bei Hof
+Zwischen List und Lust
 Residenzschloss Ludwigsburg
-Sonderführung: Wissen & Staunen
-Veranstaltung mit: Laura Imprescia
-Termin: Freitag, 01.05.2026, 11:00
+Sonderführung: Perücke & Kostüm
+Veranstaltung mit: Tabea Jasmin Schulz M. A.
+Termin: Samstag, 05.09.2026, 14:00
 Dauer: circa 75 Minuten
-Im Barock hatten Herrscher eine offizielle Geliebte, so auch am württembergischen Hof. Wie konnte eine Frau diese hohe Stellung erreichen – und wie behielt sie ihre Position als „zweite Dame“? Der Schlossrundgang führt zu den Orten, an denen die Mätressen der württembergischen Regenten lebten und wirkten. Vor dem Hintergrund der gesellschaftlichen Stellung der Frau im Barock erfährt man, was es mit dem „Mythos Mätresse“ auf sich hat, wie das Bild der emanzipierten Frau entstand und wie das Mätressentum sein Ende fand.
+Auf dem Rundgang führt Baronin zu Auerscheidt durchs Schloss und berichtet ganz unverblümt vom Leben, Aufstieg und Fall der Favoritinnen des Herzogs – und Carl Eugens Vorlieben: dem Theater, Italien, der Jagd und der Schönheit. Seine offizielle Favoritin ist die italienische Sopranistin Caterina Bonafini, doch die Baronin möchte selbst die erste Mätresse des Herzogs werden – und versucht, die Gunst des Augenblicks für sich zu nutzen.
 Service
 Alle Termine dieser Veranstaltung
-Freitag, 30. Januar 2026 | 11:00 Uhr
-Sonntag, 15. Februar 2026 | 11:00 Uhr
-Freitag,  1. Mai 2026 | 11:00 Uhr
-Sonntag, 27. September 2026 | 11:00 Uhr
-Sonntag, 27. Dezember 2026 | 11:00 Uhr
+Samstag,  3. Januar 2026 | 16:00 Uhr
+Samstag, 10. Januar 2026 | 14:00 Uhr
+Samstag, 10. Januar 2026 | 16:00 Uhr
+Samstag, 24. Januar 2026 | 16:00 Uhr
+Samstag,  7. Februar 2026 | 16:00 Uhr
+Samstag, 28. Februar 2026 | 14:00 Uhr
+Sonntag,  8. März 2026 | 14:00 Uhr
+Samstag, 21. März 2026 | 14:00 Uhr
+Samstag,  4. April 2026 | 14:00 Uhr
+Freitag,  1. Mai 2026 | 13:00 Uhr
+Samstag, 23. Mai 2026 | 14:00 Uhr
+Samstag, 13. Juni 2026 | 14:00 Uhr
+Samstag, 11. Juli 2026 | 14:00 Uhr
+Samstag, 22. August 2026 | 14:00 Uhr
+Samstag, 29. August 2026 | 16:00 Uhr
+Samstag,  5. September 2026 | 14:00 Uhr
+Samstag, 10. Oktober 2026 | 14:00 Uhr
+Samstag, 31. Oktober 2026 | 14:00 Uhr
+Samstag, 14. November 2026 | 14:00 Uhr
+Samstag, 28. November 2026 | 14:00 Uhr
+Samstag, 12. Dezember 2026 | 14:00 Uhr
+Samstag, 26. Dezember 2026 | 14:00 Uhr
+Donnerstag, 31. Dezember 2026 | 14:00 Uhr
 Adresse
 Residenzschloss Ludwigsburg
 Schlossstraße 30
