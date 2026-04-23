@@ -481,13 +481,14 @@
       <label>Altersgruppe</label>
       <select id="filter-age">
         <option value="">Alle Altersgruppen</option>
-        <option value="ab 4 Jahren">Ab 4 Jahren</option>
-        <option value="ab 6 Jahren">Ab 6 Jahren</option>
-        <option value="ab 8 Jahren">Ab 8 Jahren</option>
-        <option value="ab 10 Jahren">Ab 10 Jahren</option>
-        <option value="ab 12 Jahren">Ab 12 Jahren</option>
-        <option value="Erwachsene">Für Erwachsene</option>
+        <option value="Ab 4 Jahren">Ab 4 Jahren</option>
+        <option value="Ab 6 Jahren">Ab 6 Jahren</option>
+        <option value="Ab 8 Jahren">Ab 8 Jahren</option>
+        <option value="Ab 10 Jahren">Ab 10 Jahren</option>
+        <option value="Ab 12 Jahren">Ab 12 Jahren</option>
+        <option value="Für Erwachsene">Für Erwachsene</option>
         <option value="Kinder und Erwachsene">Kinder und Erwachsene</option>
+        <option value="Kinder (allgemein)">Kinder (allgemein)</option>
       </select>
     </div>
     <div class="filter-group">
@@ -569,8 +570,10 @@ function decodeHtml(str) {
   return str.replace(/&amp;/g, '&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
 }
 
-function extractAgeTag(categories) {
-  const ages = categories.filter(c => c.includes('Jahren') || c.includes('Erwachsene') || c.includes('Kinder und'));
+function extractAgeTag(ev) {
+  if (ev.age_group) return ev.age_group;
+  const cats = (ev.Categories || '').split(',').map(c => decodeHtml(c.trim())).filter(Boolean);
+  const ages = cats.filter(c => c.includes('Jahren') || c.includes('Erwachsene') || c.includes('Kinder und'));
   return ages[0] || null;
 }
 
@@ -599,8 +602,8 @@ function renderEvents(events) {
   }
 
   list.innerHTML = events.map((ev, i) => {
-    const cats = ev.Categories.split(',').map(c => decodeHtml(c.trim())).filter(Boolean);
-    const ageTag = extractAgeTag(cats);
+    const cats = ev.Categories ? ev.Categories.split(',').map(c => decodeHtml(c.trim())).filter(Boolean) : [];
+    const ageTag = extractAgeTag(ev);
     const otherCats = cats
       .filter(c => !c.includes('Jahren') && !c.includes('Erwachsene') && !c.startsWith('für Kinder und') && !c.startsWith('Workshops_') && !c.startsWith('alle '))
       .slice(0, 2);
@@ -656,13 +659,7 @@ function applyFilters() {
     if (fromDate && evDate && evDate < fromDate) return false;
     if (toDate   && evDate && evDate > toDate)   return false;
 
-    if (age) {
-      const ageLC = age.toLowerCase();
-      const inCategories = ev.Categories.toLowerCase().includes(ageLC);
-      const inTitle = (ev.Title || '').toLowerCase().includes(ageLC);
-      const inSubtitle = (ev.Subtitle || '').toLowerCase().includes(ageLC);
-      if (!inCategories && !inTitle && !inSubtitle) return false;
-    }
+    if (age && (ev.age_group || '') !== age) return false;
     if (venue && decodeHtml(ev.Venue) !== venue) return false;
     if (cat && !ev.Categories.includes(cat)) return false;
 
@@ -684,8 +681,8 @@ function openModal(ev, detailFile) {
   document.getElementById('modal-subtitle').textContent = decodeHtml(ev.Subtitle || '');
   document.getElementById('modal-link').href            = ev.Link || '#';
 
-  const cats = ev.Categories.split(',').map(c => decodeHtml(c.trim()));
-  const ageTag = extractAgeTag(cats);
+  const cats = (ev.Categories || '').split(',').map(c => decodeHtml(c.trim()));
+  const ageTag = extractAgeTag(ev);
   document.getElementById('modal-meta').innerHTML = `
     ${ageTag ? `<span class="tag age">👶 ${ageTag}</span>` : ''}
     <span class="tag">📅 ${formatDate(ev.Date_Start)}</span>
