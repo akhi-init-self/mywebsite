@@ -543,6 +543,14 @@
 
 <script>
 // ── Helpers ────────────────────────────────────────────────
+// Parse manifest dates in DD.MM.YYYY format
+function parseDDMMYYYY(str) {
+  if (!str) return null;
+  const m = str.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);
+  if (!m) return null;
+  return new Date(+m[3], +m[2] - 1, +m[1]);
+}
+
 function parseGermanDate(str) {
   if (!str) return null;
   const months = {
@@ -643,10 +651,18 @@ function applyFilters() {
   const toDate   = to   ? new Date(to)   : null;
 
   const filtered = allEvents.filter(ev => {
-    const evDate = parseGermanDate(ev.Date_Start);
+    // For date filtering, a single-day event has Date_End = Date_Start.
+    // Events with no Date_End (dash/empty) fall back to Date_Start so they
+    // are correctly excluded once their start date has passed.
+    const evStart = parseDDMMYYYY(ev.Date_Start) || parseGermanDate(ev.Date_Start);
+    const rawEnd  = ev.Date_End && ev.Date_End !== '–' && ev.Date_End.trim() !== ''
+                    ? ev.Date_End : ev.Date_Start;
+    const evEnd   = parseDDMMYYYY(rawEnd) || parseGermanDate(rawEnd) || evStart;
 
-    if (fromDate && evDate && evDate < fromDate) return false;
-    if (toDate   && evDate && evDate > toDate)   return false;
+    // Event must overlap the selected range:
+    //   event ends on or after fromDate  AND  event starts on or before toDate
+    if (fromDate && evEnd   && evEnd   < fromDate) return false;
+    if (toDate   && evStart && evStart > toDate)   return false;
 
     if (age && (ev.age_group || '') !== age) return false;
     if (venue && decodeHtml(ev.Venue) !== venue) return false;
@@ -690,9 +706,39 @@ function openModal(ev, detailFile) {
   fetch(detailFile)
     .then(r => r.ok ? r.text() : Promise.reject(r.status))
     .then(text => {
-      // strip the header block
+      // Strip the structured header block (everything up to the === separator)
       const parts = text.split(/={10,}/);
-      const body = (parts[1] || parts[0]).trim();
+      let body = (parts[1] || parts[0]).trim();
+
+      // Clean scraped noise from body text:
+      // 1. Remove cookie banner boilerplate (from "Wir nutzen Cookies" onward)
+      body = body.replace(/Wir nutzen Cookies[\s\S]*/i, '').trim();
+      // 2. Remove site navigation junk lines (Gehe zum ..., Zurück, Impressum etc.)
+      const noisePatterns = [
+        /^Gehe zum .*/gm,
+        /^Gebärdensprache\s*$/gm,
+        /^leichte Sprache\s*$/gm,
+        /^Zurück\s*$/gm,
+        /^Impressum\s*$/gm,
+        /^Datenschutz\w*\s*$/gm,
+        /^Cookies\s*$/gm,
+        /^Barrierefreiheit\s*$/gm,
+        /^Kontakt\s*$/gm,
+        /^anmelden\s*$/gm,
+        /^Zum Seitenanfang\s*$/gm,
+        /^OpenStreetMap\s*$/gm,
+        /^Fahrplanauskunft\s*$/gm,
+        /^Powered by .*$/gm,
+        /^Veranstaltungen\s*$/gm,
+        /^Ausstellungen\s*$/gm,
+        /^Newsletter\s*$/gm,
+        /^Anfahrt\s*$/gm,
+        /^Aktuelles\s*$/gm,
+      ];
+      noisePatterns.forEach(p => { body = body.replace(p, ''); });
+      // 3. Collapse 3+ consecutive blank lines into a single blank line
+      body = body.replace(/\n{3,}/g, '\n\n').trim();
+
       detailEl.textContent = body;
     })
     .catch(() => {
