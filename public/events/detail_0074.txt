@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Bühne frei! in Ludwigsburg
-SUBTITLE:   Theaterkurs für Kinder von 6-9 Jahren mit Sandra Willmann
-DATE_START: Mo 31. August 2026
-DATE_END:   Fr 4. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250832
-PRICE:      80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149655/index.html?nodeID=523254149655
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Bühne frei! in Ludwigsburg
+SUBTITLE    Theaterkurs für Kinder von 6-9 Jahren mit Sandra Willmann
+DATE_START  Mo 31. August 2026
+DATE_END    Fr 4. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250832
+PRICE       80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149655/index.html?nodeID=523254149655
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250832
 
 Du träumst schon immer davon, auf der Bühne zu stehen und in verschiedene Rollen zu schlüpfen? In diesem Theaterkurs sind wir mal laut, verrückt und ausgeflippt und mal ganz leise. Spielerisch trainieren wir Stimme, Körper, Bewegung und den Umgang mit Emotionen. Zum Ende der Woche machen wir eine kleine Werkschau, die wir am Freitag vor interessierten Eltern, Verwandten und Bekannten präsentieren.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

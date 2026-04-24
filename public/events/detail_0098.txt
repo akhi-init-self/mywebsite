@@ -1,16 +1,15 @@
-TITLE:      Workshop: Eine alte Handtasche aus Ton für Kinder ab 6 Jahren in Ludwigsburg
-SUBTITLE:   mit Vitali Safronov
-DATE_START: Sa 2. Mai 2026
-DATE_END:   So 3. Mai 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  L250502
-PRICE:      45,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250642517/index.html?nodeID=523250642517
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Eine alte Handtasche aus Ton für Kinder ab 6 Jahren in Ludwigsburg
+SUBTITLE    mit Vitali Safronov
+DATE_START  Sa 2. Mai 2026
+DATE_END    So 3. Mai 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250502
+PRICE       45,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250642517/index.html?nodeID=523250642517
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250502
 
 Alte Handtaschen haben ihren besonderen ästhetischen Reiz durch die besonderen, aufwendig gearbeiteten Formen und Farben und den Spuren des Verschleißes des Materials. Wir wollen versuchen, mit Tonschlangen und dünnen Tonplatten eine alte, gebrauchte Handtasche nachzubauen. Dabei haben wir ein Modell, das als Vorbild und Inspirationsquelle dient, vor uns auf dem Tisch stehen. Mit etwas Geschick, Verzierungen und Bemalung, wird unsere Tonhandtasche ähnlich aussehen wie das Original aus Leder.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

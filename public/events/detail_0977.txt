@@ -1,61 +1,24 @@
-TITLE:      KreativWerkstatt - Alles über Geräusche
-CODE:       26K11
-SUBTITLE:   26K11
-DATE_START: 30.10.2026
-DATE_END:   30.10.2026
-TIME:       –
-VENUE:      Veranstaltungsraum
-CATEGORY:   Für Kinder
-LEADER:     
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69de1377799e5.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       KreativWerkstatt - Alles über Geräusche
+SUBTITLE    26K11
+DATE_START  30.10.2026
+DATE_END    30.10.2026
+VENUE       Veranstaltungsraum
+CODE        26K11
+PRICE       kostenfrei
+CATEGORY    Für Kinder
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69de1377799e5.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-KreativWerkstatt - Alles über Geräusche
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-KreativWerkstatt - Alles über Geräusche
 Buch und Aktion
 Hören, Fühlen, Sehen, Staunen, Ausprobieren und Kreativsein – das geht alles in der KreativWerkstatt. Mit Buch, Fühlkisten und kreativen Aktionen nähern wir uns spannenden Themen und nehmen diese ganz genau unter die Lupe.
 Für Grundschulkinder.
-Zeiten
-1 Vormittag, 30.10.2026
 Freitag, 10:00 - 11:30 Uhr
-Anzahl
-1 Termin(e)
 Fr 30.10.2026
 10:00 - 11:30 Uhr
-Kinderbücherei
-Leitung
-Nummer
 26K11
-Ort
-Kinderbücherei
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen
 Anmelden
 Belegung:
 (Plätze frei)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

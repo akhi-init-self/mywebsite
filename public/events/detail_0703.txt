@@ -1,28 +1,14 @@
-TITLE:      Sommerferienworkshop: Abenteuer Manege! in Bietigheim
-DATE_START: 07.09.2026
-DATE_END:   11.09.2026
-TIME:       07:09 - 11:09
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254139378/SommerferienworkshopAbenteuerManegeinBietigheim.html?nodeID=523254139378
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Sommerferienworkshop: Abenteuer Manege! in Bietigheim
+DATE_START  07.09.2026
+DATE_END    11.09.2026
+TIME        07:09 - 11:09
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254139378/SommerferienworkshopAbenteuerManegeinBietigheim.html?nodeID=523254139378
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Sommerferienworkshop: Abenteuer Manege! in Bietigheim -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Montag, 07.09.2026
--
 Freitag, 11.09.2026
-|
 13.30-16.30 Uhr
-Sommerferienworkshop: Abenteuer Manege! in Bietigheim
 Zirkuswerkstatt für Kinder von 9-12 Jahren mit Till Schneidenbach
 Kursnummer: B250915
 Akrobatik, Jonglage und Clownerie -  jeder kann sich in diesem Ferienworkshop in den verschiedenen Zirkuskünsten ausprobieren. Wir lassen Bälle, Ringe und Keulen durch die Luft fliegen und halten die Balance auf Einrad oder Rola Bola. Nachdem ihr die verschiedenen Zirkusdisziplinen kennen gelernt habt, probt ihr mit eurer Gruppe eigene Zirkusnummern. Am Ende der Woche fügen wir die Nummern zu einer kleinen Zirkusgala zusammen.
@@ -32,92 +18,10 @@ Gebühr: 80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr
 Anmeldungen schriftlich bis spätestens Sonntag, 26. Juli 2026 per E-Mail: kunstschule@ludwigsburg.de per Post: Kunstschule Labyrinth, Hindenburgstr. 29, 71638 Ludwigsburg
 Anmeldeformulare unter
 www.kunstschule-labyrinth.de
-Veranstaltungsort
-Kunstschule Labyrinth, Bietigheim-Bissingen
 Kunstschule Labyrinth, Bietigheim-Bissingen
 Hauptstraße 79
-OpenStreetMap
-Veranstalter
-Kunstschule Labyrinth
-Kunstschule Labyrinth
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-www.kunstschule-labyrinth.de
-Telefon
-(07
-14
-19
-10
-32
+(07 14 19 10 32
 48) 32
 41
-Kategorie
 Familie & Kinder
-|
-alle Ferienworkshops
-|
 für Kinder ab 10 Jahren
-|
-Sommerferienworkshops
-|
-Kunstzentrum Karlskaserne
-|
-Kinder und Jugendliche
-|
-Workshops_Karlskaserne
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

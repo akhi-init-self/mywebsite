@@ -1,14 +1,10 @@
-TITLE:      Finissage im Salon
-SUBTITLE:   Markus Gehrig | BOXES
-DATE_START: 19.03.2026
-DATE_END:   19.03.2026
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Finissage im Salon
+SUBTITLE    Markus Gehrig | BOXES
+DATE_START  19.03.2026
+DATE_END    19.03.2026
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 19.03.2026
-Finissage im Salon
 Markus Gehrig | BOXES
 Eintritt frei!

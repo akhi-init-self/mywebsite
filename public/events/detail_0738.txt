@@ -1,14 +1,10 @@
-TITLE:      Finissage im Whitespace
-SUBTITLE:   Stephanie Lüning | YOUR TURN
-DATE_START: 19.03.2026
-DATE_END:   19.03.2026
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Finissage im Whitespace
+SUBTITLE    Stephanie Lüning | YOUR TURN
+DATE_START  19.03.2026
+DATE_END    19.03.2026
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 19.03.2026
-Finissage im Whitespace
 Stephanie Lüning | YOUR TURN
 Eintritt frei!

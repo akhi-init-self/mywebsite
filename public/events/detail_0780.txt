@@ -1,15 +1,11 @@
-TITLE:      Finissage
-SUBTITLE:   Müller & Sohn + Ko | Markus Hallstein
-DATE_START: 27.09.2024
-DATE_END:   27.09.2024
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Finissage
+SUBTITLE    Müller & Sohn + Ko | Markus Hallstein
+DATE_START  27.09.2024
+DATE_END    27.09.2024
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 27.09.2024
-Finissage
 Müller & Sohn + Ko | Markus Hallstein
 Mit Anwesenheit der Künstler*innen.
 Eintritt frei!

@@ -1,22 +1,16 @@
-TITLE:      Forró-Abend
-SUBTITLE:   mit Live-Musik der Forró-Haus Band
-DATE_START: 21.11.2024
-DATE_END:   21.11.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/28-forro-abend/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Forró-Abend
+SUBTITLE    mit Live-Musik der Forró-Haus Band
+DATE_START  21.11.2024
+DATE_END    21.11.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/28-forro-abend/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,23 +20,11 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 21.11.2024
-Forró-Abend
 mit Live-Musik der Forró-Haus Band
 Previous
 Next
 Die Forró Haus-Band, eine Gruppe leidenschaftlicher Musiker, führt Sie in die Welt des Forró ein, einem Paartanz, der für seine Leichtigkeit und Vielseitigkeit bekannt ist. Diese Tanzart, die aus dem Nordosten Brasiliens stammt, unterscheidet sich von den oft vermuteten Salsa-Rhythmen und bietet eine einzigartige Mischung aus Musik und Bewegung, die in Europa immer mehr Begeisterte findet.
 Der Abend beginnt mit einer Einführung in die Grundschritte des Forró, sodass jeder, unabhängig von Tanzkenntnissen, die Möglichkeit hat, sich auf der Tanzfläche zu versuchen. Begleitet von der traditionellen Musik tauchen wir gemeinsam in das authentische brasilianische Flair ein.
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -58,19 +40,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

@@ -1,22 +1,16 @@
-TITLE:      Vernissage
-SUBTITLE:   Müller & Sohn + Ko | Markus Hallstein
-DATE_START: 12.07.2024
-DATE_END:   12.07.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/9-vernissage/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage
+SUBTITLE    Müller & Sohn + Ko | Markus Hallstein
+DATE_START  12.07.2024
+DATE_END    12.07.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/9-vernissage/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 12.07.2024
-Vernissage
 Müller & Sohn + Ko | Markus Hallstein
 Begeben Sie sich bei der Vernissage der Ausstellung von Müller & Sohn und Ko (Whitespace) auf eine künstlerische Reise, mit der wir auch das 50-jährige Jubiläum des Kunstvereins Ludwigsburg feiern. Tauchen Sie ein in eine Welt, die nicht nur die Räumlichkeiten des
 KVL
@@ -39,17 +32,6 @@ Programm:
 > Ansprache von Macit Karaahmetoğlu (MdB)
 > Einführung in die Ausstellungen
 Der Eintritt ist frei!
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -65,19 +47,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

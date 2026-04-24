@@ -1,22 +1,17 @@
-TITLE:      Jazzclub Ludwigsburg x Kunstverein
-SUBTITLE:   DUO - Albe Mayer-Mikosch und Uli Gutscher
-DATE_START: 03.12.2026
-DATE_END:   03.12.2026
-TIME:       19:30 Uhr
-SECTION:    upcoming
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/86-jazzclub-ludwigsburg-x-kunstverein/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Jazzclub Ludwigsburg x Kunstverein
+SUBTITLE    DUO - Albe Mayer-Mikosch und Uli Gutscher
+DATE_START  03.12.2026
+DATE_END    03.12.2026
+TIME        19:30 Uhr
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/86-jazzclub-ludwigsburg-x-kunstverein/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     upcoming
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +21,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 03.12.2026 - 19:30 Uhr
-Jazzclub Ludwigsburg x Kunstverein
 DUO - Albe Mayer-Mikosch und Uli Gutscher
 Previous
 Next
@@ -35,17 +29,6 @@ In ihrem Duo-Projekt präsentieren die beiden Eigenkompositionen mit viel Swing,
 Besetzung:
 Albe Mayer-Mikosch – Gitarre, Gesang
 Uli Gutscher               – Posaune, Klavier
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -61,19 +44,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

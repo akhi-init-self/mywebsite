@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Contemporary Dance für Kinder und Jugendliche von 10-14 Jahren in Ludwigsburg
-SUBTITLE:   mit Melissa Lucatello
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250550
-PRICE:      68,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640563/index.html?nodeID=523250640563
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Contemporary Dance für Kinder und Jugendliche von 10-14 Jahren in Ludwigsburg
+SUBTITLE    mit Melissa Lucatello
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250550
+PRICE       68,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640563/index.html?nodeID=523250640563
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250550
 
 Taucht ein in die Welt des zeitgenössischen Tanzes! Der Kurs bietet eine kreative Plattform für die Erkundung individueller Bewegungsausdrücke. Von Improvisation über Technik bis hin zu Choreographie - entdeckt die Vielfalt dieses dynamischen Genres. Findet eure künstlerische Stimme und entwickelt diese. Es sind keine Vorkenntnisse erforderlich, nur die Bereitschaft, sich zu bewegen und zu experimentieren. Bitte zieht sportliche Kleidung an, Schuhe mit abriebfester, heller Sohle und nehmt Essen und Trinken mit.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

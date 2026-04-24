@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Geschichten schreiben und illustrieren in Ludwigsburg
-SUBTITLE:   Schreiben und Illustrieren für Kinder von 8-10 Jahren mit Javiera Advis
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250741
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254184604/index.html?nodeID=523254184604
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Geschichten schreiben und illustrieren in Ludwigsburg
+SUBTITLE    Schreiben und Illustrieren für Kinder von 8-10 Jahren mit Javiera Advis
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250741
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254184604/index.html?nodeID=523254184604
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250741
 
 In diesem Workshop werden wir die schönsten und lustigsten Geschichten schreiben und sogar selbst illustrieren. Mit Mal- und Zeichentechniken gehen wir ans Werk und beschäftigen uns mit Text und Bild. Ob vom größten Apfel der Welt oder vom Geheimnis einer Zauberin berichtet wird: die Dozentin zeigt euch, wie aus einer Idee ein Buch wird. Bringt einfach viel Fantasie mit, Lust zum Malen und Fabulieren. Am Ende des Workshops könnt ihr euer eigenes wundervolles Buch mit nach Hause nehmen und bewundern lassen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

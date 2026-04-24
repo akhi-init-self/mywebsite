@@ -1,22 +1,16 @@
-TITLE:      Kick-Off 2025/2026
-SUBTITLE:   Austausch zu Ideen und Vorschlägen für zukünftige Ausstellungen
-DATE_START: 17.01.2025
-DATE_END:   17.01.2025
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/32-kick-off-2025-2026/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Kick-Off 2025/2026
+SUBTITLE    Austausch zu Ideen und Vorschlägen für zukünftige Ausstellungen
+DATE_START  17.01.2025
+DATE_END    17.01.2025
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/32-kick-off-2025-2026/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 17.01.2025
-Kick-Off 2025/2026
 Austausch zu Ideen und Vorschlägen für zukünftige Ausstellungen
 Previous
 Next
@@ -36,17 +29,6 @@ Herzlich eingeladen sind alle Interessierten, egal, ob Mitglieder oder nicht :-)
 Damit kein Magen knurrt, sorgen wir für Vesper!
 Für unsere Planung und Vorbereitung bitten wir daher um Anmeldung per Mail an
 mail@kunstverein-ludwigsburg.de
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -62,19 +44,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

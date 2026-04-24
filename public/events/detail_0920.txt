@@ -1,79 +1,27 @@
-TITLE:      Emmas Einhorn
-CODE:       26K06
-SUBTITLE:   26K06
-DATE_START: 20.06.2026
-DATE_END:   20.06.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Für Kinder
-LEADER:     Kerstin Molitor
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx693a9a8befca4.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Emmas Einhorn
+SUBTITLE    26K06
+DATE_START  20.06.2026
+DATE_END    20.06.2026
+VENUE       Ludwigsburg
+CODE        26K06
+PRICE       kostenfrei
+CATEGORY    Für Kinder
+LEADER      Kerstin Molitor
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx693a9a8befca4.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Emmas Einhorn
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Emmas Einhorn
 Literarisches Bilderbuchkonzert für Familien
 Die Stadtbibliothek und die Jugendmusikschule Ludwigsburg e.V. laden ein zu einem Familienkonzert der besonderen Art. Wir lesen ein stimmungsvoll illustriertes Bilderbuch über die Kraft von Fantasie und Freundschaft. Die zauberhafte Geschichte wird von Schülerinnen und Schülern der Jugendmusikschule Ludwigsburg auf ihren Instrumenten musikalisch in Szene gesetzt.
 Für Familien mit Kindern ab 4 Jahren
 Der Eintritt ist kostenlos.
 Keine Anmeldung erforderlich.
-Zeiten
-1 Vormittag, 20.06.2026
 Samstag, 11:00 - 12:00 Uhr
-Anzahl
-1 Termin(e)
 Sa 20.06.2026
 11:00 - 12:00 Uhr
 Kulturzentrum
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Großer Saal
-Leitung
 Kerstin Molitor
-Nummer
 26K06
-Ort
-Kulturzentrum
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Großer Saal
-Preis
 kostenfrei
 ohne Anmeldung!
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Kerstin
-Molitor
-Bilderbuchstunde
-26K09
-Vorlesezeit für alle
-06.05.26
-(1-mal)
-16:00
-- 17:00
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

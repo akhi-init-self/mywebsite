@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Die Wunderwelt der Stempel und Schablonen in Ludwigsburg
-SUBTITLE:   Zeichnen, Malen, Gestalten für Kinder von 8-10 Jahren Jahren mit Javiera Advis
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250734
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138860/index.html?nodeID=523254138860
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Die Wunderwelt der Stempel und Schablonen in Ludwigsburg
+SUBTITLE    Zeichnen, Malen, Gestalten für Kinder von 8-10 Jahren Jahren mit Javiera Advis
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250734
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138860/index.html?nodeID=523254138860
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250734
 
 In diesem Kurs werden wir aus einfachen Materialien unsere eigenen Stempel und Schablonen herstellen. Mit Gespür für Form, Farbe und Gestaltung werden wir alles Mögliche stempeln: Textilien, einzigartige Postkarten, Lesezeichen, Klappkarten oder ein eigenes Kunstwerk. Zum Schluss haben wir die Gelegenheit, unsere Kunstwerke zu verzieren und mit nach Hause zu nehmen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

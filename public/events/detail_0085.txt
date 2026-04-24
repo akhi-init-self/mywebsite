@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Abenteuer Manege! in Bietigheim
-SUBTITLE:   Zirkuswerkstatt für Kinder von 9-12 Jahren mit Till Schneidenbach
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  B250915
-PRICE:      80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139378/index.html?nodeID=523254139378
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Abenteuer Manege! in Bietigheim
+SUBTITLE    Zirkuswerkstatt für Kinder von 9-12 Jahren mit Till Schneidenbach
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250915
+PRICE       80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139378/index.html?nodeID=523254139378
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250915
 
 Akrobatik, Jonglage und Clownerie -  jeder kann sich in diesem Ferienworkshop in den verschiedenen Zirkuskünsten ausprobieren. Wir lassen Bälle, Ringe und Keulen durch die Luft fliegen und halten die Balance auf Einrad oder Rola Bola. Nachdem ihr die verschiedenen Zirkusdisziplinen kennen gelernt habt, probt ihr mit eurer Gruppe eigene Zirkusnummern. Am Ende der Woche fügen wir die Nummern zu einer kleinen Zirkusgala zusammen.

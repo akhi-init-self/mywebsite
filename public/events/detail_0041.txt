@@ -1,16 +1,13 @@
-TITLE:      Workshop: Tonwerkstatt ab 8 Jahren
-SUBTITLE:   Raum für Ton – Eine offene Werkstatt für alle
-DATE_START: Mi 6. Mai 2026
-DATE_END:   Mi 6. Mai 2026
-TIME:       15.00 – 17.00 Uhr
-COURSE_NR:  –
-PRICE:      –
-CATEGORIES: für Kinder ab 8 Jahren
-VENUE:      Kinder- und Familienzentrum Neckarweihingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254165865/index.html?nodeID=523254165865
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Tonwerkstatt ab 8 Jahren
+SUBTITLE    Raum für Ton – Eine offene Werkstatt für alle
+DATE_START  Mi 6. Mai 2026
+DATE_END    Mi 6. Mai 2026
+TIME        15.00 – 17.00 Uhr
+VENUE       Kinder- und Familienzentrum Neckarweihingen
+CATEGORIES  für Kinder ab 8 Jahren
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254165865/index.html?nodeID=523254165865
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 In der Tonwerkstatt können ganz eigene Ideen aus Ton gestaltet werden. Es werden zwei Termine für Kinder
 ab 8 Jahren
 angeboten.

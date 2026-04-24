@@ -1,11 +1,8 @@
-TITLE:      Freier Rundgang
-DATE_START: täglich
-DATE_END:   –
-TIME:       –
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zur-gewaehlten-standardfuehrung/auf-neuen-wegen-2/5693/1
-SOURCE:     schloss-ludwigsburg.de
+TITLE       Freier Rundgang
+DATE_START  täglich
+URL         https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zur-gewaehlten-standardfuehrung/auf-neuen-wegen-2/5693/1
+SOURCE      schloss-ludwigsburg.de
 ============================================================
-
 Weitere Informationen zur gewählten Standardführung
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
@@ -15,14 +12,12 @@ Allen Cookies zustimmen
 Cookie-Einstellungen anzeigen
 Cookie-Einstellungen ausblenden
 Notwendige Cookies
-Notwendige Cookies
 Diese Cookies sind zur Funktion der Webseite erforderlich und können von Ihnen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, z.B. beim Ausfüllen von Formularen. So lassen sich die verschiedenen Anfragen Ihres Browsers einer gemeinsamen Sitzung zuordnen. Dadurch wird ihr Rechner wiedererkannt, wenn Sie auf die Webseite zurückkehren. Sie können Ihren Browser so einstellen, dass dieser Cookies blockiert. Es stehen dann jedoch nicht mehr alle Funktionalitäten dieser Seite zur Verfügung.
 fe_typo_user
 Dieses Session-Cookie speichert eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf die Webseite zurückkehren. Das Session-Cookie wird gelöscht, wenn Sie den Browser schließen.
 ssgOptIn
 Speicherdauer 1 Jahr.
 ssgOptIn ist der Cookie, der gesetzt wird, wenn man Cookies zustimmt. Dieses Cookie wird dauerhaft gespeichert, damit wir Ihre Cookie-Präferenzen bei Ihrem nächsten Besuch unserer Webseite erkennen.
-Tracking Cookies
 Tracking Cookies
 Auf dieser Webseite werden mit Technologien von Matomo (www.matomo.org) Daten zu Marketing- und Optimierungszwecken gesammelt und anonym gespeichert. Diese Cookies ermöglichen es uns, z.B. Seitenaufrufe und Klicks zu zählen, damit wir die Leistung unserer Webseite messen und verbessern können.
 _pk_id
@@ -34,7 +29,6 @@ Dieses Cookie speichert die Information der vorherig besuchten Webseite (Referre
 pk_ses
 Speicherdauer: 30 Minuten.
 Dieses Cookie speichert temporär Daten während der Nutzung unserer Webseite.
-Cookies von Drittanbietern
 Cookies von Drittanbietern
 Auf unserer Website sehen Sie eingebettete Inhalte von Facebook, X und Instagram. Es werden werden Cookies von Facebook, X und Instagram gesetzt.
 Auf unserer Website sehen Sie eingebettete Videos, die auf unserem Youtube-Kanal hochgeladen wurden. Bei Wiedergabe dieser Videos werden Cookies von YouTube gesetzt.
@@ -64,20 +58,14 @@ Auf einen Blick: Besuchsinformation
 Preise
 Führungen & Veranstaltungen
 Leichte Sprache
-Gebärdensprache
-Barrierefreiheit
 Hinweise
 Barrierefreier Touchscreen
 Broschüren
-Gastronomie
 Radfahren & Wandern
-Anfahrt
-Kontakt
 Erlebnis Schloss & Garten
 Auf einen Blick: Erlebnis Schloss & Garten
 Schloss & Garten
 Verborgene Schätze
-Ausstellungen
 Escape Room Kriminalakte Württemberg
 Angebote für Gäste
 Region
@@ -104,12 +92,8 @@ Auf einen Blick: Presse
 Pressemeldungen
 Pressebilder
 Pressekontakt
-Besuchsinformation
-Führungen & Veranstaltungen
 Aktuell:
-Weitere Informationen zur gewählten Standardführung
 Zum Hauptinhalt springen
-Schlösser
 Schloss Heidelberg
 Residenzschloss Ludwigsburg
 Schloss und Schlossgarten Weikersheim
@@ -132,50 +116,18 @@ Auf einen Blick Alle Schlösser
 Themenwelt
 „Macht und Widerstand“
 Mehr
-Themenwelt
 „Feuer und Wasser“
-Mehr
-Themenwelt
 „Liebe, Lust, Leidenschaft“
-Mehr
-Themenwelt
 „Unendlich schön“
-Mehr
-Themenwelt
 „Ziemlich gute Freunde“
-Mehr
-Themenwelt
 „Von Tisch und Tafel“
-Mehr
 Newsletter Anmeldung
 Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
 Kostenlos anmelden
-Gärten
-Schloss und Schlossgarten Schwetzingen
-Schloss und Schlossgarten Weikersheim
-Schloss Favorite Rastatt
 Kur- und Schlosspark Badenweiler
 Botanischer Garten Karlsruhe
-Schloss Bruchsal
-Schloss Heidelberg
-Residenzschloss Mergentheim
-Residenzschloss Rastatt
-Residenzschloss Ludwigsburg
 Auf einen Blick Alle Gärten
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Feuer und Wasser“
-Mehr
-Themenwelt
 „Welt der Gärten“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Burgen
-Schloss Heidelberg
 Festungsruine Hohentwiel
 Burg Rötteln
 Festungsruine Hohenneuffen
@@ -188,22 +140,8 @@ Yburg bei Baden-Baden
 Burg Alt-Eberstein
 Burgruine Hohenstaufen
 Auf einen Blick Alle Burgen
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Ziemlich gute Freunde“
-Mehr
-Themenwelt
 „Über Kreuz“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Klöster
 Kloster Maulbronn
-Kloster und Schloss Salem
-Kloster und Schloss Bebenhausen
 Kloster Wiblingen
 Kloster Lorch
 Kloster Schussenried
@@ -214,28 +152,6 @@ Kloster Alpirsbach
 Kloster Ochsenhausen
 Kloster Heiligkreuztal
 Auf einen Blick Alle Klöster
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Feuer und Wasser“
-Mehr
-Themenwelt
-„Liebe, Lust, Leidenschaft“
-Mehr
-Themenwelt
-„Unendlich schön“
-Mehr
-Themenwelt
-„Ziemlich gute Freunde“
-Mehr
-Themenwelt
-„Von Tisch und Tafel“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Kleinode
 Grabkapelle auf dem Württemberg
 Heuneburg – Stadt Pyrene
 Sammlung Domnick
@@ -244,15 +160,6 @@ Fürstenhäusle Meersburg
 Grabkapelle Karlsruhe
 Römische Badruine Hüfingen
 Auf einen Blick Alle Kleinode
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Liebe, Lust, Leidenschaft“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
 DE
 EN
 FR
@@ -262,108 +169,41 @@ es
 ru
 cn
 jp
-Residenzschloss Ludwigsburg
 Eines der grössten Barockschlösser Deutschlands
-Start
-Besuchsinformation
-Auf einen Blick: Besuchsinformation
-Öffnungszeiten
-Preise
-Führungen & Veranstaltungen
-Leichte Sprache
-Gebärdensprache
-Barrierefreiheit
-Hinweise
-Barrierefreier Touchscreen
-Broschüren
-Gastronomie
-Radfahren & Wandern
-Anfahrt
-Kontakt
-Erlebnis Schloss & Garten
-Auf einen Blick: Erlebnis Schloss & Garten
-Schloss & Garten
-Verborgene Schätze
-Ausstellungen
-Escape Room Kriminalakte Württemberg
-Angebote für Gäste
-Region
-Wissenswert & amüsant
-Auf einen Blick: Wissenswert & Amüsant
-Meilensteine
-Persönlichkeiten
-Anekdoten
-Stilgeschichte
-Zeitreise
-Dossiers
-Lesetipps
-Heiraten & Feiern
-Auf einen Blick: Heiraten & Feiern
-Feiern
-Tagen
-Heiraten
-Gruppen & Schulen
-Auf einen Blick: Gruppen & Schulen
-Angebote für Gruppen
-Angebote für Schulen
-Presse
-Auf einen Blick: Presse
-Pressemeldungen
-Pressebilder
-Pressekontakt
-Portal
-Suchbegriff
-Besuchsinformation
-Führungen & Veranstaltungen
-Aktuell:
-Weitere Informationen zur gewählten Standardführung
 Bitte beachten Sie:
 Das Schlosstheater ist an folgenden Terminen nicht zu besichtigen: 13.06. / 18.06. / 27.06. / 30.06. / 01.07.
-Residenzschloss Ludwigsburg
 Standardführungen
-Freier Rundgang
 Freier Rundgang durch Ahnengalerie, Gardesaal, Bildergalerie, Mode- und Keramikmuseum. Inklusive Zutritt in die Schlosskirche und Ordenskapelle.
 Christ-Himmelfahrt-Wochenende - 14. Mai bis 16. Mai
-Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
+
+, Fr
+
+, Sa
 10.00 bis 17.00 Uhr
 Adresse
-Residenzschloss Ludwigsburg
 Schlossstraße 30
-71634 Ludwigsburg
 Information und Anmeldung
 Eine Anmeldung ist nicht erforderlich.
-Preis
 Erwachsene 10,00 €
 Ermäßigte 5,00 €
 Klassische Schlossführung „Herzogin“
 Das Appartement der Herzogin hat diese tatsächlich nie bewohnt, da sie weiterhin im Alten Schloss Stuttgart residierte, so dass ihre Schwiegertochter, die Erbprinzessin Henriette Marie, diese Räumlichkeiten nutzte, bestehend aus dem Vorzimmer, einem Empfangszimmer und dem Schlafzimmer. Bei der Erweiterung des Jagdhauses zum Land-Sommerschloss wurde die Kriegsgalerie und der Spielpavillon angefügt. Im Riesenbau befinden sich zwei Appartements, die Mitgliedern der herzoglichen Familie zur Verfügung gestellt wurden, bestehend aus einem Vorzimmer, einem Empfangszimmer, einem Schlafzimmer und einem, bzw. zwei Kabinetten. Einen Höhepunkt stellt die Schlosskirche mit ihrer barocken Pracht, dar. Einen weiteren Höhepunkt bildet das Schlosstheater und die Ahnengalerie. Über die Treppe der Königin verlässt der Besucher das Schloss im neuen Hauptbau.
 Sommer - 28. März bis 31. Oktober
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
+, Di
+
+, Mi
+
+, Do
+
+, So
+
+, Feiertag
 10.00 – 17.00 halbstündlich
 14. Mai
 entfällt
 15. Mai
-entfällt
 16. Mai
-entfällt
 06. Juni
 10.00 – 13.00 stündlich
 27. Juni
@@ -373,118 +213,28 @@ entfällt
 25. Juli
 10.00 – 12.00 stündlich
 28. Juli
-11.00, 12.00
 02. August
-10.00 – 12.00 stündlich
 03. August
-11.00, 12.00
 04. August
-11.00, 12.00
 11. September
-11.00, 12.00
 12. September
-10.00 – 12.00 stündlich
 Herbst - 01. November bis 30. November
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
+
 11.00, 12.00, 15.00, 16.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.00 – 16.00 stündlich
 Winter - 01. Dezember bis 22. Dezember
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-11.00, 12.00, 15.00, 16.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.00 – 17.00 stündlich
 Weihnachtsferien - 23. Dezember bis 06. Januar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 10.00 – 17.00 stündlich
 Faschingsferien - 15. Februar bis 22. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-10.00 – 17.00 stündlich
+
 Frühjahr Februar - 23. Februar bis 28. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-11.00, 12.00, 15.00, 16.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-11.00 – 16.00 stündlich
+
 Frühjahr - 01. März bis 27. März
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-11.00, 12.00, 15.00, 16.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.00 – 16.00 halbstündlich
 Kartenverkauf
 Schlosskasse
@@ -494,360 +244,80 @@ Dauer
 circa 1 Stunde
 Teilnehmerzahl
 maximal 30 Personen
-Preis
-Erwachsene 10,00 €
 Ermäßigt 5,00 €
 Familie 25,00 €
 Hinweis
 Das Ludwigsburger Residenzschloss beherbergt 452 Zimmer – zu viele, um sie im Rahmen einer einzelnen Führung zu besichtigen. Daher haben wir für Sie bei unseren Standardführungen eine Auswahl der wichtigsten Räume zusammengestellt. Bitte haben Sie Verständnis dafür, dass diese Auswahl variieren kann. Zum Beispiel vermeiden wir während kirchlicher Trauungen in der Schlosskirche oder in der Ordenskapelle eine Störung der Hochzeitsgäste. Tagesaktuelle Informationen über den Verlauf der Führungsroute erhalten Sie an der Schlosskasse.
 Klassische Schlossführung „Herzog“
 Über das Tafelzimmer wird das Appartement des Schloss- und Stadtgründers, Herzog Eberhard Ludwigs, betreten. Es besteht aus dem Vorzimmer, dem Empfangszimmer und dem Spiegelkabinett und Schlafzimmer. Als das Jagdhaus zu einem Sommer-Landschloss ausgebaut wurde, wurden weitere, nun notwendige Räumlichkeiten angefügt, so der Jagdpavillon für den Sankt-Hubertus-Jagdorden und der Ordenssaal für Festlichkeiten des Hofes. Weitere Höhepunkte auf der Führung Herzog sind die Ordenskapelle, die unter Herzog Carl Eugen für seine protestantische Ehefrau eingerichtet wurde und einen Blick auf das Rokoko gewährt, sowie die Bildergalerie mit einem Deckenfresko Pietro Scottis zum Thema des Trojanischen Krieges.
-Sommer - 28. März bis 31. Oktober
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-10.00 – 17.00 halbstündlich
-14. Mai
-entfällt
-15. Mai
-entfällt
-16. Mai
-entfällt
+
 21. Juni
 10.30, 11.30, 12.30, 13.30, 14.30, 15.30
-12. September
 10.30, 11.30
-Herbst - 01. November bis 30. November
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
+
 13.00 und 14.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.30 – 15.30 stündlich
-Winter - 01. Dezember bis 22. Dezember
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
+
 13.00, 14.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 10.30 – 16.30 stündlich
-Weihnachtsferien - 23. Dezember bis 06. Januar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-10.30 – 16.30 stündlich
-Faschingsferien - 15. Februar bis 22. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-10.30 – 16.30 stündlich
-Frühjahr Februar - 23. Februar bis 28. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
+
 13.00 & 14.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-11.30 – 15.30 stündlich
-Frühjahr - 01. März bis 27. März
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-13.00, 14.00
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.30 – 15.30 halbstündlich
-Kartenverkauf
-Schlosskasse
-Treffpunkt
-Besucherzentrum
-Dauer
-circa 1 Stunde
-Teilnehmerzahl
-maximal 30 Personen
-Preis
-Erwachsene 10,00 €
-Ermäßigt 5,00 €
-Familie 25,00 €
-Hinweis
-Das Ludwigsburger Residenzschloss beherbergt 452 Zimmer – zu viele, um sie im Rahmen einer einzelnen Führung zu besichtigen. Daher haben wir für Sie bei unseren Standardführungen eine Auswahl der wichtigsten Räume zusammengestellt. Bitte haben Sie Verständnis dafür, dass diese Auswahl variieren kann. Zum Beispiel vermeiden wir während kirchlicher Trauungen in der Schlosskirche oder in der Ordenskapelle eine Störung der Hochzeitsgäste. Tagesaktuelle Informationen über den Verlauf der Führungsroute erhalten Sie an der Schlosskasse.
 Klassische Führung für Familien
 Gemeinsam entdecken Kinder und Erwachsene das Schloss: Spielerisch wird die Geschichte zum Erlebnis und die ehemaligen Bewohner und Bewohnerinnen erwachen zum Leben. Auf dem Weg durch schöne Galerien und den großen Speisesaal, erfahren Familien in kindgerechter Sprache was „Mann oder Frau“ bei Hofe anzog und welche Lieblingsspeisen der Herrscher hatte. Immer sonntags und an Feiertagen richtet sich diese Führung an Familien mit Augenmerk auf die jungen Besucher der Gruppe.
 Winter - 01. November bis 31. März
-So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 13.00, 14.30
 Sommer - 01. April bis 29. Juli
-So
-                                                                                                                        
-                                                                                                                            , Feiertag
-13.00, 14.30
+
 Sommerferien - 30. Juli bis 13. September
-Mi
-13.00, 14.30
-So
 13.00, 14.30 und 15.45
 Herbst - 14. September bis 31. Oktober
-So
-                                                                                                                        
-                                                                                                                            , Feiertag
-13.00, 14.30
-Information und Anmeldung
+
 Eine Anmeldung ist bei der Familienführung unbedingt erforderlich:
 Hotline Residenzschloss Ludwigsburg
 Telefon +49(0)71 41. 18 64 00
 Telefax +49(0)71 41. 18 64 50
 info@schloss-ludwigsburg.de
 Bei der Anmeldung sind die vollständige Adresse, die Handynummer und die Anzahl der Teilnehmenden (Erwachsene / Ermäßigte) mit anzugeben.
-Kartenverkauf
-Schlosskasse
-Treffpunkt
-Besucherzentrum
-Dauer
 circa 1 Stunde
-Teilnehmerzahl
 maximal 25 Personen
-Preis
-Erwachsene 10,00 €
-Ermäßigt 5,00 €
-Familie 25,00 €
-Hinweis
-Das Ludwigsburger Residenzschloss beherbergt 452 Zimmer – zu viele, um sie im Rahmen einer einzelnen Führung zu besichtigen. Daher haben wir für Sie bei unseren Standardführungen eine Auswahl der wichtigsten Räume zusammengestellt. Bitte haben Sie Verständnis dafür, dass diese Auswahl variieren kann. Zum Beispiel vermeiden wir während kirchlicher Trauungen in der Schlosskirche oder in der Ordenskapelle eine Störung der Hochzeitsgäste. Tagesaktuelle Informationen über den Verlauf der Führungsroute erhalten Sie an der Schlosskasse.
 Klassische Schlossführung in englischer Sprache
 Die englische Standardführung wird auf zwei möglichen Führungswegen angeboten. Je nach Route erleben die Gäste unterschiedliche Höhepunkte innerhalb des Residenzschlosses.
 Der Rundgang „Herzog“ führt über das Tafelzimmer ins Appartement des Schloss- und Stadtgründers Herzog Eberhard Ludwig. Highlights sind das Spiegelkabinett, der Jagdpavillon oder der Ordenssaal sowie die Bildergalerie mit einem Deckenfresko Pietro Scottis.
 Der Führungsweg „Herzogin“ zeigt unter anderem die Kriegsgalerie und den Spielpavillon. Höhepunkte dieser Route sind außerdem die Schlosskirche mit ihrer barocken Pracht sowie das Schlosstheater und die Ahnengalerie. Über die Treppe der Königin verlassen die Gäste das Schloss im Neuen Hauptbau
-Sommer - 28. März bis 31. Oktober
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
+
 13.15 und 15.15
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.15, 13.15, 15.15
-14. Mai
-cancelled
-15. Mai
-cancelled
-16. Mai
 cancelled
 Winter - 01. Dezember bis 19. Dezember
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-13.15 und 15.15
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-11.15, 13.15, 15.15
+
 Weihnachtsferien - 20. Dezember bis 06. Januar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-11.15, 13.15, 15.15
-Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.15, 12.15, 13.15, 14.15, 15.15
 Winter - 07. Dezember bis 31. Januar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 13.15, 15.15
 Winter/Frühjahr - 01. Februar bis 13. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-13.15 und 15.15
+
 Frühjahr - 14. Februar bis 22. Februar
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
+
 11.15, 13.15 und 15.15
 Frühling - 23. Februar bis 27. März
-Mo
-                                                                                                                        
-                                                                                                                            , Di
-                                                                                                                        
-                                                                                                                            , Mi
-                                                                                                                        
-                                                                                                                            , Do
-                                                                                                                        
-                                                                                                                            , Fr
-                                                                                                                        
-                                                                                                                            , Sa
-                                                                                                                        
-                                                                                                                            , So
-                                                                                                                        
-                                                                                                                            , Feiertag
-13.15 und 15.15
-Kartenverkauf
-Schlosskasse
-Treffpunkt
-Besucherzentrum
-Dauer
-circa 1 Stunde
-Teilnehmerzahl
-maximal 30 Personen
-Preis
-Erwachsene 10,00 €
-Ermäßigt 5,00 €
-Familie 25,00 €
+
 Gruppen
 Zusätzliche Termine für Gruppen können telefonisch vereinbart werden.
 Gruppen bis 20 Personen: pauschal 162,00 €.
-Hinweis
-Das Ludwigsburger Residenzschloss beherbergt 452 Zimmer – zu viele, um sie im Rahmen einer einzelnen Führung zu besichtigen. Daher haben wir für Sie bei unseren Standardführungen eine Auswahl der wichtigsten Räume zusammengestellt. Bitte haben Sie Verständnis dafür, dass diese Auswahl variieren kann. Zum Beispiel vermeiden wir während kirchlicher Trauungen in der Schlosskirche oder in der Ordenskapelle eine Störung der Hochzeitsgäste. Tagesaktuelle Informationen über den Verlauf der Führungsroute erhalten Sie an der Schlosskasse.
 Kommen. Staunen. Genießen.
-Residenzschloss Ludwigsburg
 Staatliche Schlösser und Gärten Baden-Württemberg
-Kontakt
 FAQ
-Impressum
-Datenschutz
-Gebärdensprache
-Leichte Sprache
 Erklärung zur Barrierefreiheit
 BITV-konform (geprüfte Seiten)
 Weiteres
-Portal
-Monumente
 Besuchen Sie uns auf Facebook
 Besuchen Sie uns auf Instagram
 Besuchen Sie uns auf Youtube

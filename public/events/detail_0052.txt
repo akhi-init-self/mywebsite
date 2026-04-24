@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Ein Schattentheater – Spiel mit Licht und Schatten in Ludwigsburg
-SUBTITLE:   Künstlerisches Gestalten für Kinder ab 8 Jahren mit Javiera Advis
-DATE_START: Mo 3. August 2026
-DATE_END:   Fr 7. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250802
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167016/index.html?nodeID=523254167016
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Ein Schattentheater – Spiel mit Licht und Schatten in Ludwigsburg
+SUBTITLE    Künstlerisches Gestalten für Kinder ab 8 Jahren mit Javiera Advis
+DATE_START  Mo 3. August 2026
+DATE_END    Fr 7. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250802
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167016/index.html?nodeID=523254167016
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250802
 
 In diesem Kurs werden wir eine kleine, leuchtende Aufführung vorbereiten. Aus Karton, farbigen, durchsichtigen Papieren und anderen Materialien schneiden, kleben und gestalten wir unsere Figuren und experimentieren gleichzeitig damit. Wir spannen ein weißes Tuch und bereiten unsere Taschenlampen vor. Zusammen entwickeln wir ein kleines Schattentheaterstück, das am letzten Tag des Kurses vor unseren Eltern und Gästen aufgeführt wird. Übrigens: Die tollen Figuren können nach Hause mitgenommen werden!
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

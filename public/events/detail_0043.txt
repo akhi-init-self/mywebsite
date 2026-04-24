@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Tiergeschichten stempeln in Bietigheim
-SUBTITLE:   Zeichnen und Gestalten von 6-8 Jahren mit Hannah Liya
-DATE_START: Mo 3. August 2026
-DATE_END:   Fr 7. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  B250803
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: Familie &amp; Kinder, Faschingsferienworkshops, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139367/index.html?nodeID=523254139367
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Tiergeschichten stempeln in Bietigheim
+SUBTITLE    Zeichnen und Gestalten von 6-8 Jahren mit Hannah Liya
+DATE_START  Mo 3. August 2026
+DATE_END    Fr 7. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250803
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  Familie &amp; Kinder, Faschingsferienworkshops, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139367/index.html?nodeID=523254139367
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250803
 
 In diesem Workshop entwickeln wir eine Geschichte mit einem tierischen Helden. Wir zeichnen ihn und fertigen ihn als Stempel aus Moosgummi und Holz an. Dann überlegen wir uns eine spannende Erzählung, lassen ihn Abenteuer bestehen und stempeln unsere Fantasien in unser selbst gestaltetes Geschichten-Heft.

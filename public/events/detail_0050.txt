@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Fang den Räuber Hotzenplotz in Ludwigsburg
-SUBTITLE:   Plastisches Gestalten ab 4 Jahren mit Mark Knüttgen
-DATE_START: Mo 3. August 2026
-DATE_END:   Fr 7. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250804
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 4 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167015/index.html?nodeID=523254167015
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Fang den Räuber Hotzenplotz in Ludwigsburg
+SUBTITLE    Plastisches Gestalten ab 4 Jahren mit Mark Knüttgen
+DATE_START  Mo 3. August 2026
+DATE_END    Fr 7. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250804
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 4 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167015/index.html?nodeID=523254167015
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250804
 
 Beim Versuch den Räuber Hotzenplotz zu fangen, erleben Kasperl und Seppl viele Abenteuer. Sie bauen eine Schatzkiste, treffen den Zauberer Zwackelmann und die verhexte Unke im Schlossverlies. Die Geschichte bietet viele Anregungen, um eure eigenen Räuberbilder zu malen, dunkle Räuberhöhlen zu erfinden, Zauberhüte oder die sieben Messer zu bauen. Wir schneiden aus, kleben mit bunten Papieren und gestalten mit Kartons. Alles könnt ihr anschließend mit nach Hause nehmen und dort weiterspielen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

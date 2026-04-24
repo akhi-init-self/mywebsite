@@ -1,112 +1,24 @@
-TITLE:      Literatur am Vormittag
-CODE:       26LUG06
-SUBTITLE:   26LUG06
-DATE_START: 08.07.2026
-DATE_END:   08.07.2026
-TIME:       –
-VENUE:      Veranstaltungsraum
-CATEGORY:   Literarisches
-LEADER:     Regina Gobert
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b6b6f00a51e.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Literatur am Vormittag
+SUBTITLE    26LUG06
+DATE_START  08.07.2026
+DATE_END    08.07.2026
+VENUE       Veranstaltungsraum
+CODE        26LUG06
+PRICE       kostenfrei
+CATEGORY    Literarisches
+LEADER      Regina Gobert
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b6b6f00a51e.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Literatur am Vormittag
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Literatur am Vormittag
 Buchvorstellung mit Susanne Sterzenbach
 Außergewöhnlich, unterhaltsam, persönlich. Diese Bücher möchten gelesen werden!
 Susanne Sterzenbach, Journalistin, Autorin und Kulturakteurin entdeckt immer wieder Neues, Altes und Besonderes aus allen Genres der bunten Bücherwelt. Alles, was fesselt, beeindruckt, erheitert, nachdenklich macht oder die Lesenden bereichert, wird hier vorgestellt.
 Hier kommen Sie zum Online Live-Stream.
 In Kooperation mit der VorleseScheune für Erwachsene in Hoheneck
-Eintritt:
 frei
-Zeiten
-1 Vormittag, 08.07.2026
 Mittwoch, 10:30 - 11:30 Uhr
-Anzahl
-1 Termin(e)
 Mi 08.07.2026
 10:30 - 11:30 Uhr
-Kinderbücherei
-Leitung
 Regina Gobert
-Nummer
 26LUG06
-Ort
-Kinderbücherei
-Preis
 kostenfrei
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Regina
-Gobert
-Literatur am Vormittag
-26LUG05
-Buchvorstellung mit Susanne Sterzenbach
-13.05.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Literatur am Vormittag
-26LUG07
-Buchvorstellung mit Susanne Sterzenbach
-12.08.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Literatur am Vormittag
-26LUG09
-Buchvorstellung mit Susanne Sterzenbach
-09.09.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Literatur am Vormittag
-26LUG10
-Buchvorstellung mit Susanne Sterzenbach
-14.10.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Literatur am Vormittag
-26LUG08
-Buchvorstellung mit Susanne Sterzenbach
-11.11.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Literatur am Vormittag
-26LUG11
-Buchvorstellung mit Susanne Sterzenbach
-09.12.26
-(1-mal)
-10:30
-- 11:30
-Veranstaltungsraum
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

@@ -1,15 +1,12 @@
-TITLE:      Vernissage im Salon
-SUBTITLE:   Luciano Mazzo | NIEMANDSLAND
-DATE_START: 26.06.2026
-DATE_END:   26.06.2026
-TIME:       18:30 Uhr
-SECTION:    upcoming
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage im Salon
+SUBTITLE    Luciano Mazzo | NIEMANDSLAND
+DATE_START  26.06.2026
+DATE_END    26.06.2026
+TIME        18:30 Uhr
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     upcoming
 ============================================================
-
 26.06.2026 - 18:30 Uhr
-Vernissage im Salon
 Luciano Mazzo | NIEMANDSLAND
 In Anwesenheit des Künstlers.
 Eintritt frei!

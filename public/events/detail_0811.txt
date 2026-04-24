@@ -1,27 +1,14 @@
-TITLE:      Online-Workshop: Zeichentrickfilm
-CODE:       26DM05
-SUBTITLE:   26DM05
-DATE_START: 03.06.2026
-DATE_END:   03.06.2026
-TIME:       –
-VENUE:      Online-Veranstaltung
-CATEGORY:   Digitale Welt
-LEADER:     
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b98a51127e1.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Online-Workshop: Zeichentrickfilm
+SUBTITLE    26DM05
+DATE_START  03.06.2026
+DATE_END    03.06.2026
+VENUE       Online-Veranstaltung
+CODE        26DM05
+PRICE       kostenfrei
+CATEGORY    Digitale Welt
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b98a51127e1.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Online-Workshop: Zeichentrickfilm
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Online-Workshop: Zeichentrickfilm
 Ferienworkshop
 In diesem Online-Workshop lernen wir, wie man mit der App Flip-a-Clip selbst Zeichentrickfilme erstellen kann. Von einfachen Skizzen bis sich aufwändig verändernden Gemälden ist alles möglich.
 Es wird gezeigt, wie das geht, und dabei ein erster kleiner Film produziert. Anschließend weiß man alles, um einen eigenen Zeichentrickfilm zu animieren!
@@ -29,112 +16,15 @@ Für die Teilnahme am Online-Workshop werden zwei Geräte benötigt: ein Compute
 Wichtig: Bitte lade dir vor dem Workshop die kostenlose App FlipaClip auf dein Tablet oder Smartphone runter.
 Für Kinder und Jugendliche ab 10 Jahren.
 Referentin: Nora Bünger, Medienpädagogin
-Zeiten
 1 Tag, 03.06.2026
 Mittwoch, 10:30 - 12:30 Uhr
-Anzahl
-1 Termin(e)
 Mi 03.06.2026
 10:30 - 12:30 Uhr
 Online-Veranstaltung
-Leitung
-Nummer
 26DM05
-Ort
-Online-Veranstaltung
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen
 Anmelden
 Belegung:
 (Plätze frei)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Alexandra
-Sterz
-Girls Day-Workshop 2026
-26DM01
-Roboter programmieren & 3D-Druck
-23.04.26
-(1-mal)
-09:00
-- 13:00
-Ludwigsburg
-Roboter programmieren: Eltern-Kind-Workshop
-26DM09
-30.04.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-3D-Drucker-Sprechstunde
-26D02
-19.05.26
-(1-mal)
-17:30
-- 18:30
-Ludwigsburg
-Roboter programmieren: Eltern-Kind-Workshop
-26DM10
-21.05.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Workshop: CAD & 3D-Druck
-26DM02
-26.05.26
-(1-mal)
-10:00
-- 12:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Workshop: Roboter programmieren
-26DM04
-28.05.26
-(1-mal)
-10:00
-- 12:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Roboter programmieren: Eltern-Kind-Workshop
-26DM11
-25.06.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-3D-Drucker-Sprechstunde
-26D05
-24.11.26
-(1-mal)
-17:30
-- 18:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

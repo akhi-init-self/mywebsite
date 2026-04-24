@@ -1,78 +1,24 @@
-TITLE:      EN PASSANT
-CODE:       26LEP05
-SUBTITLE:   26LEP05
-DATE_START: 20.06.2026
-DATE_END:   20.06.2026
-TIME:       –
-VENUE:      Veranstaltungsraum
-CATEGORY:   Literarisches
-LEADER:     Rita Pfeiffer
-PRICE:      Eintritt frei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69316f4ea9dc5.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       EN PASSANT
+SUBTITLE    26LEP05
+DATE_START  20.06.2026
+DATE_END    20.06.2026
+VENUE       Veranstaltungsraum
+CODE        26LEP05
+PRICE       Eintritt frei
+CATEGORY    Literarisches
+LEADER      Rita Pfeiffer
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69316f4ea9dc5.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-EN PASSANT
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-EN PASSANT
 Die ADK zu Gast in der Stadtbibliothek
 Ein Samstag im Monat. Eine kurzweilige halbe Stunde.
 Studierende der Akademie für Darstellende Kunst Baden-Württemberg lesen ausgewählte Texte: prosaisch, provokativ, poetisch.
 Ohne Anmeldung.
 In Kooperation mit der Akademie für Darstellende Kunst Baden-Württemberg
-Zeiten
 1 Nachmittag, 20.06.2026
 Samstag, 12:00 - 12:30 Uhr
-Anzahl
-1 Termin(e)
 Sa 20.06.2026
 12:00 - 12:30 Uhr
-Kinderbücherei
-Leitung
 Rita Pfeiffer
-Nummer
 26LEP05
-Ort
-Kinderbücherei
-Preis
 Eintritt frei
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Rita
-Pfeiffer
-EN PASSANT
-26LEP04
-Die ADK zu Gast in der Stadtbibliothek
-16.05.26
-(1-mal)
-12:00
-- 12:30
-Veranstaltungsraum
-EN PASSANT
-26LEP06
-Die ADK zu Gast in der Stadtbibliothek
-11.07.26
-(1-mal)
-12:00
-- 12:30
-Veranstaltungsraum
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

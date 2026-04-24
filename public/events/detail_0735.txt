@@ -1,15 +1,11 @@
-TITLE:      Vernissage im Whitespace
-SUBTITLE:   Ronald Cornelissen | Humvee Dumvee shat on a wall
-DATE_START: 10.04.2026
-DATE_END:   10.04.2026
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage im Whitespace
+SUBTITLE    Ronald Cornelissen | Humvee Dumvee shat on a wall
+DATE_START  10.04.2026
+DATE_END    10.04.2026
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 10.04.2026
-Vernissage im Whitespace
 Ronald Cornelissen | Humvee Dumvee shat on a wall
 In Anwesenheit des Künstlers.
 Eintritt frei!

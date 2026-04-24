@@ -1,22 +1,16 @@
-TITLE:      Künstlergespräch
-SUBTITLE:   mit Eva Lippert
-DATE_START: 22.02.2025
-DATE_END:   22.02.2025
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/34-kuenstlergespraech/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Künstlergespräch
+SUBTITLE    mit Eva Lippert
+DATE_START  22.02.2025
+DATE_END    22.02.2025
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/34-kuenstlergespraech/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 22.02.2025
-Künstlergespräch
 mit Eva Lippert
 Previous
 Next
@@ -35,17 +28,6 @@ Für ihre Ausstellung „Biophilia – Natur mit Mensch im Wandel“ hat Eva Lip
 Der Begriff „Biophilie“ wurde von Erich Fromm geprägt und versteht den Menschen als Teil der Natur. In dieser Zeit, in der klimatische Veränderungen zu einem großen Teil menschgemacht sind, die Kluft zwischen Arm und Reich immer größer wird, und der Egoismus des Einzelnen ökologisch und kulturell in eine Sackgasse zu führen droht, wäre die Berufung auf die „Liebe zu allem Lebendigen“ ein guter Ansatz.
 Die Künstlerin bezeichnet ihre aus der Verbindung verschiedenster Materialien und Techniken entstandenen Skulpturen, Figuren und Wandbilder als „erweiterte Malerei“. Sie bezieht diesen Begriff auf die Drei-Dimensionalität vieler ihrer Arbeiten und darauf, dass ihre Herangehensweise Grundlagen in der Malerei hat. Ihre Arbeiten sind inspiriert von Träumen, Natur- und Reiseeindrücken, sowie von aktuellen Ereignissen, sie interagieren mit den Betrachtenden, regen zum Nachdenken an und machen sie, gemäß dem Anspruch des Ausstellungstitels „Biophilia“, zu einem Teil des Ganzen.
 Wir freuen uns darauf, Sie bei diesem Austausch begrüßen zu dürfen und gemeinsam die tiefere Bedeutung hinter „Biophilia“ zu erkunden.
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -61,19 +43,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

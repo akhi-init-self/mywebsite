@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg
-SUBTITLE:   Plastisches Gestalten von 6-10 Jahren mit Patrizia Kränzlein
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250731
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138858/index.html?nodeID=523254138858
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg
+SUBTITLE    Plastisches Gestalten von 6-10 Jahren mit Patrizia Kränzlein
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250731
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138858/index.html?nodeID=523254138858
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250731
 
 In diesem Workshop kleben wir, hämmern und sägen. Mit unterschiedlichen Materialien erschaffen wir unseren gruseligen, auch gefährlichen oder gutmütigen und schwerfälligen Dinosaurier in seinem individuellen Lebensraum. Dabei kommen Holz, Draht, Dosen, Becher und Pappmaché zum Einsatz. Am Ende des Kurses könnt ihr euren Dino, bunt bemalt, mit nach Hause nehmen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

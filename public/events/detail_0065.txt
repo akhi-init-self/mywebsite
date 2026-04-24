@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Trickfilm in Stop-Motion-Technik in Ludwigsburg
-SUBTITLE:   Filmwerkstatt von 9 - 14 Jahren mit Tine Kluth
-DATE_START: Mo 31. August 2026
-DATE_END:   Fr 4. September 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250823
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149664/index.html?nodeID=523254149664
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Trickfilm in Stop-Motion-Technik in Ludwigsburg
+SUBTITLE    Filmwerkstatt von 9 - 14 Jahren mit Tine Kluth
+DATE_START  Mo 31. August 2026
+DATE_END    Fr 4. September 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250823
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149664/index.html?nodeID=523254149664
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250823
 
 Wer kennt sie nicht, die vielen Trickfiguren aus dem Kino und dem Fernsehen. Die Figuren der Monster AG, von Ice Age, Wallace und Gromit, den Simpsons. In diesem Workshop könnt ihr selbst aus den verschiedenen Materialien die Hauptdarsteller und den Spielort für euren Trickfilm bauen und bei der Stop-Motion-Technik Regie führen. Ihr entwickelt zusammen eine kurze Geschichte und erweckt dabei eure Darsteller zum Leben. Nach Fertigstellung des Animationsfilmes könnt ihr ihn zu Hause euren Freunden und Eltern zeigen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

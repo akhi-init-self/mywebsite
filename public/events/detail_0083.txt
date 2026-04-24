@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Ein elefantastischer Giraffenstuhl
-SUBTITLE:   Handwerk und plastisches Gestalten für Kinder ab 8 Jahren mit Mark Knüttgen
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250948
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138856/index.html?nodeID=523254138856
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Ein elefantastischer Giraffenstuhl
+SUBTITLE    Handwerk und plastisches Gestalten für Kinder ab 8 Jahren mit Mark Knüttgen
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250948
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138856/index.html?nodeID=523254138856
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250948
 
 Selbstgebaute oder mitgebrachte Holzstühle könnt ihr hier zu fantastischen Großfiguren umbauen. Die Stühle verändern wir mit Brettern, Latten und mit Pappmaché und sie erhalten lustige Gesichter von Tieren. Wir sägen, feilen, kleben und bemalen. Am Ende des Workshops könnt ihr auf eurer langbeinigen Stuhlgiraffe, eurem klumpfüßigem Hockermonster oder eurem langschwänzigem Krokothron Platz nehmen. Bitte ausrangierte Holzstühle mitbringen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

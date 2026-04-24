@@ -1,16 +1,15 @@
-TITLE:      [AUSGEBUCHT] Workshop: Aquarium im Schuhkarton für Kinder ab 4 Jahren in Bietigheim-Bissingen
-SUBTITLE:   mit Mark Knüttgen
-DATE_START: Sa 25. April 2026
-DATE_END:   So 26. April 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  B250471
-PRICE:      45,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 4 Jahren
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250642515/index.html?nodeID=523250642515
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       [AUSGEBUCHT] Workshop: Aquarium im Schuhkarton für Kinder ab 4 Jahren in Bietigheim-Bissingen
+SUBTITLE    mit Mark Knüttgen
+DATE_START  Sa 25. April 2026
+DATE_END    So 26. April 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250471
+PRICE       45,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 4 Jahren
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250642515/index.html?nodeID=523250642515
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250471
 
 Im tiefen blauen Meer lebt der kleine Fisch in seiner Korallenhöhle. Der Regenbogenfisch und der Zebrafisch schwimmen vorbei. Ein Karton wird zum Guckkasten und Zuhause für die bunt bemalten Tiere, leuchtende Korallen und stacheligen Seeigel. Wir gestalten mit blauem Transparentpapier, malen mit bunten Farben, modellieren mit Ton und kleben mit Sand. So erschaffen wie unser eigenes fantasievolles Aquarium.

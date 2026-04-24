@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Lebendige Buchstaben in Ludwigsburg
-SUBTITLE:   Zeichnen und Typografie für Kinder von 7-10 Jahren mit Anna Grishina
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250558
-PRICE:      68,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523251117673/index.html?nodeID=523251117673
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Lebendige Buchstaben in Ludwigsburg
+SUBTITLE    Zeichnen und Typografie für Kinder von 7-10 Jahren mit Anna Grishina
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250558
+PRICE       68,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523251117673/index.html?nodeID=523251117673
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250558
 
 Mit dem Schreibenlernen betreten wir die Welt der Schrift und
@@ -25,4 +24,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

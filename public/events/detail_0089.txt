@@ -1,16 +1,15 @@
-TITLE:      Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg
-SUBTITLE:   mit Lino da Silva & Koffi Tchao
-DATE_START: Sa 11. Juli 2026
-DATE_END:   Sa 11. Juli 2026
-TIME:       14.00-18.00 Uhr
-COURSE_NR:  L250715
-PRICE:      54,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 8 Jahren, Workshops_Karlskaserne, Zirkuswerkstätten
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250601676/index.html?nodeID=523250601676
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg
+SUBTITLE    mit Lino da Silva & Koffi Tchao
+DATE_START  Sa 11. Juli 2026
+DATE_END    Sa 11. Juli 2026
+TIME        14.00-18.00 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250715
+PRICE       54,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 8 Jahren, Workshops_Karlskaserne, Zirkuswerkstätten
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250601676/index.html?nodeID=523250601676
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250715
 
 Ziel ist die Erarbeitung eines Zirkus-Aufführungsprogramms, das bei den Labyrinth FestSpielTagen am 18./19.07.2026 aufgeführt wird. Teilnahme ist nur nach Rücksprache mit den Dozenten und nach Teilnahme an mehreren Samstags- oder Ferienworkshops möglich.
@@ -26,4 +25,3 @@ www.kunstschule-labyrinth.de
 Bitte geben Sie bei der Anmeldung die Schuhgröße der Kinder an, damit passende Leihstelzen bereitgestellt werden.
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

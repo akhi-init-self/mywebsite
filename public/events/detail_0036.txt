@@ -1,16 +1,12 @@
-TITLE:      Feuerwehrfest in Oßweil
-SUBTITLE:   –
-DATE_START: Mi 13. Mai 2026
-DATE_END:   Do 14. Mai 2026
-TIME:       13.05.2026 ab 17 Uhr | 14.05.2026 ab 11 Uhr
-COURSE_NR:  –
-PRICE:      –
-CATEGORIES: Feste & Märkte, für Kinder und Erwachsene, Musik &amp; Konzerte
-VENUE:      Feuerwehr Oßweil
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254589059/index.html?nodeID=523254589059
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Feuerwehrfest in Oßweil
+DATE_START  Mi 13. Mai 2026
+DATE_END    Do 14. Mai 2026
+TIME        13.05.2026 ab 17 Uhr | 14.05.2026 ab 11 Uhr
+VENUE       Feuerwehr Oßweil
+CATEGORIES  Feste & Märkte, für Kinder und Erwachsene, Musik &amp; Konzerte
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254589059/index.html?nodeID=523254589059
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Feuerwehrfest in Oßweil am 13. und 14. Mai (Himmelfahrt)
 
 Die Feuerwehr in Oßweil lädt zum Fest an Himmelfahrt und Vorabend ein.
@@ -22,8 +18,6 @@ Donnerstag, 14.05.2026 (Himmelfahrt):
 Festbeginn ab 11 Uhr
 Der Musikverein Oßweil spielt ab 11:30
 Hüpfburg und Kinderfahren mit dem Feuerwehrauto
-Für das leibliche Wohl ist gesorgt
-Weinstand von Weinbau Reichert, Erligheim
 
 Veranstaltungsort: Feuerwehr Oßweil
 Flurstraße 7 71640 Ludwigsburg

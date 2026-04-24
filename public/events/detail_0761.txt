@@ -1,22 +1,16 @@
-TITLE:      Atelierführung
-SUBTITLE:   Für Künstler*innen und Kunstinteressierte
-DATE_START: 09.07.2025
-DATE_END:   09.07.2025
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/49-atelierfuehrung/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Atelierführung
+SUBTITLE    Für Künstler*innen und Kunstinteressierte
+DATE_START  09.07.2025
+DATE_END    09.07.2025
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/49-atelierfuehrung/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 09.07.2025
-Atelierführung
 Für Künstler*innen und Kunstinteressierte
 Previous
 Next
@@ -37,17 +30,6 @@ Obere Gasse 5
 71642 Ludwigsburg – Hoheneck
 Um Anmeldung für die Planung wird gebeten an
 Otto Beer
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -63,19 +45,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

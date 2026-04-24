@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Hip Hop in Ludwigsburg
-SUBTITLE:   Tanzwerkstatt für Jugendliche ab 14 Jahren mit Sponky
-DATE_START: Mo 31. August 2026
-DATE_END:   Fr 4. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250830
-PRICE:      80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149657/index.html?nodeID=523254149657
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Hip Hop in Ludwigsburg
+SUBTITLE    Tanzwerkstatt für Jugendliche ab 14 Jahren mit Sponky
+DATE_START  Mo 31. August 2026
+DATE_END    Fr 4. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250830
+PRICE       80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149657/index.html?nodeID=523254149657
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250830
 
 Der belgische Tänzer und Choreograf Jean Didier Mamona aka Sponky hilft euch mittels Freestyle Training, einem begleitenden Mentoring und Coaching dabei, euer tänzerisches Kreativpotenzial weiterzuentwickeln. Durch das Training von Hip-Hop-Basics, Musikalität und weiterführenden Techniken wird ein Verständnis über diese Tanzform vermittelt. Zum Schluss zeigt ihr im Rahmen einer kleinen Präsentation in kleinem Rahmen, was ihr gelernt habt.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

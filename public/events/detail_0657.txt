@@ -1,28 +1,14 @@
-TITLE:      Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg
-DATE_START: 30.07.2026
-DATE_END:   01.08.2026
-TIME:       30:07 - 01:08
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254138858/SommerferienworkshopTRexAlarminLudwigsburg.html?nodeID=523254138858
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg
+DATE_START  30.07.2026
+DATE_END    01.08.2026
+TIME        30:07 - 01:08
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254138858/SommerferienworkshopTRexAlarminLudwigsburg.html?nodeID=523254138858
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Donnerstag, 30.07.2026
--
 Samstag, 01.08.2026
-|
 09.30-12.30 Uhr
-Sommerferienworkshop: T-Rex-Alarm in Ludwigsburg
 Plastisches Gestalten von 6-10 Jahren mit Patrizia Kränzlein
 Kursnummer: L250731
 In diesem Workshop kleben wir, hämmern und sägen. Mit unterschiedlichen Materialien erschaffen wir unseren gruseligen, auch gefährlichen oder gutmütigen und schwerfälligen Dinosaurier in seinem individuellen Lebensraum. Dabei kommen Holz, Draht, Dosen, Becher und Pappmaché zum Einsatz. Am Ende des Kurses könnt ihr euren Dino, bunt bemalt, mit nach Hause nehmen.
@@ -32,96 +18,9 @@ Gebühr: 57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahres
 Anmeldungen schriftlich bis spätestens Sonntag, 26. Juli 2026 per E-Mail: kunstschule@ludwigsburg.de per Post: Kunstschule Labyrinth, Hindenburgstr. 29, 71638 Ludwigsburg
 Anmeldeformulare unter
 www.kunstschule-labyrinth.de
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
-Kunstschule Labyrinth
-Kunstschule Labyrinth
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-www.kunstschule-labyrinth.de
-Telefon
-(07
-14
-19
-10
-32
+(07 14 19 10 32
 48) 32
 41
-Kategorie
 Familie & Kinder
-|
-alle Ferienworkshops
-|
 für Kinder ab 6 Jahren
-|
-Sommerferienworkshops
-|
-Kunstzentrum Karlskaserne
-|
-Kinder und Jugendliche
-|
-Workshops_Karlskaserne
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

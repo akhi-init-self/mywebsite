@@ -1,15 +1,11 @@
-TITLE:      Finissage im White Space und Salon
-SUBTITLE:   Klasse Sunah Choi – Staatliche Akademie der Bildenden Künste Stuttgart | PARS PRO TOTO
-DATE_START: 04.01.2026
-DATE_END:   04.01.2026
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Finissage im White Space und Salon
+SUBTITLE    Klasse Sunah Choi – Staatliche Akademie der Bildenden Künste Stuttgart | PARS PRO TOTO
+DATE_START  04.01.2026
+DATE_END    04.01.2026
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 04.01.2026
-Finissage im White Space und Salon
 Klasse Sunah Choi – Staatliche Akademie der Bildenden Künste Stuttgart | PARS PRO TOTO
 In Anwesenheit der Künstler*innen.
 Eintritt frei!

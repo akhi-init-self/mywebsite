@@ -1,27 +1,15 @@
-TITLE:      LiteraLog - Literarisches Konzert
-CODE:       26L07
-SUBTITLE:   26L07
-DATE_START: 19.06.2026
-DATE_END:   19.06.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Literarisches
-LEADER:     Joana Petsonias
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69469657bb417.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       LiteraLog - Literarisches Konzert
+SUBTITLE    26L07
+DATE_START  19.06.2026
+DATE_END    19.06.2026
+VENUE       Ludwigsburg
+CODE        26L07
+PRICE       kostenfrei
+CATEGORY    Literarisches
+LEADER      Joana Petsonias
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69469657bb417.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-LiteraLog - Literarisches Konzert
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-LiteraLog - Literarisches Konzert
 Jahreskonzert der Lehrkräfte der Musikschule
 Das Jahreskonzert der Lehrerinnen und Lehrer der Jugendmusikschule findet nach dem großen Anklang des Konzert im Vorjahr erneut in Kooperation mit der Stadtbibliothek statt.
 Gemeinsam präsentieren sie einen schwungvollen, literarischen Konzertabend. Unterstützt werden sie dabei von Ludwigsburger Sprecherinnen und Sprechern, die die Musikstücke durch passende Literatur umrahmen.
@@ -29,59 +17,14 @@ Thema des Abends ist die Vielfalt. Er hält einen bunten Strauß an verschiedens
 Ein Abend für alle Neugierigen und Kulturinteressierten jeden Alters!
 Keine Anmeldung erforderlich.
 In Kooperation mit der Jugendmusikschule Ludwigsburg e.V.
-Zeiten
 1 Abend, 19.06.2026
 Freitag, 19:00 - 20:45 Uhr
-Anzahl
-1 Termin(e)
 Fr 19.06.2026
 19:00 - 20:45 Uhr
 Kulturzentrum
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Großer Saal
-Leitung
 Joana Petsonias
-Nummer
 26L07
-Ort
-Kulturzentrum
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Großer Saal
-Preis
 kostenfrei
 keine Anmeldung erforderlich
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Joana
-Petsonias
-Hinter den Kulissen der Stabi
-26USW05
-29.04.26
-(1-mal)
-10:30
-- 11:30
-Ludwigsburg
-Hinter den Kulissen der Stabi
-26USW06
-27.05.26
-(1-mal)
-10:30
-- 11:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

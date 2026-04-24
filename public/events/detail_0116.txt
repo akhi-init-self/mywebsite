@@ -1,16 +1,15 @@
-TITLE:      Workshop: Ein Maikäfer aus Ton für Kinder ab 5 Jahren in Ludwigsburg
-SUBTITLE:   mit Thomas Weber
-DATE_START: So 3. Mai 2026
-DATE_END:   So 3. Mai 2026
-TIME:       14.00-17.00 Uhr
-COURSE_NR:  L250504
-PRICE:      37,00 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652606/index.html?nodeID=523250652606
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Ein Maikäfer aus Ton für Kinder ab 5 Jahren in Ludwigsburg
+SUBTITLE    mit Thomas Weber
+DATE_START  So 3. Mai 2026
+DATE_END    So 3. Mai 2026
+TIME        14.00-17.00 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250504
+PRICE       37,00 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652606/index.html?nodeID=523250652606
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250504
 
 Der Maikäfer ist auf der ganzen Welt verbreitet. Der bekannteste Maikäfer Mitteleuropas ist der Feldmaikäfer. An warmen Maitagen leben sie in den Ästen und Zweigen der Buchen und Eichen, um deren saftige, grüne Blätter zu fressen. Gerdt von Bassewitz’ Märchen „Peterchens Mondfahrt“ erzählt von einem Maikäfer, der mit zwei Menschenkindern eine abenteuerliche Reise besteht. Wir bauen unseren Maikäfer mit braunen Flügeln, dem schwarzen Halsschild, dem schwarzweißen Zickzackmuster an der Seite und den sechs Beinchen auf einer Bodenplatte.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

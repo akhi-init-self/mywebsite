@@ -1,87 +1,32 @@
-TITLE:      Ich bin online und du?
-CODE:       26DI03
-SUBTITLE:   26DI03
-DATE_START: 19.06.2026
-DATE_END:   19.06.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Digitale Welt
-LEADER:     Melanie Göckel
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx692eca50c9f72.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Ich bin online und du?
+SUBTITLE    26DI03
+DATE_START  19.06.2026
+DATE_END    19.06.2026
+VENUE       Ludwigsburg
+CODE        26DI03
+PRICE       kostenfrei
+CATEGORY    Digitale Welt
+LEADER      Melanie Göckel
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx692eca50c9f72.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Ich bin online und du?
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Ich bin online und du?
 Medienpädagogischer Workshop
 Chatten mit Freunden macht Spaß, kann aber auch ganz schön anstrengend  sein. Wie vermeide ich Stress beim Chatten? Wie bleibe ich fair und was  kann ich tun, um Gefahren zu erkennen? Wie kann ich Fakenews entlarven  und hat eine KI eigentlichimmer Recht? In diesem Workshop lernen die  Kinder auf praktische Weise, wie sie sicher und kritisch mit sozialen  Netzwerken und der Nutzung
 des Internets umgehen.
 Erste Erfahrungen mit dem Internet und mobilen  Geräten sollten vorhanden sein.
 Für Kinder ab 10 Jahre
 Anmeldung: events-stabi.ludwigsburg.de
-Zeiten
 1 Nachmittag, 19.06.2026
 Freitag, 15:30 - 17:00 Uhr
-Anzahl
-1 Termin(e)
 Fr 19.06.2026
 15:30 - 17:00 Uhr
-Stadtbibliothek
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Vorführraum
-Leitung
 Melanie Göckel
-Nummer
 26DI03
-Ort
-Stadtbibliothek
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Vorführraum
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen
 Anmelden
 Belegung:
 (Plätze frei)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Melanie
-Göckel
-Internetführerschein
-26DI07
-Kinder erfahren alles Wissenswerte über das Internet
-08.05.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

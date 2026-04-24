@@ -1,16 +1,15 @@
-TITLE:      Workshop: Luftakrobatik Spezial für Kinder von 9-16 Jahren in Ludwigsburg
-SUBTITLE:   mit Tatiane Marques de Oliviera
-DATE_START: Sa 11. Juli 2026
-DATE_END:   So 12. Juli 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  L250718
-PRICE:      45,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 10 Jahren, Workshops_Karlskaserne, Zirkuswerkstätten
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250601681/index.html?nodeID=523250601681
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Luftakrobatik Spezial für Kinder von 9-16 Jahren in Ludwigsburg
+SUBTITLE    mit Tatiane Marques de Oliviera
+DATE_START  Sa 11. Juli 2026
+DATE_END    So 12. Juli 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250718
+PRICE       45,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 10 Jahren, Workshops_Karlskaserne, Zirkuswerkstätten
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250601681/index.html?nodeID=523250601681
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250718
 
 Ziel ist die Erarbeitung eines Luftakrobatik-Aufführungsprogramms, das bei den Labyrinth FestSpielTagen am Samstag, 19.07.2025 und Sonntag, 20.07.2025 im Rahmen der FestSpielTage der Kunstschule Labyrinth aufgeführt wird. Teilnahme ist nur nach Rücksprache mit der Dozentin und nach Teilnahme an mehreren Dienstags-Workshops möglich.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

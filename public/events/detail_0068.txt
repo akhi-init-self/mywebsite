@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Commercial Dance in Ludwigsburg
-SUBTITLE:   Commercial Dance für Jugendliche ab 12 Jahren mit Franziska Fritzsch
-DATE_START: Mo 31. August 2026
-DATE_END:   Fr 4. September 2026
-TIME:       09.30-15.30 Uhr
-COURSE_NR:  L250827
-PRICE:      160,00 Euro (128,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149659/index.html?nodeID=523254149659
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Commercial Dance in Ludwigsburg
+SUBTITLE    Commercial Dance für Jugendliche ab 12 Jahren mit Franziska Fritzsch
+DATE_START  Mo 31. August 2026
+DATE_END    Fr 4. September 2026
+TIME        09.30-15.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250827
+PRICE       160,00 Euro (128,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149659/index.html?nodeID=523254149659
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250827
 
 Welcome to Commercial Dance – der Style aus Musikvideos, Live Shows und Tourneen mit Artists. Hip Hop Attitude trifft Jazz-Technique, Contemporary Flow und Street Vibes – das ist pure Bühnenenergie! In diesem Sommerworkshop geht es um mehr als Choreos: Du lernst mit dem Körper Geschichten zu erzählen und performst mit Power, Confidence und Persönlichkeit. Wir arbeiten an Technik, Musikalität und Präsenz, stärken deine Stärken und entwickeln neue Skills. In unserer offenen Gemeinschaft wächst du tänzerisch und persönlich. Ob du dich im Tanzsaal oder vor der Kamera bewegen willst – hier lernst du, echte Star-Qualitäten zu zeigen. Bitte zieht sportliche Kleidung an, Schuhe mit abriebfester, heller Sohle und nehmt für die Mittagspause Essen und Trinken mit.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

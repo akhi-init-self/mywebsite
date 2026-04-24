@@ -1,15 +1,11 @@
-TITLE:      Vernissage der Salon-Ausstellung
-SUBTITLE:   Boglárka Balassa
-DATE_START: 16.04.2025
-DATE_END:   16.04.2025
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage der Salon-Ausstellung
+SUBTITLE    Boglárka Balassa
+DATE_START  16.04.2025
+DATE_END    16.04.2025
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 16.04.2025
-Vernissage der Salon-Ausstellung
 Boglárka Balassa
 Mit Anwesenheit der Künstlerin Boglárka Balassa,
 musikalischer Begleitung & Imbiss.

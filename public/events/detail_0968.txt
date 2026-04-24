@@ -1,27 +1,15 @@
-TITLE:      Hinter den Kulissen der Stabi
-CODE:       26USW05
-SUBTITLE:   26USW05
-DATE_START: 29.04.2026
-DATE_END:   29.04.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Startseite
-LEADER:     Joana Petsonias
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx694a7caa6530a.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Hinter den Kulissen der Stabi
+SUBTITLE    26USW05
+DATE_START  29.04.2026
+DATE_END    29.04.2026
+VENUE       Ludwigsburg
+CODE        26USW05
+PRICE       kostenfrei
+CATEGORY    Startseite
+LEADER      Joana Petsonias
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx694a7caa6530a.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Hinter den Kulissen der Stabi
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Hinter den Kulissen der Stabi
 Fotografie Dietmar Strauß, Besigheim
 An jedem letzten Mittwoch im Monat führt die stellvertretende Bibliotheksleiterin Joana Petsonias durch die Stadtbibliothek im Kulturzentrum.
 Die einstündige Führung soll kurzweiligen Input geben, wie eine öffentliche Bibliothek funktioniert.
@@ -29,55 +17,10 @@ Neben Tipps und Tricks rund um das neue Bibliotheksprogramm koha werden auch and
 Wer sich außerdem über das Konzept der wunderschönen Zweigstelle im Schlösslesfeld informieren will, der sollte an einer der Führungen teilnehmen.
 Anmeldung: Keine Anmeldung erforderlich
 Eintritt: frei
-Zeiten
-1 Vormittag, 29.04.2026
 Mittwoch, 10:30 - 11:30 Uhr
-Anzahl
-1 Termin(e)
 Mi 29.04.2026
 10:30 - 11:30 Uhr
-Stadtbibliothek
-,
 Wilhelmstraße, 71638 Ludwigsburg
-Leitung
 Joana Petsonias
-Nummer
 26USW05
-Ort
-Stadtbibliothek
-,
-Wilhelmstraße, 71638 Ludwigsburg
-Preis
 kostenfrei
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Joana
-Petsonias
-Hinter den Kulissen der Stabi
-26USW06
-27.05.26
-(1-mal)
-10:30
-- 11:30
-Ludwigsburg
-LiteraLog - Literarisches Konzert
-26L07
-Jahreskonzert der Lehrkräfte der Musikschule
-19.06.26
-(1-mal)
-19:00
-- 20:45
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

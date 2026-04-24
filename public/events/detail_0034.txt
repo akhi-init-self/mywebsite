@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Zootiere aus Ton in Bietigheim
-SUBTITLE:   Keramikwerkstatt für Kinder ab 5 Jahre mit Mark Knüttgen
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  B250733
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139366/index.html?nodeID=523254139366
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Zootiere aus Ton in Bietigheim
+SUBTITLE    Keramikwerkstatt für Kinder ab 5 Jahre mit Mark Knüttgen
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250733
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139366/index.html?nodeID=523254139366
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250733
 
 Die Kunstschule wird in diesem Kurs zum Ort der Zootiere. Im Eingangsbereich kriechen gefährliche Krokodile, langsame Schildkröten und giftige Schlangen. Schnecken mit seltsam gemusterten Häusern sind ebenfalls zu sehen. Aus Tonschlangen und Kugeln, flachgeklopft und hoch gebaut entstehen unterschiedliche Tiere für einen gemeinsamen Zoobesuch. Nach dem Bemalen, Trocknen und Brennen können sie bei euch zu Hause ihr Unwesen treiben.

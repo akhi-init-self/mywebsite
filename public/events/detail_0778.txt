@@ -1,22 +1,16 @@
-TITLE:      Jazzkonzert
-SUBTITLE:   DUO MOSAIK
-DATE_START: 24.10.2024
-DATE_END:   24.10.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/17-jazzkonzert/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Jazzkonzert
+SUBTITLE    DUO MOSAIK
+DATE_START  24.10.2024
+DATE_END    24.10.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/17-jazzkonzert/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 24.10.2024
-Jazzkonzert
 DUO MOSAIK
 Ein Mosaik besteht aus vielen kleinen Einzelteilen verschiedener Formen und Farben, welche gemeinsam ein Gesamtkunstwerk bilden. Auf musikalischer Ebene erschafft das Duo in seinen Kompositionen neue Klangwelten, die durch Kontraste und einer enormen Farbvielfalt bestechen und so viele Parallelen zu einem Mosaik aufweisen. Unüberhörbar ist die große und scheinbar ungezwungene stilistische Vielfalt, mit der sich die beiden Musiker mühelos über Genregrenzen hinwegbewegen. Das Duo beweist, dass es keine große Besetzung bedarf, um auf eine große Palette an Klangfarben zuzugreifen.
 Das Altsaxophon – mal lyrisch, mal zupackend – wechselt sich mit der hölzernen Bassklarinette ab. Der Bass ist mal Fundament, mal Melodie- und mal Percussion-Instrument. Und hinter allem schwebt hin und wieder der feine Klang der Shrutibox welcher allem eine magische Note verleiht. So entsteht ein für eine Duo Besetzung außergewöhnlich orchestraler Klang, der komplett akustisch und ohne den Einsatz von Elektronik, Effekten und Loops erzeugt wird. Schnell wird deutlich, dass sich hier zwei perfekt harmonierende Duo-Partner mit einer gemeinsamen Vision gefunden haben. Verwurzelt sind die beiden langjährigen musikalischen Weggefährten im Jazz.
@@ -45,17 +38,6 @@ Jazzclub Ludwigsburg
 und mit freundlicher Förderung durch die
 WÜSTENROT
 STIFTUNG
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -71,19 +53,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

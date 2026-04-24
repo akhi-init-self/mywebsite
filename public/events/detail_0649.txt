@@ -1,26 +1,13 @@
-TITLE:      Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg
-DATE_START: 11.07.2026
-DATE_END:   11.07.2026
-TIME:       11:07 - 14:00
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250601676/WorkshopZirkusSpezialfrKindervon812JahreninLudwigsburg.html?nodeID=523250601676
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg
+DATE_START  11.07.2026
+DATE_END    11.07.2026
+TIME        11:07 - 14:00
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250601676/WorkshopZirkusSpezialfrKindervon812JahreninLudwigsburg.html?nodeID=523250601676
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Samstag, 11.07.2026
-|
 14.00-18.00 Uhr
-Workshop: Zirkus-Spezial für Kinder von 8-12 Jahren in Ludwigsburg
 mit Lino da Silva & Koffi Tchao
 Kursnummer: L250715
 Ziel ist die Erarbeitung eines Zirkus-Aufführungsprogramms, das bei den Labyrinth FestSpielTagen am 18./19.07.2026 aufgeführt wird. Teilnahme ist nur nach Rücksprache mit den Dozenten und nach Teilnahme an mehreren Samstags- oder Ferienworkshops möglich.
@@ -34,96 +21,12 @@ per Post: Kunstschule Labyrinth, Hindenburgstr. 29, 71638 Ludwigsburg
 Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 Bitte geben Sie bei der Anmeldung die Schuhgröße der Kinder an, damit passende Leihstelzen bereitgestellt werden.
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
-Kunstschule Labyrinth
-Kunstschule Labyrinth
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-www.kunstschule-labyrinth.de
-Telefon
-(07
-14
-19
-10
-32
+(07 14 19 10 32
 48) 32
 41
-weitere Termine
 12.07.2026
 9.30-13.30 Uhr
-Kunstzentrum Karlskaserne
-Kategorie
 Familie & Kinder
-|
 für Kinder ab 8 Jahren
-|
 Zirkuswerkstätten
-|
-Kunstzentrum Karlskaserne
-|
-Workshops_Karlskaserne
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

@@ -1,126 +1,35 @@
-TITLE:      Urban Dance Show
-DATE_START: 11.05.2026
-DATE_END:   11.05.2026
-TIME:       11:05 - 11:00
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250885119/UrbanDanceShow.html?nodeID=523250885119
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Urban Dance Show
+DATE_START  11.05.2026
+DATE_END    11.05.2026
+TIME        11:05 - 11:00
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250885119/UrbanDanceShow.html?nodeID=523250885119
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Urban Dance Show -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Montag, 11.05.2026
-|
 11.00 Uhr
-Urban Dance Show
 mit jugendlichen Tänzerinnen und Tänzern der Hip-Hop-, Breaking- und K-Pop-Gruppen - [ausgebucht]
 Yakup Zeyrek
 Das jährliche Tanzereignis der Kunstschule Labyrinth für Familien und Tanzbegeisterte
 ab 9 Jahren
 .
 150 jugendlichen Tänzerinnen und Tänzern der Hip-Hop-, Breaking- und K-Pop-Gruppen der Kusntschule Labyrinth tanzen zu explosiven Beats, einfühlsamen Rhythmen und fesselnden Choreografien. Die unterschiedlichen Hip-Hop-, Breaking- und K-Pop-Tanzstiele verbinden sich im Kunstzentrum Karlskaserne zu einer kreativen und ausdrucksstarken Urban Dance Show. Ein einzigartiges Erlebnis, das Lust zum Mittanzen macht! Nutzen Sie die Gelegenheit und besuchen Sie an den Veranstaltungstagen auch die Ausstellung der Jugendateliers.
-Homepage
 Website Kunstschule Labyrinth Ludwigsburg
-Eintritt:
 Eintrittspreis Tickets: 5€ (Einheitspreis)
 Vorstellung ausgebucht - Kartenreservierung: E-Mail jungebuehne@ludwigsburg.de Telefon: 07141-9103245
 Kooperationspartner
 https://kunstschule-labyrinth.ludwigsburg.de/start.html
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
 Junge Bühne Ludwigsburg - Kunstzentrum Karlskaserne
-Junge Bühne Ludwigsburg - Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.jungebuehne.ludwigsburg.de
 E-Mail
 jungebuehne@ludwigsburg.de
-Telefon
-(0
-71
+(0 71
 41) 9
 10-32
 45
-weitere Termine
 10.05.2026
 15.00 Uhr
-Kunstzentrum Karlskaserne
-Kategorie
-Kunstzentrum Karlskaserne
-|
 Show
-|
 Tanz & Ballett
 Stück 10
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

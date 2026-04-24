@@ -1,114 +1,29 @@
-TITLE:      Fridays for Coding
-CODE:       26DM27
-SUBTITLE:   26DM27
-DATE_START: 19.06.2026
-DATE_END:   19.06.2026
-TIME:       –
-VENUE:      Veranstaltungsraum
-CATEGORY:   Digitale Welt
-LEADER:     Tim Ehrlicher
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68d6275454a7a.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Fridays for Coding
+SUBTITLE    26DM27
+DATE_START  19.06.2026
+DATE_END    19.06.2026
+VENUE       Veranstaltungsraum
+CODE        26DM27
+PRICE       kostenfrei
+CATEGORY    Digitale Welt
+LEADER      Tim Ehrlicher
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68d6275454a7a.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Fridays for Coding
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Fridays for Coding
 Coding mit Scratch
 Fridays for Coding ist für jeden da, heißt konkret: hier lernt man alles Schritt für Schritt mit der Programmiersprache Scratch.
 Schon Erfahrungen mit Scratch gemacht? Dann können weitere Gaming-Projekte programmiert werden.
 Neugierig geworden? Vorbeischauen und mitmachen!
 Für Kinder und Jugendliche von 7 bis 14 Jahren.
-Zeiten
 1 Nachmittag, 19.06.2026
 Freitag, 15:30 - 17:30 Uhr
-Anzahl
-1 Termin(e)
 Fr 19.06.2026
 15:30 - 17:30 Uhr
-Kinderbücherei
-Leitung
 Tim Ehrlicher
-Nummer
 26DM27
-Ort
-Kinderbücherei
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen (Warteliste)
 Jetzt in Warteliste eintragen
 Belegung:
 (keine freien Plätze. Anmeldung auf Warteliste möglich.)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Tim
-Ehrlicher
-Maker Zone
-26DM16
-Ausprobieren und inspirieren lassen!
-07.05.26
-(1-mal)
-16:00
-- 18:30
-Ludwigsburg
-Gaming Friday
-26DM21
-08.05.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Fridays for Coding
-26DM26
-Coding mit Scratch
-22.05.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Gaming Friday
-26DM22
-05.06.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Maker Zone
-26DM17
-Ausprobieren und inspirieren lassen!
-18.06.26
-(1-mal)
-16:00
-- 18:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

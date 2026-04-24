@@ -1,11 +1,9 @@
-TITLE:      Lo Speziale
-DATE_START: 20.06.2026
-DATE_END:   –
-TIME:       19:00
-URL:        https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/lo-speziale/9689/790535
-SOURCE:     schloss-ludwigsburg.de
+TITLE       Lo Speziale
+DATE_START  20.06.2026
+TIME        19:00
+URL         https://www.schloss-ludwigsburg.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/lo-speziale/9689/790535
+SOURCE      schloss-ludwigsburg.de
 ============================================================
-
 Weitere Informationen zum ausgewählten Angebot: Lo Speziale
 Wir verwenden Cookies, um Ihnen ein optimales Webseiten-Erlebnis zu bieten. In erster Linie handelt es sich dabei um Cookies, die für den Betrieb der Seite notwendig sind. Zudem nutzen wir Cookies zu Analyse- sowie anonymen Statistikzwecken. Weitere Informationen finden Sie in unseren
 Datenschutzhinweisen.
@@ -15,14 +13,12 @@ Allen Cookies zustimmen
 Cookie-Einstellungen anzeigen
 Cookie-Einstellungen ausblenden
 Notwendige Cookies
-Notwendige Cookies
 Diese Cookies sind zur Funktion der Webseite erforderlich und können von Ihnen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, z.B. beim Ausfüllen von Formularen. So lassen sich die verschiedenen Anfragen Ihres Browsers einer gemeinsamen Sitzung zuordnen. Dadurch wird ihr Rechner wiedererkannt, wenn Sie auf die Webseite zurückkehren. Sie können Ihren Browser so einstellen, dass dieser Cookies blockiert. Es stehen dann jedoch nicht mehr alle Funktionalitäten dieser Seite zur Verfügung.
 fe_typo_user
 Dieses Session-Cookie speichert eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf die Webseite zurückkehren. Das Session-Cookie wird gelöscht, wenn Sie den Browser schließen.
 ssgOptIn
 Speicherdauer 1 Jahr.
 ssgOptIn ist der Cookie, der gesetzt wird, wenn man Cookies zustimmt. Dieses Cookie wird dauerhaft gespeichert, damit wir Ihre Cookie-Präferenzen bei Ihrem nächsten Besuch unserer Webseite erkennen.
-Tracking Cookies
 Tracking Cookies
 Auf dieser Webseite werden mit Technologien von Matomo (www.matomo.org) Daten zu Marketing- und Optimierungszwecken gesammelt und anonym gespeichert. Diese Cookies ermöglichen es uns, z.B. Seitenaufrufe und Klicks zu zählen, damit wir die Leistung unserer Webseite messen und verbessern können.
 _pk_id
@@ -34,7 +30,6 @@ Dieses Cookie speichert die Information der vorherig besuchten Webseite (Referre
 pk_ses
 Speicherdauer: 30 Minuten.
 Dieses Cookie speichert temporär Daten während der Nutzung unserer Webseite.
-Cookies von Drittanbietern
 Cookies von Drittanbietern
 Auf unserer Website sehen Sie eingebettete Inhalte von Facebook, X und Instagram. Es werden werden Cookies von Facebook, X und Instagram gesetzt.
 Auf unserer Website sehen Sie eingebettete Videos, die auf unserem Youtube-Kanal hochgeladen wurden. Bei Wiedergabe dieser Videos werden Cookies von YouTube gesetzt.
@@ -64,20 +59,14 @@ Auf einen Blick: Besuchsinformation
 Preise
 Führungen & Veranstaltungen
 Leichte Sprache
-Gebärdensprache
-Barrierefreiheit
 Hinweise
 Barrierefreier Touchscreen
 Broschüren
-Gastronomie
 Radfahren & Wandern
-Anfahrt
-Kontakt
 Erlebnis Schloss & Garten
 Auf einen Blick: Erlebnis Schloss & Garten
 Schloss & Garten
 Verborgene Schätze
-Ausstellungen
 Escape Room Kriminalakte Württemberg
 Angebote für Gäste
 Region
@@ -104,12 +93,9 @@ Auf einen Blick: Presse
 Pressemeldungen
 Pressebilder
 Pressekontakt
-Besuchsinformation
-Führungen & Veranstaltungen
 Aktuell:
 Weitere Informationen zum ausgewählten Angebot
 Zum Hauptinhalt springen
-Schlösser
 Schloss Heidelberg
 Residenzschloss Ludwigsburg
 Schloss und Schlossgarten Weikersheim
@@ -132,50 +118,18 @@ Auf einen Blick Alle Schlösser
 Themenwelt
 „Macht und Widerstand“
 Mehr
-Themenwelt
 „Feuer und Wasser“
-Mehr
-Themenwelt
 „Liebe, Lust, Leidenschaft“
-Mehr
-Themenwelt
 „Unendlich schön“
-Mehr
-Themenwelt
 „Ziemlich gute Freunde“
-Mehr
-Themenwelt
 „Von Tisch und Tafel“
-Mehr
 Newsletter Anmeldung
 Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
 Kostenlos anmelden
-Gärten
-Schloss und Schlossgarten Schwetzingen
-Schloss und Schlossgarten Weikersheim
-Schloss Favorite Rastatt
 Kur- und Schlosspark Badenweiler
 Botanischer Garten Karlsruhe
-Schloss Bruchsal
-Schloss Heidelberg
-Residenzschloss Mergentheim
-Residenzschloss Rastatt
-Residenzschloss Ludwigsburg
 Auf einen Blick Alle Gärten
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Feuer und Wasser“
-Mehr
-Themenwelt
 „Welt der Gärten“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Burgen
-Schloss Heidelberg
 Festungsruine Hohentwiel
 Burg Rötteln
 Festungsruine Hohenneuffen
@@ -188,22 +142,8 @@ Yburg bei Baden-Baden
 Burg Alt-Eberstein
 Burgruine Hohenstaufen
 Auf einen Blick Alle Burgen
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Ziemlich gute Freunde“
-Mehr
-Themenwelt
 „Über Kreuz“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Klöster
 Kloster Maulbronn
-Kloster und Schloss Salem
-Kloster und Schloss Bebenhausen
 Kloster Wiblingen
 Kloster Lorch
 Kloster Schussenried
@@ -214,28 +154,6 @@ Kloster Alpirsbach
 Kloster Ochsenhausen
 Kloster Heiligkreuztal
 Auf einen Blick Alle Klöster
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Feuer und Wasser“
-Mehr
-Themenwelt
-„Liebe, Lust, Leidenschaft“
-Mehr
-Themenwelt
-„Unendlich schön“
-Mehr
-Themenwelt
-„Ziemlich gute Freunde“
-Mehr
-Themenwelt
-„Von Tisch und Tafel“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
-Kleinode
 Grabkapelle auf dem Württemberg
 Heuneburg – Stadt Pyrene
 Sammlung Domnick
@@ -244,15 +162,6 @@ Fürstenhäusle Meersburg
 Grabkapelle Karlsruhe
 Römische Badruine Hüfingen
 Auf einen Blick Alle Kleinode
-Themenwelt
-„Macht und Widerstand“
-Mehr
-Themenwelt
-„Liebe, Lust, Leidenschaft“
-Mehr
-Newsletter Anmeldung
-Erfahren Sie regelmäßig Neuigkeiten aus der Welt der Schlösser, Gärten und Burgen.
-Kostenlos anmelden
 DE
 EN
 FR
@@ -262,64 +171,8 @@ es
 ru
 cn
 jp
-Residenzschloss Ludwigsburg
 Eines der grössten Barockschlösser Deutschlands
-Start
-Besuchsinformation
-Auf einen Blick: Besuchsinformation
-Öffnungszeiten
-Preise
-Führungen & Veranstaltungen
-Leichte Sprache
-Gebärdensprache
-Barrierefreiheit
-Hinweise
-Barrierefreier Touchscreen
-Broschüren
-Gastronomie
-Radfahren & Wandern
-Anfahrt
-Kontakt
-Erlebnis Schloss & Garten
-Auf einen Blick: Erlebnis Schloss & Garten
-Schloss & Garten
-Verborgene Schätze
-Ausstellungen
-Escape Room Kriminalakte Württemberg
-Angebote für Gäste
-Region
-Wissenswert & amüsant
-Auf einen Blick: Wissenswert & Amüsant
-Meilensteine
-Persönlichkeiten
-Anekdoten
-Stilgeschichte
-Zeitreise
-Dossiers
-Lesetipps
-Heiraten & Feiern
-Auf einen Blick: Heiraten & Feiern
-Feiern
-Tagen
-Heiraten
-Gruppen & Schulen
-Auf einen Blick: Gruppen & Schulen
-Angebote für Gruppen
-Angebote für Schulen
-Presse
-Auf einen Blick: Presse
-Pressemeldungen
-Pressebilder
-Pressekontakt
-Portal
-Suchbegriff
-Besuchsinformation
-Führungen & Veranstaltungen
-Aktuell:
-Weitere Informationen zum ausgewählten Angebot
 Ludwigsburger Schlossfestspiele
-Lo Speziale
-Residenzschloss Ludwigsburg
 Konzert & Theater
 Termin: Samstag, 20.06.2026, 19:00
 Steif, humorlos, Haydn. Wer diese Verbindung zieht, muss den Komponisten noch kennenlernen. Das musikalische Genie leistete sich nicht nur als Junge so manchen Lausbubenstreich, auch im höheren Alter mangelte es ihm nicht an Witz sowie einem subtilen Sinn für Rebellion und kreative Botschaften. Ebenfalls hielt er sich nicht zurück, diese Charakterzüge in seine Musik zu übertragen. Gespickt mit unerwarteten Wendungen und subversivem Humor sind auch die Werke, die das Stuttgarter Kammerorchester zur Aufführung bringt. Einen Einstieg in Haydns feinsinnige Art bietet die »Abschiedssinfonie«, mit der er den Fürsten Nikolaus Esterházy dazu brachte, seiner Belegschaft Urlaub zu gestatten. Unter dem Dirigenten Jan Willem de Vriend erklingt zudem »Lo Speziale«, eine unterhaltsame Vierecksgeschichte, die eine einfache Apotheke in ein vor Liebestaumel überschäumendes Tollhaus verwandelt. »Haydns Opern sind fantastisch, sie sind einfach unglaublich gut«, sagt Jan Willem de Vriend, der die unvollständig überlieferte Partitur der Oper ergänzt und so für die Aufführung neu erlebbar gemacht hat. Gemeinsam mit der Schweizer Regisseurin Eva Buchmann entsteht ein einnehmendes Ambiente für Sänger*innen und Publikum zugleich.
@@ -344,7 +197,6 @@ Kostüm
 Stuttgarter Kammerorchester
 Jan Willem de Vriend
 Musikalische Leitung
-Service
 Alle Termine dieser Veranstaltung
 Freitag, 19. Juni 2026 | 20:00 Uhr
 Samstag, 20. Juni 2026 | 19:00 Uhr
@@ -353,25 +205,15 @@ Adresse
 Residenzschloss
 Schlosstheater
 Schlossstraße 30
-71634 Ludwigsburg
 Hinweis
 Weitere Informationen unter
-Ludwigsburger Schlossfestspiele
 zur Ergebnisliste
 Kommen. Staunen. Genießen.
-Residenzschloss Ludwigsburg
 Staatliche Schlösser und Gärten Baden-Württemberg
-Kontakt
 FAQ
-Impressum
-Datenschutz
-Gebärdensprache
-Leichte Sprache
 Erklärung zur Barrierefreiheit
 BITV-konform (geprüfte Seiten)
 Weiteres
-Portal
-Monumente
 Besuchen Sie uns auf Facebook
 Besuchen Sie uns auf Instagram
 Besuchen Sie uns auf Youtube

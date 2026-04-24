@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Wollene Wundertiere für Kinder ab 8 Jahren in Ludwigsburg
-SUBTITLE:   mit Anna Grishina
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  L250538
-PRICE:      68,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640557/index.html?nodeID=523250640557
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Wollene Wundertiere für Kinder ab 8 Jahren in Ludwigsburg
+SUBTITLE    mit Anna Grishina
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250538
+PRICE       68,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640557/index.html?nodeID=523250640557
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250538
 
 Hast du schon einmal davon geträumt, dir dein eigenes zauberhaftes Tier auszudenken und zum Leben zu erwecken? Glitzert es, ist es kugelrund oder strahlt es doch so fröhlich-bunt wie ein Regenbogen? In diesem Workshop kannst du deiner Fantasie freien Lauf lassen und dich in den Schöpfer eines märchenhaften Wundertieres aus Baumwolle und Farben verwandeln. Und dank eines kleinen Aufhängers kann der neue tierische Begleiter dich bald auf all deinen Abenteuern begleiten!
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

@@ -1,22 +1,16 @@
-TITLE:      Wie unfair ist Künstliche Intelligenz?
-SUBTITLE:   Vortrag von Prof. Staab, Universität Stuttgart
-DATE_START: 26.07.2024
-DATE_END:   26.07.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/19-wie-unfair-ist-kuenstliche-intelligenz/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Wie unfair ist Künstliche Intelligenz?
+SUBTITLE    Vortrag von Prof. Staab, Universität Stuttgart
+DATE_START  26.07.2024
+DATE_END    26.07.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/19-wie-unfair-ist-kuenstliche-intelligenz/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 26.07.2024
-Wie unfair ist Künstliche Intelligenz?
 Vortrag von Prof. Staab, Universität Stuttgart
 Previous
 Next
@@ -35,17 +28,6 @@ Steffen Staab hat eine Professur für Analytic Computing am Institut für Künst
 IRIS
 – Interchange Forum for Reflecting Intelligent Systems. Er ist Mitgründer der Semanux GmbH, deren Künstliche Intelligenz es erlaubt, flexibel mit Computern zu interagieren ohne die Hände zu benutzen.
 Eintritt frei!
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -61,19 +43,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

@@ -1,22 +1,16 @@
-TITLE:      Vernissage
-SUBTITLE:   Hans Hemmert | Annie Kurz
-DATE_START: 18.10.2024
-DATE_END:   18.10.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/26-vernissage/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage
+SUBTITLE    Hans Hemmert | Annie Kurz
+DATE_START  18.10.2024
+DATE_END    18.10.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/26-vernissage/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,27 +20,22 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 18.10.2024
-Vernissage
 Hans Hemmert  |  Annie Kurz
 Previous
 Next
 > Mit Anwesenheit der Künstler*innen
 >Musikalische Begleitung durch
 JAZZ
--
 HUTS
 > Begrüßung: Harald Jahnke
 Der Eintritt ist frei!
 RAUMWENDE
 von Hans Hemmert
 “
-RAUMWENDE
 ”, eine retrospektive Schau, die Hans Hemmerts künstlerische Entwicklung über die letzten zwanzig Jahre beleuchtet. Hans Hemmert präsentiert in der Ausstellung “
-RAUMWENDE
 ” eine speziell für den Kunstverein Ludwigsburg entwickelte Installation mit dem Titel “Raum”. Diese Arbeit erforscht die physische und konzeptuelle Dimension von Raum durch großformatige, interaktive Skulpturen, die das Publikum zum Mitmachen einladen. Zusätzlich zur Installation zeigt Hemmert seine neueste Filmproduktion, “Pure Vernunft darf niemals siegen”, die seine künstlerischen Überlegungen visuell unterstreicht.
 Hans Hemmert hat im Laufe seiner Karriere an vielen beeindruckenden Orten ausgestellt. Zu den herausragendsten und bekanntesten Ausstellungsorten gehören das Museum Folkwang in Essen, das Centro Galego de Arte Contemporánea in Spanien und das Museum of Modern Art in New York das Museum of Contemporary Art in Shanghai. Diese internationalen Plattformen haben ihm ermöglicht, seine einzigartigen Installationen und Skulpturen einem weltweiten Publikum zu präsentieren.
 TECHNOCREEP
-:
 ASTHETIK
 DES
 VERDACHTS
@@ -54,34 +43,11 @@ von Annie Kurz
 „Technocreep: Ästhetik des Verdachts“ beschäftigt sich mit dem Begriff des “Pharmakon” aus der Technikphilosophie. In ihrer Promotion (HfG Offenbach Main) stellt Annie Kurz Fragen zur Rolle der “technischen Mediation”. Das Konzept des “Pharmakon” problematisiert die Ambiguität der Technik. Die Künstlerin stellt in ihrer Installation die Mensch-Technik-Beziehung in den Fokus, die insbesondere seit der Digitalität „verdächtigt“ und sowohl die „Heil-“, wie auch die „Giftwirkung” der Technik spürbar macht. Es zeigt sich keine einfache Dialektik, sondern die Verhandlung unvereinbarer Widersprüche.
 Musikalische Begleitung
 durch
-JAZZ
--
-HUTS
-JAZZ
--
-HUTS
 bietet eine einzigartige Klangwelt einer talentierten vierköpfigen Jazzband, die Leidenschaft und Professionalität vereint. Das Quartett besteht aus der bezaubernden Sängerin Ulli Harant, dem melodisch virtuosen Bassisten Thomas Müller, dem beeindruckenden Schlagzeuger Steffen Kuhn und dem einfühlsamen Pianisten Hans-Peter Hofmeister.
 Mit langjähriger Erfahrung und unterschiedlichen musikalischen Hintergründen (drei der vier Bandmitglieder haben ein abgeschlossenes Musikstudium) bringen diese Musiker eine Vielfalt an Stilen und Emotionen auf die Bühne.
 Nach einer kreativen Pause kehren die Musiker des Quartetts
-JAZZ
--
-HUTS
 nun auf die Bühne zurück und interpretieren den Jazz zeitgemäß, lebendig und undogmatisch. Vom Cool Jazz über Latin-Grooves bis zu romantischen Balladen präsentiert
-JAZZ
--
-HUTS
 ein facettenreiches Repertoire aus bekannten Jazz-Standards, selten gehörten Klassikern und eigenen Kompositionen.
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -96,18 +62,11 @@ Ausstellungen
 2015
 2014
 2013
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

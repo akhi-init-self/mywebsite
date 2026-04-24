@@ -1,15 +1,11 @@
-TITLE:      Künstlergespräch
-SUBTITLE:   mit Beate Ludwig
-DATE_START: 31.05.2024
-DATE_END:   31.05.2024
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Künstlergespräch
+SUBTITLE    mit Beate Ludwig
+DATE_START  31.05.2024
+DATE_END    31.05.2024
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 31.05.2024
-Künstlergespräch
 mit Beate Ludwig
 Zu ihrer Ausstellung “*HEAR*OES
 ARE

@@ -1,15 +1,11 @@
-TITLE:      Finissage
-SUBTITLE:   Ellie Pritts | Beate Ludwig
-DATE_START: 21.06.2024
-DATE_END:   21.06.2024
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Finissage
+SUBTITLE    Ellie Pritts | Beate Ludwig
+DATE_START  21.06.2024
+DATE_END    21.06.2024
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 21.06.2024
-Finissage
 Ellie Pritts | Beate Ludwig
 BITTE
 BEACHTEN

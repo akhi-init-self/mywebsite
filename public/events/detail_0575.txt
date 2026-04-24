@@ -1,25 +1,12 @@
-TITLE:      Ausstellung: Ich darf das!
-DATE_START: 28.06.2026
-DATE_END:   19.07.2026
-TIME:       –
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523252560153/index.html?nodeID=523252560153
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Ausstellung: Ich darf das!
+DATE_START  28.06.2026
+DATE_END    19.07.2026
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523252560153/index.html?nodeID=523252560153
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Ausstellung: Ich darf das! -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Sonntag, 28.06.2026
--
 Sonntag, 19.07.2026
-Ausstellung: Ich darf das!
 Jahresausstellung und Kinderfest
 Die Jahresausstellung des Fachbereichs Bildende Kunst zeigt Zeichnungen, Bilder und Objekte zum Thema Kinderrechte von Kindern aus den Jahreskursen von 4-13 Jahren
 Eröffnung
@@ -27,94 +14,12 @@ Eröffnung
 Zeitraum
 : So 28.06.-So 19.07.2026
 Öffnungszeiten
-:
 Freitag, 18 – 20 Uhr
 Samstag, 16 – 20 Uhr
 Sonntag, 14 – 18 Uhr
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindeburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-www.karlskaserne.de
-Telefon
-(0
-71
+(0 71
 41) 9
 10-32
 41
-Kategorie
 Ausstellung
-|
-Kunstzentrum Karlskaserne
-|
-Ausstellung
-|
-Karlskaserne
-|
-KK_Startseite
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

@@ -1,22 +1,16 @@
-TITLE:      Künstler*innen-Stammtisch
-SUBTITLE:   Offener Austausch
-DATE_START: 14.08.2025
-DATE_END:   14.08.2025
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/48-kuenstlerinnen-stammtisch/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Künstler*innen-Stammtisch
+SUBTITLE    Offener Austausch
+DATE_START  14.08.2025
+DATE_END    14.08.2025
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/48-kuenstlerinnen-stammtisch/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 14.08.2025
-Künstler*innen-Stammtisch
 Offener Austausch
 Previous
 Next
@@ -39,17 +32,6 @@ Alle Künstlerinnen und Künstler sind herzlich eingeladen, an diesem Austausch 
 Wir freuen uns auf einen tollen Austausch in entspannter Atmosphäre.
 Ansprechpartner für Fragen und Anregungen ist
 Otto Beer
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -65,19 +47,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

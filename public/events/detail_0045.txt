@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Kinderrechte kreativ entdecken in Ludwigsburg
-SUBTITLE:   Malen und Gestalten von 8-12 Jahren mit Susanne Paret
-DATE_START: Mo 3. August 2026
-DATE_END:   Fr 7. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250805
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167014/index.html?nodeID=523254167014
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Kinderrechte kreativ entdecken in Ludwigsburg
+SUBTITLE    Malen und Gestalten von 8-12 Jahren mit Susanne Paret
+DATE_START  Mo 3. August 2026
+DATE_END    Fr 7. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250805
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167014/index.html?nodeID=523254167014
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250805
 
 In diesem Sommerkurs wollen wir gemeinsam herausfinden, was Kinderrechte eigentlich sind. Wir sammeln Ideen und nähern uns den wichtigsten Botschaften auf kreative Weise. An jedem Kurstag probieren wir eine andere Technik aus: gestalten großes, aussagekräftiges Plakat, ein Pop-up-Schriftzug oder malen mit leuchtenden Farben. Ihr entscheidet, wie eure Botschaften am besten wirken! Zum Abschluss zeigen wir die Ergebnisse in einer kleinen Ausstellung für eure Familien. Ein Kurs für alle, die gerne kreativ denken, gestalten und die Welt ein bisschen fairer machen möchten!
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

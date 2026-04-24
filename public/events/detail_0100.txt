@@ -1,16 +1,15 @@
-TITLE:      Workshop: Ein Hexenhaus aus Ton in Ludwigsburg
-SUBTITLE:   Keramikworkshop für Kinder ab 6 Jahren mit Vitali Safronov
-DATE_START: Sa 20. Juni 2026
-DATE_END:   So 21. Juni 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250620
-PRICE:      45,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 6 Jahren, Keramikworkshops, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250672361/index.html?nodeID=523250672361
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Ein Hexenhaus aus Ton in Ludwigsburg
+SUBTITLE    Keramikworkshop für Kinder ab 6 Jahren mit Vitali Safronov
+DATE_START  Sa 20. Juni 2026
+DATE_END    So 21. Juni 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250620
+PRICE       45,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 6 Jahren, Keramikworkshops, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250672361/index.html?nodeID=523250672361
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250620
 
 „Knusper, knusper, knäuschen, wer knabbert an meinem Häuschen?“ So spricht die alte Hexe mit zittriger Stimme im Grimm´schen Märchen „Hänsel und Gretel“, als die beiden Kinder an das Hexenhaus kommen. In diesem Märchen ist das Hexenhaus ganz aus Brot, Kuchen und Zucker hergestellt. Später wurde daraus das Knusper- oder Lebkuchenhäuschen und zu einer beliebten Weihnachtsüberraschung. Aus Ton werden wir unser eigenes Hexenhaus bauen, mit allerhand Köstlichkeiten wundervoll dekorieren und zu Hause gut sichtbar platzieren.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Theater in der Box in Ludwigsburg
-SUBTITLE:   Malen und Gestalten für Kinder von 8-12 Jahren mit Susanne Paret
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250950
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138854/index.html?nodeID=523254138854
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Theater in der Box in Ludwigsburg
+SUBTITLE    Malen und Gestalten für Kinder von 8-12 Jahren mit Susanne Paret
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250950
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138854/index.html?nodeID=523254138854
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250950
 
 In diesem Kurs erfinden wir gemeinsam spannende Geschichten, denken über Inszenierung, Figuren und Räume nach und lassen all diese Ideen in einem selbst gestalteten Schuhkarton-Theater lebendig werden. Zu Beginn entwickeln wir packende Kurzgeschichten. Anschließend gestalten wir die Charaktere, ihr Aussehen, ihre Besonderheiten sowie den Bühnenraum. Eurer Fantasie sind dabei keine Grenzen gesetzt! Ob kunterbunt, geheimnisvoll oder völlig verrückt, alles ist möglich. Zum Abschluss lassen wir unsere Mini-Bühnen aufleuchten und präsentieren uns gegenseitig die vielen unterschiedlichen Welten, die dabei entstanden sind. Mach mit und erschaffe dein eigenes kleines Theaterwunder!
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

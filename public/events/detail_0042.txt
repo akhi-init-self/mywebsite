@@ -1,16 +1,15 @@
-TITLE:      Workshop: Quality-Time für Mütter und Töchter ab 13 Jahren in Bietigheim-Bissingen
-SUBTITLE:   mit Franziska Kaupp
-DATE_START: Mi 6. Mai 2026
-DATE_END:   Mi 6. Mai 2026
-TIME:       18.20-20.20 Uhr
-COURSE_NR:  B250505
-PRICE:      37,00 Euro (einmalig für 2 Termine)
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 12 Jahren, für Kinder und Erwachsene, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652607/index.html?nodeID=523250652607
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Quality-Time für Mütter und Töchter ab 13 Jahren in Bietigheim-Bissingen
+SUBTITLE    mit Franziska Kaupp
+DATE_START  Mi 6. Mai 2026
+DATE_END    Mi 6. Mai 2026
+TIME        18.20-20.20 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   B250505
+PRICE       37,00 Euro (einmalig für 2 Termine)
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 12 Jahren, für Kinder und Erwachsene, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652607/index.html?nodeID=523250652607
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250505
 
 Gemeinsam mit dem eigenen Kind/Jugendlichen ab 13 Jahren etwas Neues kennenlernen, einen schönen Abend zusammen verbringen und eigene Entwürfe verwirklichen: darum geht es in der Quality Time. Die Dozentin begleitet euch dabei mit vielen interessanten Impulsen wie bei der Faszination Muster-Blockdruck/ Stempeldruck und Summerlove - Freies Zeichnen und Malen. Es wird kreativ und gesellig!
@@ -25,4 +24,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

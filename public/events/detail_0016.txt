@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Malen mit Naturmaterialien für Kinder ab 9 Jahren in Ludwigsburg
-SUBTITLE:   mit Alina Anderson
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  L250534
-PRICE:      68,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640555/index.html?nodeID=523250640555
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Malen mit Naturmaterialien für Kinder ab 9 Jahren in Ludwigsburg
+SUBTITLE    mit Alina Anderson
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250534
+PRICE       68,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640555/index.html?nodeID=523250640555
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250534
 
 Bunte Blütenfarben, erdige Brauntöne, saftiges Grasgrün, feine Blattstrukturen: dies alles finden wir in unserer Umgebung! Wir experimentieren mit Naturmaterialien und erhalten durch Erhitzen und Pressen Naturfarben mit denen wir Buchseiten bemalen. Wir können collagieren, hineinzeichnen und uns von den Farben der Natur inspirieren lassen. Am Ende binden wir die Buchseiten zu einem eigenen Buch, das wir mit nach Hause nehmen können.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

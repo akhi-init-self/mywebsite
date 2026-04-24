@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Tiere, die es gar nicht gibt! aus Ton in Ludwigsburg
-SUBTITLE:   Keramikworkshop ab 7 Jahren mit Thomas Weber
-DATE_START: Mo 3. August 2026
-DATE_END:   Do 6. August 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250815
-PRICE:      68,50 Euro inkl. Material/Brennkosten (54,80 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167006/index.html?nodeID=523254167006
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Tiere, die es gar nicht gibt! aus Ton in Ludwigsburg
+SUBTITLE    Keramikworkshop ab 7 Jahren mit Thomas Weber
+DATE_START  Mo 3. August 2026
+DATE_END    Do 6. August 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250815
+PRICE       68,50 Euro inkl. Material/Brennkosten (54,80 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167006/index.html?nodeID=523254167006
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250815
 
 Stellen wir uns einmal eine Giraffe mit Elefantenbeinen vor, eine Weinbergschnecke mit einem Einfamilienhaus auf ihrem Rücken oder ein Esel mit sechs langen, schmalen Beinen. Ihr könnt auch ein Pferd mit einem Vogelkopf oder einen Fisch, der Flossen hat und trotzdem auf vier Beinen steht, visualisieren. Auf dieses Fantasiespiel wollen wir uns einlassen und mit Ton möglichst verrückte Tiere bauen, die es gar nicht gibt.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

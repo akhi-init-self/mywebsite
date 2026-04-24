@@ -1,117 +1,31 @@
-TITLE:      Sommernachts Open Air Kino
-DATE_START: 01.08.2026
-DATE_END:   23.08.2026
-TIME:       01:08 - 23:08
-VENUE:      Karlskaserne Innenhof
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523253089266/SommernachtsOpenAirKino.html?nodeID=523253089266
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Sommernachts Open Air Kino
+DATE_START  01.08.2026
+DATE_END    23.08.2026
+TIME        01:08 - 23:08
+VENUE       Karlskaserne Innenhof
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523253089266/SommernachtsOpenAirKino.html?nodeID=523253089266
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Sommernachts Open Air Kino -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Samstag, 01.08.2026
--
 Sonntag, 23.08.2026
-Sommernachts Open Air Kino
 Beim
 alljährlichen Ludwigsburger Sommernachts Open Air Kino kommen Cineasten voll auf Ihre Kosten! Film-Highlights der Saison und echte Klassiker, Live-Musik und Kurzfilme im Vorprogramm sowie die historische Kulisse der ehemaligen Karlskaserne sorgen für ein einmaliges Ambiente.
 23 Kino-Abende mit den Film-Highlights der Saison auf der Riesenleinwand unter freiem Himmer im einmalig schönen Innenhof der Karlskaserne. Vielfältige Gastronomie vor den Vorstellungen.
 Das Filmprogramm gibt es im Juli 2026!
-Homepage
 www.openairkino-ludwigsburg.de
-Veranstaltungsort
-Karlskaserne Innenhof
 Karlskaserne Innenhof
 Hindenburgstr. 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-Veranstalter
-KinoKult e.V.
 KinoKult e.V.
 Königsallee 43
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.kinokult.de
 E-Mail
 info@kinokult.de
-Telefon
-(0
-71
+(0 71
 41) 90
 52
 84
 Fax
-(0
-71
 41) 92
 00
 60
-Kategorie
-Kunstzentrum Karlskaserne
-|
 Kino
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

@@ -1,62 +1,26 @@
-TITLE:      Bastel dir dein monstermäßiges Lesezeichen
-CODE:       26K18
-SUBTITLE:   26K18
-DATE_START: 23.04.2026
-DATE_END:   23.04.2026
-TIME:       –
-VENUE:      Kinderbücherei
-CATEGORY:   Startseite
-LEADER:     
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69e8d975a25df.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Bastel dir dein monstermäßiges Lesezeichen
+SUBTITLE    26K18
+DATE_START  23.04.2026
+DATE_END    23.04.2026
+VENUE       Kinderbücherei
+CODE        26K18
+PRICE       kostenfrei
+CATEGORY    Startseite
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx69e8d975a25df.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Bastel dir dein monstermäßiges Lesezeichen
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Bastel dir dein monstermäßiges Lesezeichen
 Kreativ-Aktion zum Welttag des Buches
 Am 23.04. feiern wir den Welttag des Buches!
 Deswegen basteln wir in der Kinderbücherei süße Leseecken-Monster!
 Komm einfach vorbei und bastel dir dein monstermäßiges Lesezeichen. Eine Anmeldung ist nicht erforderlich!
-Zeiten
 1 Nachmittag, 23.04.2026
 Donnerstag, 15:00 - 17:00 Uhr
-Anzahl
-1 Termin(e)
 Do 23.04.2026
 15:00 - 17:00 Uhr
-Kinderbücherei
-Leitung
-Nummer
 26K18
-Ort
-Kinderbücherei
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen
 Anmelden
 Belegung:
 (Plätze frei)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

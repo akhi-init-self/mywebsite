@@ -1,16 +1,15 @@
-TITLE:      Workshop: Ein Brontosaurus aus Ton für Kinder ab 7 Jahren in Ludwigsburg
-SUBTITLE:   mit Thomas Weber
-DATE_START: Sa 16. Mai 2026
-DATE_END:   So 17. Mai 2026
-TIME:       14.00-17.00 Uhr
-COURSE_NR:  L250516
-PRICE:      45,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652610/index.html?nodeID=523250652610
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Ein Brontosaurus aus Ton für Kinder ab 7 Jahren in Ludwigsburg
+SUBTITLE    mit Thomas Weber
+DATE_START  Sa 16. Mai 2026
+DATE_END    So 17. Mai 2026
+TIME        14.00-17.00 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250516
+PRICE       45,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250652610/index.html?nodeID=523250652610
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250516
 
 Der Brontosaurus ist die lateinische Bezeichnung für eine besondere Riesenechse. Es bedeutet wörtlich Donnerechse und war eines der größten Landlebewesen, die auf der Erde gelebt haben. Er konnte bis zu fünfundzwanzig Meter lang und fünf Meter hoch werden. Mit seinem kleinen Kopf, seinem langen Hals und ebenso langen Schwanz erreichte er als Pflanzenfresser ein Gewicht von dreißig Tonnen. Wir bauen zuerst den Rumpf des riesigen Tieres, montieren Hals, Kopf und Schwanz, bevor wir das Tier mit brauner Tonfarbe bemalen.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

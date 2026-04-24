@@ -1,127 +1,33 @@
-TITLE:      Der Märchenkoch
-DATE_START: 15.06.2026
-DATE_END:   15.06.2026
-TIME:       15:06 - 09:30
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250885121/DerMrchenkoch.html?nodeID=523250885121
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Der Märchenkoch
+DATE_START  15.06.2026
+DATE_END    15.06.2026
+TIME        15:06 - 09:30
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523250885121/DerMrchenkoch.html?nodeID=523250885121
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Der Märchenkoch -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Montag, 15.06.2026
-|
 9.30  Uhr
-Der Märchenkoch
 erzählt Märchen auf dem Hof der Karlskaserne
 Paavo Blofeld
 Ein Gastspiel des Spielraumtheaters ab 5 Jahren
 Der Märchenkoch kann auf eine langjährige Berufspraxis zurückschauen. Immerhin spielt der Koch in vielen Märchen eine gewisse Rolle, oder zumindest geht es ums Essen oder Gefressenwerden. Und da hat er ein superbes Rezept für Märchen entwickelt: er würzt sie mit Fantasie, Wortwitz, Situationskomik und ausgefeilter Mimik. Und schon verwandelt sich eine Zwiebel blitzschnell in eine liebenswerte Großmutter, aus einer Möhre nebst Radieschen wird Rotkäppchen und eine Gemüsepresse muss den Wolf spielen. Die Spülbürste übernimmt die Rolle der Prinzessin und der grüne Waschlappen wird zum Frosch. Vorzüglich. Der Märchenkoch zeigt, dass Märchen wie „Rotkäppchen“ oder „Der Froschkönig“ voller Überraschungen stecken können, spannend und lustvoll zugleich sind. Eine poetische Mischung aus Erzähl- und Objekttheater. Klein aber fein. Bei schönem Wetter unter freiem Himmel, auf dem Hof der Karlskaserne.
-Homepage
 Website Künstler
-Eintritt:
 Kinder: 6€, Erwachsene: 8€, Abweichende Preise Kindergarten-/Schulveranstaltungen
 Reservierung Tickets: jungebuehne@ludwigsburg.de
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
 Junge Bühne Ludwigsburg - Kunstzentrum Karlskaserne
-Junge Bühne Ludwigsburg - Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.jungebuehne.ludwigsburg.de
 E-Mail
 jungebuehne@ludwigsburg.de
-Telefon
-(0
-71
+(0 71
 41) 9
 10-32
 45
-weitere Termine
 14.06.2026
 11.00 Uhr
-Kunstzentrum Karlskaserne
 15.06.2026
 11.00
-Kunstzentrum Karlskaserne
-Kategorie
 Familie & Kinder
-|
-Kunstzentrum Karlskaserne
-|
-KK_Startseite
-|
 Theater
 Stück 11
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

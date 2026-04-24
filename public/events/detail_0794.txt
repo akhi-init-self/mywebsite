@@ -1,22 +1,16 @@
-TITLE:      Vernissage
-SUBTITLE:   Ellie Pritts | Beate Ludwig
-DATE_START: 11.04.2024
-DATE_END:   11.04.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/8-vernissage/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage
+SUBTITLE    Ellie Pritts | Beate Ludwig
+DATE_START  11.04.2024
+DATE_END    11.04.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/8-vernissage/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 11.04.2024
-Vernissage
 Ellie Pritts | Beate Ludwig
 Previous
 Next
@@ -41,21 +34,9 @@ eine ästhetische Erkundung der Transzendenz in einem Reich, in dem das Surreale
 Beate Ludwig
 gibt im
 Salon
-mit
 HEAROES
 are here
 den “Helden des Hörens” einen Raum.
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -71,19 +52,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

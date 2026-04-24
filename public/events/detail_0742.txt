@@ -1,15 +1,11 @@
-TITLE:      Vernissage im Whitespace
-SUBTITLE:   Stephanie Lüning | YOUR TURN
-DATE_START: 16.01.2026
-DATE_END:   16.01.2026
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage im Whitespace
+SUBTITLE    Stephanie Lüning | YOUR TURN
+DATE_START  16.01.2026
+DATE_END    16.01.2026
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 16.01.2026
-Vernissage im Whitespace
 Stephanie Lüning | YOUR TURN
 In Anwesenheit der Künstlerin
 und mit musikalischer Begleitung.

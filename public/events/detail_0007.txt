@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Pop-Up-Buch für Jugendliche ab 12 Jahren in Ludwigsburg
-SUBTITLE:   mit Thora Gertsner
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250556
-PRICE:      68,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640566/index.html?nodeID=523250640566
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Pop-Up-Buch für Jugendliche ab 12 Jahren in Ludwigsburg
+SUBTITLE    mit Thora Gertsner
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250556
+PRICE       68,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 12 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640566/index.html?nodeID=523250640566
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250556
 
 Ein Aufklapp-Bilderbuch der besonderen Art wollen wir in diesem Workshop gestalten. Es geht um die wohl dynamischsten und bemerkenswertesten Bücher, die es gibt, in der fantastischen Pop-up-Technik. Wir nehmen uns viel Zeit, unsere Ideen aus Papier zu verwirklichen, zu zeichnen, zu schneiden, zu leimen, zu montieren. Am Ende des Kurses werdet ihr euer eigenes Pop-up-Buch mit nach Hause nehmen dürfen und eure Freunde und Familie damit überraschen.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

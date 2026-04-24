@@ -1,76 +1,30 @@
-TITLE:      PRIDE Kreativnachmittag
-CODE:       26USW11
-SUBTITLE:   26USW11
-DATE_START: 26.06.2026
-DATE_END:   26.06.2026
-TIME:       –
-VENUE:      Veranstaltungsraum
-CATEGORY:   Und was es sonst gibt
-LEADER:     Maren Langer
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx694a7ff0c180a.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       PRIDE Kreativnachmittag
+SUBTITLE    26USW11
+DATE_START  26.06.2026
+DATE_END    26.06.2026
+VENUE       Veranstaltungsraum
+CODE        26USW11
+PRICE       kostenfrei
+CATEGORY    Und was es sonst gibt
+LEADER      Maren Langer
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx694a7ff0c180a.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-PRIDE Kreativnachmittag
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-PRIDE Kreativnachmittag
 Gemeinsam kreativ sein, sich gegenseitig inspirieren und austauschen.
 Das Material für Pride-Armbänder sowie Buttons wird gestellt – mit Vorlagen und Raum für Eigenkreationen.
 Begleitet von einer Medienausstellung und Infomaterial.
 Für Queers und Allies ab 14 Jahren, Familien mit Kindern und Erwachsene.
 Eintritt: frei
 In Kooperation mit dem Verein LISBERT Queer Ludwigsburg e.V
-Zeiten
 1 Tag, 26.06.2026
 Freitag, 16:00 - 18:30 Uhr
-Anzahl
-1 Termin(e)
 Fr 26.06.2026
 16:00 - 18:30 Uhr
-Kinderbücherei
-Leitung
 Maren Langer
-Nummer
 26USW11
-Ort
-Kinderbücherei
-Preis
 kostenfrei
 in den Warenkorb legen
 Veranstaltung in Warenkorb legen
 Anmelden
 Belegung:
 (Plätze frei)
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Maren
-Langer
-Seminar- und Hausarbeiten leicht gemacht
-26WL03
-Einführung in das wissenschaftliche Arbeiten
-12.05.26
-(1-mal)
-16:00
-- 17:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

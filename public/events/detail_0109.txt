@@ -1,16 +1,15 @@
-TITLE:      Workshop: Ein Esel aus Ton für Kinder ab 7 Jahren in Ludwigsburg
-SUBTITLE:   mit Thomas Weber
-DATE_START: Sa 6. Juni 2026
-DATE_END:   So 7. Juni 2026
-TIME:       14.00-17.00
-COURSE_NR:  L250606
-PRICE:      45,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640569/index.html?nodeID=523250640569
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Ein Esel aus Ton für Kinder ab 7 Jahren in Ludwigsburg
+SUBTITLE    mit Thomas Weber
+DATE_START  Sa 6. Juni 2026
+DATE_END    So 7. Juni 2026
+TIME        14.00-17.00
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250606
+PRICE       45,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 6 Jahren, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640569/index.html?nodeID=523250640569
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250606
 
 Der Esel gehört zu den ältesten Haustieren des Menschen. Die auffälligsten Merkmale eines Esels sind die langen, beweglichen Ohren und das graue Fell. Man sagt, dass Esel störrisch sind, dabei sind sie aber nur vorsichtig und lassen sich zu nichts zwingen. Eigentlich haben sie ein freundliches und ruhiges Wesen. Wird ein Esel gut behandelt, ist er ein verlässlicher und treuer Gefährte des Menschen. Aus Tonschlangen bauen wir die Einzelteile des Körpers, den wir nach dem Zusammenbau mit Tonfarben bemalen.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

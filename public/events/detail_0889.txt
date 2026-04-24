@@ -1,68 +1,24 @@
-TITLE:      Bilderbuchsamstag
-CODE:       26KBS33
-SUBTITLE:   26KBS33
-DATE_START: 15.08.2026
-DATE_END:   15.08.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Für Kinder
-LEADER:     
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx693ad1364f49c.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Bilderbuchsamstag
+SUBTITLE    26KBS33
+DATE_START  15.08.2026
+DATE_END    15.08.2026
+VENUE       Ludwigsburg
+CODE        26KBS33
+PRICE       kostenfrei
+CATEGORY    Für Kinder
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx693ad1364f49c.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Bilderbuchsamstag
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Bilderbuchsamstag
 Vorlesezeit für alle
 An jedem Samstag lesen ehrenamtliche Vorleserinnen für Kinder vor.
 Jede Woche gibt es neue Geschichten. Einfach vorbeikommen und zuhören.
 für Menschen ab vier Jahren
 keine Anmeldung erforderlich
 Eintritt frei
-Zeiten
-1 Vormittag, 15.08.2026
 Samstag, 11:00 - 11:45 Uhr
-Anzahl
-1 Termin(e)
 Sa 15.08.2026
 11:00 - 11:45 Uhr
-Stadtbibliothek
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Kinderbibliothek
-Leitung
-Nummer
 26KBS33
-Ort
-Stadtbibliothek
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Kinderbibliothek
-Preis
 kostenfrei
-keine Anmeldung erforderlich
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

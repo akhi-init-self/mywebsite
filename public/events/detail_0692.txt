@@ -1,28 +1,14 @@
-TITLE:      Sommerferienworkshop: In Holz hauen und Schnitzen in Ludwigsburg
-DATE_START: 31.08.2026
-DATE_END:   04.09.2026
-TIME:       31:08 - 04:09
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254149658/SommerferienworkshopInHolzhauenundSchnitzeninLudwigsburg.html?nodeID=523254149658
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Sommerferienworkshop: In Holz hauen und Schnitzen in Ludwigsburg
+DATE_START  31.08.2026
+DATE_END    04.09.2026
+TIME        31:08 - 04:09
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254149658/SommerferienworkshopInHolzhauenundSchnitzeninLudwigsburg.html?nodeID=523254149658
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Sommerferienworkshop: In Holz hauen und Schnitzen in Ludwigsburg -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Montag, 31.08.2026
--
 Freitag, 04.09.2026
-|
 13.30-16.30 Uhr
-Sommerferienworkshop: In Holz hauen und Schnitzen in Ludwigsburg
 Holzwerkstatt von 8-10 Jahren mit Claus Staudt
 Kursnummer: L250829
 In diesem Kurs schnitzen und hauen wir aus Holz Figuren, Tiere oder andere Objekte, die ihr schon immer gern mal umsetzen wolltet. Wir lernen, mit Stechbeitel und anderen Werkzeugen umzugehen und versuchen unsere eigene Skulptur herzustellen. Zuerst wird gezeichnet, dann schauen wir uns den Holzblock an und nun nehmen wir so viele Holzspäne weg, wie wir benötigen, um eine Figur daraus entstehen zu lassen. Wer hat nicht schon immer von einem eigenen geschnitzten Holzpferd geträumt? Eure eigene Skulptur könnt ihr anschließend mit nach Hause nehmen.
@@ -32,96 +18,9 @@ Gebühr: 80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahres
 Anmeldungen schriftlich bis spätestens Sonntag, 26. Juli 2026 per E-Mail: kunstschule@ludwigsburg.de per Post: Kunstschule Labyrinth, Hindenburgstr. 29, 71638 Ludwigsburg
 Anmeldeformulare unter
 www.kunstschule-labyrinth.de
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
-Kunstschule Labyrinth
-Kunstschule Labyrinth
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
-www.kunstschule-labyrinth.de
-Telefon
-(07
-14
-19
-10
-32
+(07 14 19 10 32
 48) 32
 41
-Kategorie
 Familie & Kinder
-|
-alle Ferienworkshops
-|
 für Kinder ab 8 Jahren
-|
-Sommerferienworkshops
-|
-Kunstzentrum Karlskaserne
-|
-Kinder und Jugendliche
-|
-Workshops_Karlskaserne
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

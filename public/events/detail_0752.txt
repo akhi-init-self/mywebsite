@@ -1,15 +1,11 @@
-TITLE:      Vernissage
-SUBTITLE:   Anna Fasshauer | Eman Elbana
-DATE_START: 17.10.2025
-DATE_END:   17.10.2025
-TIME:       –
-SECTION:    past
-URL:        –
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Vernissage
+SUBTITLE    Anna Fasshauer | Eman Elbana
+DATE_START  17.10.2025
+DATE_END    17.10.2025
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 17.10.2025
-Vernissage
 Anna Fasshauer | Eman Elbana
 Mit Anwesenheit der Künstler*innen
 und musikalischer Begleitung.

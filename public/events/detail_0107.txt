@@ -1,20 +1,18 @@
-TITLE:      Workshop: Ein Braunbär aus Ton in Ludwigsburg
-SUBTITLE:   Keramikworkshop für Kinder ab 6 Jahren mit Vitali Safronov
-DATE_START: Sa 4. Juli 2026
-DATE_END:   So 5. Juli 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250704
-PRICE:      45,50 Euro
-CATEGORIES: Familie &amp; Kinder, für Kinder ab 6 Jahren, Keramikworkshops, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250672365/index.html?nodeID=523250672365
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Ein Braunbär aus Ton in Ludwigsburg
+SUBTITLE    Keramikworkshop für Kinder ab 6 Jahren mit Vitali Safronov
+DATE_START  Sa 4. Juli 2026
+DATE_END    So 5. Juli 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250704
+PRICE       45,50 Euro
+CATEGORIES  Familie &amp; Kinder, für Kinder ab 6 Jahren, Keramikworkshops, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250672365/index.html?nodeID=523250672365
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250704
 
 Auch wenn die Bärenbabies sehr niedlich aussehen und wie unsere Teddybären zum Schmusen einladen, ist der Braunbär ein gefährliches Raubtier, dem man aus dem Weg gehen sollte. Braunbären besitzen einen langgestreckten, stämmigen Körper
-,
 einen großen Kopf mit runden Ohren und langer Schnauze, kurze, kräftige Beine mit großen Tatzen und einen kurzen Stummelschwanz. Haben wir die einzelnen Teile aus Tonschlangen montiert, werden wir ihn bemalen und das dichte Fell mit Ritzungen imitieren.
 Gebühr: 45,50 Euro
 Anmeldung:
@@ -25,4 +23,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

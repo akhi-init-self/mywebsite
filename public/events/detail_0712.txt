@@ -1,116 +1,28 @@
-TITLE:      Music got the Rhythm
-DATE_START: 04.11.2026
-DATE_END:   04.11.2026
-TIME:       04:11 - 10:00
-VENUE:      Kunstzentrum Karlskaserne
-CATEGORIES: 
-URL:        https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254404801/MusicgottheRhythm.html?nodeID=523254404801
-SOURCE:     karlskaserne.ludwigsburg.de
+TITLE       Music got the Rhythm
+DATE_START  04.11.2026
+DATE_END    04.11.2026
+TIME        04:11 - 10:00
+VENUE       Kunstzentrum Karlskaserne
+URL         https://karlskaserne.ludwigsburg.de/site/Ludwigsburg-Karlskaserne-2025/node/23666757/zmdetail_523254404801/MusicgottheRhythm.html?nodeID=523254404801
+SOURCE      karlskaserne.ludwigsburg.de
 ============================================================
-
-Veranstaltungen- Music got the Rhythm -  | Karlskaserne Ludwigsburg
-Gehe zum Navigationsbereich
-Gehe zum Inhalt
-Gebärdensprache
-leichte Sprache
-Veranstaltungen
-Veranstaltungen
-Zurück
-Termin in meinen Kalender (z. B. Outlook) übernehmen
 Mittwoch, 04.11.2026
-|
 10.00 Uhr
-Music got the Rhythm
 Das Jahrhundert des Jazz
 Foto: Dieter Reinmüller
 Der Jazz eroberte in den 1920ern die Welt im Sturm: das erste Pop-Phänomen. Die Geschichte des Jazz wird, ausgehend von den Wurzeln "New Orleans" über die Äste “Swing“, "Bebop" und "Free Jazz", bis hin zu einigen aktuellen Ablegern musikalisch dargestellt. Eine kurzweilige Moderation erklärt den "Stammbaum des Jazz". Hierbei geht es nicht um einen Vortrag von Daten und Jahreszahlen (die stehen im Musiklexikon), sondern um eine unterhaltsame Präsentation der Stilvielfalt des Jazz.
 Jugendgerechte Moderation, Interaktionen und Partizipationsangebote machen dieses pädagogische Konzert kurzweilig und elementar erlebbar. Das Projekt etabliert mit seinen Inhalten und Strukturen eine Kulturvermittlung, die Jugendliche da abholt, wo sie stehen, ohne sich anzubiedern - die ihnen neben historischem und musikalischem Wissen insbesondere Freude an der Musik aufzeigt. Sie ist vielseitig und aufregend, sie verbindet wie keine andere den Groove (Bauch) mit komplexen Harmonien (Kopf) und Impro-Konzepten.
 Zur Band: Anlässlich dieses Projekts fanden sich unter der Leitung des Jazzgitarristen Jörn Baehr acht bekannte Musikerpersönlichkeiten der Region Stuttgart zusammen, die sich engagiert auf die Äste des "Jazztrees" schwingen und deren Arrangements den Auftritt zu einem hochkarätigen Konzertereignis werden lassen. Es ist kein Zufall, dass die mitwirkenden Musiker allesamt auch im jazzpädagogischen Bereich tätig sind.
 Für alle Jugendlichen ab 12 Jahre und Schulklassen, die sich im Musikunterricht mit dem Thema Jazz befassen.
-Homepage
-Music got the Rhythm
-Veranstaltungsort
-Kunstzentrum Karlskaserne
-Kunstzentrum Karlskaserne
-Hindenburgstraße 29
-71638
-Ludwigsburg
-OpenStreetMap
-Fahrplanauskunft
 www.karlskaserne.de
-Veranstalter
-Jazz - Club Ludwigsburg e. V.
 Jazz - Club Ludwigsburg e. V.
 Postfach: 1402
-70798
 Kornwestheim
 www.jazzclub-ludwigsburg.de
-Telefon
-(0
-71
+(0 71
 54) 18
 32
 41
 Fax
-(0
-71
-54) 18
-32
 42
-Kategorie
-Kunstzentrum Karlskaserne
-|
 Musik & Konzerte
--
-,
-Zurück
-Impressum
-Datenschutz
-Cookies
-Barrierefreiheit
-Kontakt
-anmelden
-Zum Seitenanfang
-Die Karlskaserne
-+
-Geschichte
-Räume
-Innenhof
-Das Kunstzentrum
-+
-Einrichtungen
-Gastronomie
-Aktuelles
-Newsletter
-Anfahrt
-Kontakt
-Veranstaltungen
-Ausstellungen
-Wir nutzen Cookies und andere Technologien.
-Diese Website nutzt Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an Dritte weitergegeben und an Dritte in Ländern, in denen evtl. kein angemessenes Datenschutzniveau vorliegt und von diesen verarbeitet wird, z. B. die USA. Ihre Einwilligung ist stets freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über den Link "Cookies" im Footer unserer Seite abgelehnt oder widerrufen werden.
-Alles akzeptieren
-Einstellungen
-Ablehnen
-Impressum
-Datenschutzhinweis
-Powered by Komm.ONE
-Bitte wählen Sie zuzulassende Richtlinien aus
-Technisch notwendig
-(2)
-?
-Hier sind alle technisch notwendigen Elemente zu finden, die für den Betrieb der Website notwendig sind oder für den Betreiber unbedingt erforderlich für die Erbringung des Dienstes ist.
-Analyse / Statistiken
-(1)
-?
-Es werden Daten wie die Anzahl der Besucher und Seitenaufrufe erfasst und anonym gespeichert.
-Social Media
-(1)
-?
-Hier werden alle Social-Media-Kanäle aufgelistet, die die Website verwendet.
-Sonstiges
-(2)
-?
-Hier sind sonstige Skripte und Cookies zu finden, die in keine der anderen Kategorien passen.
-Abbrechen
-Speichern
-Alle akzeptieren

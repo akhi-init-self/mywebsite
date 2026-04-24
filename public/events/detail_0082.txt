@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Bayala - Dein magisches Elfenabenteuer
-SUBTITLE:   Malen und Gestalten ab 6 Jahren mit Thora Gerstner
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250947
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138857/index.html?nodeID=523254138857
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Bayala - Dein magisches Elfenabenteuer
+SUBTITLE    Malen und Gestalten ab 6 Jahren mit Thora Gerstner
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250947
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254138857/index.html?nodeID=523254138857
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250947
 
 Wir tauchen in diesem Kurs ein in eine Welt voller Magie und Harmonie. Gemeinsam erwecken wir die Figuren aus der Bayala-Welt zum Leben und kreieren schimmernde Gemälde, glitzernde Zeichnungen und bezaubernde Wunschkristalle. Der Workshop bietet die Möglichkeit sowohl tragbare Kunstwerke (Freundschaftsarmbänder und Schlüsselanhänger) als auch dekorative Ideen wie glitzernde Tischsets und wundersame Fensterbilder umzusetzen.
@@ -21,4 +20,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

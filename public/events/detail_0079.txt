@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Ein verwunschener Feuerdrache in Ludwigsburg
-SUBTITLE:   Plastisches Gestalten für Kinder ab 6 Jahren mit Mark Knüttgen
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250943
-PRICE:      80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139381/index.html?nodeID=523254139381
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Ein verwunschener Feuerdrache in Ludwigsburg
+SUBTITLE    Plastisches Gestalten für Kinder ab 6 Jahren mit Mark Knüttgen
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250943
+PRICE       80,00 Euro inkl. Material/Brennkosten (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139381/index.html?nodeID=523254139381
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250943
 
 In vielen Kulturen gibt es erstaunliche Geschichten über Drachen, feuerspeiend und gefährlich oder wundersam und glücksbringend. In Fundstücken, Ästen oder Schwemmhölzern können sie verborgen sein. Zusammengefügt mit Klebeband und Schnüren, verschönert mit bunten Farben und allerhand Krimskrams verwandeln sich Fundstücke mit viel Fantasie und handwerklichem Geschick in unseren eigenen Drachen.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Urban Sketching in Ludwigsburg
-SUBTITLE:   Zeichenworkshop ab 10 Jahren mit Christine Koschel
-DATE_START: Sa 5. September 2026
-DATE_END:   So 6. September 2026
-TIME:       09.30-12.30
-COURSE_NR:  L250939
-PRICE:      45,50 Euro inkl. Material/Brennkosten (36,40 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149652/index.html?nodeID=523254149652
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Urban Sketching in Ludwigsburg
+SUBTITLE    Zeichenworkshop ab 10 Jahren mit Christine Koschel
+DATE_START  Sa 5. September 2026
+DATE_END    So 6. September 2026
+TIME        09.30-12.30
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250939
+PRICE       45,50 Euro inkl. Material/Brennkosten (36,40 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254149652/index.html?nodeID=523254149652
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250939
 
 Die Stadt ist groß und spannend, aber wie fangen wir diese auf Papier ein? Gemeinsam lernen wir Grundtechniken des Zeichnens und Skizzierens kennen, um dann später täglich das Gelernte draußen anwenden zu können. Wir erfahren etwas über Perspektive, genaues Beobachten und Umsetzen mit Bleistift, Filzstift und Tusche. Beim Spaziergang in der Stadt suchen wir uns Standorte, um markante oder spezifische Häuser, Straßen und Plätze auf das Blatt Papier zu bannen. Zusammen mit der Dozentin könnt ihr eure Skizzen besprechen. Papier und Stifte haben wir für Euch.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

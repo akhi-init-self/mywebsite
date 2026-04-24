@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Hip Hop Streetdance Kids in Ludwigsburg
-SUBTITLE:   Tanzwerkstatt für Kinder von 8-9 Jahren mit Maria Cultrera
-DATE_START: Mo 7. September 2026
-DATE_END:   Fr 11. September 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250944
-PRICE:      80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139380/index.html?nodeID=523254139380
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Hip Hop Streetdance Kids in Ludwigsburg
+SUBTITLE    Tanzwerkstatt für Kinder von 8-9 Jahren mit Maria Cultrera
+DATE_START  Mo 7. September 2026
+DATE_END    Fr 11. September 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250944
+PRICE       80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254139380/index.html?nodeID=523254139380
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250944
 
 Ihr wollt die Welt des Hip-Hops kennenlernen? In diesem Workshop für Einsteiger erarbeitet ihr erste Basic-Moves aus verschiedenen Hip-Hop-Styles. Im Laufe der Woche entsteht eure erste kurze Choreografie, die ihr am Ende in kleinem Rahmen vor Eltern, Freunden und Bekannten aufführt.  Bitte zieht euch sportliche Kleidung an, Schuhe mit abriebfester, heller Sohle und nehmt ausreichend Essen und Trinken für die Pausen mit.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

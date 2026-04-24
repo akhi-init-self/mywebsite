@@ -1,16 +1,15 @@
-TITLE:      Workshop: Flower Power ab 18 Jahren in Ludwigsburg
-SUBTITLE:   mit Patrizia Kränzlein
-DATE_START: Sa 23. Mai 2026
-DATE_END:   Sa 23. Mai 2026
-TIME:       9.30-15.30 Uhr
-COURSE_NR:  L250523
-PRICE:      49,00 Euro
-CATEGORIES: für Erwachsene, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523251266563/index.html?nodeID=523251266563
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Workshop: Flower Power ab 18 Jahren in Ludwigsburg
+SUBTITLE    mit Patrizia Kränzlein
+DATE_START  Sa 23. Mai 2026
+DATE_END    Sa 23. Mai 2026
+TIME        9.30-15.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250523
+PRICE       49,00 Euro
+CATEGORIES  für Erwachsene, Kunstzentrum Karlskaserne, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523251266563/index.html?nodeID=523251266563
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250523
 
 Experimenteller Aquarell-Workshop zum Thema Blumen und Blüten. Leuchtende Farben, dynamische Übergänge und Spontanität sind die typischen Eigenschaften des Aquarells. In diesem Workshop werden wir uns von der Vielfalt der Farben und Formen inspirieren lassen und in die Welt des Aquarellierens eintauchen. Wir nähern uns den Motiven durch eine naturgetreue oder auch abstrahierende Darstellung. Vorkenntnisse sind nicht erforderlich. Bitte Verpflegung für den Tag mitbringen.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

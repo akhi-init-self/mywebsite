@@ -1,146 +1,25 @@
-TITLE:      Girls Day-Workshop 2026
-CODE:       26DM01
-SUBTITLE:   26DM01
-DATE_START: 23.04.2026
-DATE_END:   23.04.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Startseite
-LEADER:     
-PRICE:      frei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b949647e959.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Girls Day-Workshop 2026
+SUBTITLE    26DM01
+DATE_START  23.04.2026
+DATE_END    23.04.2026
+VENUE       Ludwigsburg
+CODE        26DM01
+PRICE       frei
+CATEGORY    Startseite
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68b949647e959.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Girls Day-Workshop 2026
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Girls Day-Workshop 2026
 Roboter programmieren & 3D-Druck
 Bibliotheken und Bücher? Ja klar - aber wusstest du auch, dass wir programmierbare Roboter, einen 3D-Drucker und vieles mehr haben? An diesem Vormittag dreht sich alles um die digitalen Medien unserer Medienwerkstatt.
 Durch das Programmieren unserer Roboter und Minicomputern mit Hilfe unterschiedlicher Apps erhältst du einen Einblick in grafische Programmiersprachen.
 Außerdem widmen wir uns dem Thema 3D-Druck. Wir zeigen dir in Aktion, wie ein 3D-Drucker funktioniert und was man damit alles drucken kann. Mit einem CAD-Programm erstellst du anschließend eigene dreidimensionale Objekte am PC.
 Für Schülerinnen der Klassenstufe 5 bis 7.
 Anmeldung: www.girls-day.de/radar
-Zeiten
 1 Tag, 23.04.2026
 Donnerstag, 09:00 - 13:00 Uhr
-Anzahl
-1 Termin(e)
 Do 23.04.2026
 09:00 - 13:00 Uhr
-Stadtbibliothek
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Raum 1
-Leitung
-Nummer
 26DM01
-Ort
-Stadtbibliothek
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Raum 1
-Preis
 frei
-Anmeldung: www.girls-day.de/radar
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Alexandra
-Sterz
-Roboter programmieren: Eltern-Kind-Workshop
-26DM09
-30.04.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-3D-Drucker-Sprechstunde
-26D02
-19.05.26
-(1-mal)
-17:30
-- 18:30
-Ludwigsburg
-Roboter programmieren: Eltern-Kind-Workshop
-26DM10
-21.05.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Workshop: CAD & 3D-Druck
-26DM02
-26.05.26
-(1-mal)
-10:00
-- 12:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Workshop: Roboter programmieren
-26DM04
-28.05.26
-(1-mal)
-10:00
-- 12:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Online-Workshop: Zeichentrickfilm
-26DM05
-Ferienworkshop
-03.06.26
-(1-mal)
-10:30
-- 12:30
-Online-Veranstaltung
-(Plätze frei)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen
-Roboter programmieren: Eltern-Kind-Workshop
-26DM11
-25.06.26
-(1-mal)
-15:30
-- 17:00
-Ludwigsburg
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-3D-Drucker-Sprechstunde
-26D05
-24.11.26
-(1-mal)
-17:30
-- 18:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

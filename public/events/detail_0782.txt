@@ -1,22 +1,16 @@
-TITLE:      Forró-Abend
-SUBTITLE:   mit der Forró Haus-Band
-DATE_START: 05.09.2024
-DATE_END:   05.09.2024
-TIME:       –
-SECTION:    past
-URL:        https://www.kunstverein-ludwigsburg.de/veranstaltungen/22-forro-abend/
-SOURCE:     kunstverein-ludwigsburg.de
+TITLE       Forró-Abend
+SUBTITLE    mit der Forró Haus-Band
+DATE_START  05.09.2024
+DATE_END    05.09.2024
+URL         https://www.kunstverein-ludwigsburg.de/veranstaltungen/22-forro-abend/
+SOURCE      kunstverein-ludwigsburg.de
+SECTION     past
 ============================================================
-
 Veranstaltungen / Kunstverein Kreis Ludwigsburg e.V.
 Home
-Ausstellungen
-Veranstaltungen
 Künstler*innen
 Verein
-Führungen
 Öffnungszeiten
-Kontakt
 News
 WIR
 SUCHEN
@@ -26,7 +20,6 @@ Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnu
 Nähere Infos gibt es
 hier!
 05.09.2024
-Forró-Abend
 mit der Forró Haus-Band
 Previous
 Next
@@ -37,17 +30,6 @@ Der Abend beginnt mit einer Einführung in die Grundschritte des Forró, sodass 
 •	Eintritt: Frei, keine Anmeldung erforderlich
 •	Bewirtung: Madame Lu
 Ob Sie bereits ein erfahrener Tänzer sind oder einfach neue Erfahrungen sammeln möchten, dieser Abend ist für jeden etwas. Wir freuen uns auf Sie!
-WIR
-SUCHEN
-DICH
-!
-Für unsere Ausstellungen suchen wir freundliche Menschen, die zu unseren Öffnungszeiten für unsere Besucher die Türen öffnen.
-Nähere Infos gibt es
-hier!
-Datenschutz
-Impressum
-Home
-Ausstellungen
 2026
 2025
 2024
@@ -63,19 +45,11 @@ Ausstellungen
 2014
 2013
 ▼
-Veranstaltungen
-Künstler*innen
-Verein
 Team
 Mitglied werden
 Bewerbung Salon
 Förderer
 Spenden
-▼
-Führungen
-Öffnungszeiten
-Kontakt
-News
 Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer
 Datenschutzerklärung
 OK

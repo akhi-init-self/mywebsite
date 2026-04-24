@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Binding journals in Ludwigsburg
-SUBTITLE:   Buchgestaltung ab 10 Jahren mit Thora Gerstner
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       13.30-16.30 Uhr
-COURSE_NR:  L250740
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254184606/index.html?nodeID=523254184606
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Binding journals in Ludwigsburg
+SUBTITLE    Buchgestaltung ab 10 Jahren mit Thora Gerstner
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        13.30-16.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250740
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254184606/index.html?nodeID=523254184606
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250740
 
 In diesem Workshop werden wir unser eigenes Tagebuch herstellen. Ein selbst gebundenes Hardcoverbuch, ganz nach unserer eigenen Lust und Laune. Wir gestalten den Einband unseres Buchs selbst und wählen sorgfältig die Blätter aus, welche wir in unserem Buch nutzen wollen. Alles ist möglich und ihr werdet staunen, wie vielfältig und besonders ihr euer Diary verzieren könnt. Am Ende des Kurses werden wir unsere persönlichen Bücher mit nach Hause nehmen
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

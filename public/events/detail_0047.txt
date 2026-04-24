@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Contemporary Dance Camp in Ludwigsburg
-SUBTITLE:   Tanzwerkstatt für Kinder und Jugendliche von 9-11 Jahren mit Amaya Brandt
-DATE_START: Mo 3. August 2026
-DATE_END:   Fr 7. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  L250807
-PRICE:      80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167013/index.html?nodeID=523254167013
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Contemporary Dance Camp in Ludwigsburg
+SUBTITLE    Tanzwerkstatt für Kinder und Jugendliche von 9-11 Jahren mit Amaya Brandt
+DATE_START  Mo 3. August 2026
+DATE_END    Fr 7. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250807
+PRICE       80,00 Euro (64,00 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 10 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254167013/index.html?nodeID=523254167013
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250807
 
 Taucht ein in die Welt des zeitgenössischen Tanzes! Der Kurs bietet eine kreative Plattform für die Erkundung individueller Bewegungsausdrücke. Von Improvisation über Technik und Partnering bis hin zu Choreographie - entdeckt die Vielfalt dieses dynamischen Genres. Findet eure künstlerische Stimme und entwickelt diese. Es sind keine Vorkenntnisse erforderlich, nur die Bereitschaft, sich zu bewegen und zu experimentieren. Bitte zieht sportliche Kleidung an, Socken oder Schläppchen und nehmt Essen und Trinken mit.
@@ -22,4 +21,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg

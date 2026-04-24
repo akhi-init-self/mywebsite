@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Wackeldackel, Löwenhocker, Kistenlaster in Bietigheim
-SUBTITLE:   Kinderkunstwerkstatt für Kinder ab 7 Jahren mit Mark Knüttgen
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  B250731
-PRICE:      57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254157303/index.html?nodeID=523254157303
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Wackeldackel, Löwenhocker, Kistenlaster in Bietigheim
+SUBTITLE    Kinderkunstwerkstatt für Kinder ab 7 Jahren mit Mark Knüttgen
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250731
+PRICE       57,00 Euro inkl. Material/Brennkosten (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523254157303/index.html?nodeID=523254157303
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250731
 
 Aus Holzkisten, Latten und Brettern bauen wir in diesem Workshop fantastische Tiere, bunte Sitzkreationen und holprige Fahrzeuge. Das Baumaterial steht bereit. Es braucht nur Ausdauer und Kraft beim Hämmern, Sägen und Nageln und Freude beim Bemalen der Objekte.

@@ -1,27 +1,15 @@
-TITLE:      Maker Zone
-CODE:       26DM17
-SUBTITLE:   26DM17
-DATE_START: 18.06.2026
-DATE_END:   18.06.2026
-TIME:       –
-VENUE:      Ludwigsburg
-CATEGORY:   Digitale Welt
-LEADER:     Tim EhrlicherSophie Reinecke
-PRICE:      kostenfrei
-URL:        https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68d62376682e2.html
-SOURCE:     events-stabi.ludwigsburg.de
+TITLE       Maker Zone
+SUBTITLE    26DM17
+DATE_START  18.06.2026
+DATE_END    18.06.2026
+VENUE       Ludwigsburg
+CODE        26DM17
+PRICE       kostenfrei
+CATEGORY    Digitale Welt
+LEADER      Tim EhrlicherSophie Reinecke
+URL         https://events-stabi.ludwigsburg.de/Veranstaltung/cmx68d62376682e2.html
+SOURCE      events-stabi.ludwigsburg.de
 ============================================================
-
-Maker Zone
-stadtbibliothek-ludwigsburg.de
-menu
-Menü
-Startseite
-Suche
-Kontakt
-Warenkorb
-Login
-Maker Zone
 Ausprobieren und inspirieren lassen!
 Die Maker Zone ist ein mobiles Tüftellabor in der Stadtbibliothek Ludwigsburg. Hier verbinden sich Kunst, Technik und Medien auf besondere Weise zu einem Ort des kreativen Ausprobierens und Entdeckens.
 Einmal im Monat öffnet die Maker Zone ihre Türen zu offenen Werkstatttagen.
@@ -36,107 +24,13 @@ Keine Anmeldung erforderlich - einfach vorbeikommen und mitmachen!
 In Kooperation mit ehrenamtlichen Mentorinnen und Mentoren.
 Gefördert im Rahmen des Projekts "Bibliotheksentwicklung für die Stadtgesellschaft" im Fonds hochdrei der Kulturstiftung des Bundes.
 ..
-Zeiten
 1 Tag, 18.06.2026
 Donnerstag, 16:00 - 18:30 Uhr
-Anzahl
-1 Termin(e)
 Do 18.06.2026
 16:00 - 18:30 Uhr
-Stadtbibliothek
-,
 Wilhelmstraße, 71638 Ludwigsburg
-,
 Raum 1
-Leitung
 Tim Ehrlicher
 Sophie Reinecke
-Nummer
 26DM17
-Ort
-Stadtbibliothek
-,
-Wilhelmstraße, 71638 Ludwigsburg
-,
-Raum 1
-Preis
 kostenfrei
-Keine Anmeldung erforderlich - einfach vorbeikommen und mitmachen!
-Bitte aktivieren Sie Cookies, um die Warenkorb- und Anmeldefunktionalität zu nutzen.
-Termin(e) im Kalender speichern
-Weitere Veranstaltungen von
-Tim
-Ehrlicher
-Maker Zone
-26DM16
-Ausprobieren und inspirieren lassen!
-07.05.26
-(1-mal)
-16:00
-- 18:30
-Ludwigsburg
-Gaming Friday
-26DM21
-08.05.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Fridays for Coding
-26DM26
-Coding mit Scratch
-22.05.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Gaming Friday
-26DM22
-05.06.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Fridays for Coding
-26DM27
-Coding mit Scratch
-19.06.26
-(1-mal)
-15:30
-- 17:30
-Veranstaltungsraum
-(keine freien Plätze. Anmeldung auf Warteliste möglich.)
-in den Warenkorb legen
-Veranstaltung in Warenkorb legen (Warteliste)
-Weitere Veranstaltungen von
-Sophie
-Reinecke
-Maker Zone
-26DM16
-Ausprobieren und inspirieren lassen!
-07.05.26
-(1-mal)
-16:00
-- 18:30
-Ludwigsburg
-Stadtbibliothek Ludwigsburg
-Wilhelmstr. 9/1
-, 71638
-Ludwigsburg
-Tel.: +49 7141 9102542
-stabi.service@ludwigsburg.de
-http://www.stabi-ludwigsburg.de
-Lage & Routenplaner
-Impressum
-AGB
-Datenschutz
-Widerrufsformular

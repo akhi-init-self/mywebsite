@@ -1,16 +1,15 @@
-TITLE:      Sommerferienworkshop: Ballett kreativ in Bietigheim
-SUBTITLE:   Tanzwerkstatt für Kinder von 6-8 Jahren mit Alla Tutar
-DATE_START: Do 30. Juli 2026
-DATE_END:   Sa 1. August 2026
-TIME:       09.30-12.30 Uhr
-COURSE_NR:  B250732
-PRICE:      57,00 Euro (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstschule Labyrinth, Bietigheim-Bissingen
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523253566001/index.html?nodeID=523253566001
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Sommerferienworkshop: Ballett kreativ in Bietigheim
+SUBTITLE    Tanzwerkstatt für Kinder von 6-8 Jahren mit Alla Tutar
+DATE_START  Do 30. Juli 2026
+DATE_END    Sa 1. August 2026
+TIME        09.30-12.30 Uhr
+VENUE       Kunstschule Labyrinth, Bietigheim-Bissingen
+COURSE_NR   B250732
+PRICE       57,00 Euro (45,60 Euro für Labyrinth-Jahreskursteilnehmer im Schuljahr 2025/2026)
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 6 Jahren, Kinder und Jugendliche, Kunstzentrum Karlskaserne, Sommerferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523253566001/index.html?nodeID=523253566001
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: B250732
 
 Ihr habt Lust, die ersten Schritte in die Welt des Balletttanzens zu machen? Mit viel Spaß lernt ihr die Grundlagen des Balletttanzes kennen, arbeitet an einer guten Körperhaltung und tanzt spielerisch. Zudem bekommt ihr wertvolle Anregungen, die eine gute motorische, soziale und geistige Entwicklung begünstigen. Bitte nehmt Essen und Trinken für die Pausen mit. Empfohlene Kleidung: Leggings und T-Shirt oder Ballett-Trikots mit Strumpfhose. Ballett- oder Turnschläppchen.

@@ -1,16 +1,15 @@
-TITLE:      Ferienworkshop: Tanztheaterwerkstatt für Kinder von 8-10 Jahren in Ludwigsburg
-SUBTITLE:   mit Anna Rother
-DATE_START: Di 26. Mai 2026
-DATE_END:   Fr 29. Mai 2026
-TIME:       9.30-12.30 Uhr
-COURSE_NR:  L250540
-PRICE:      68,50 Euro
-CATEGORIES: alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
-VENUE:      Kunstzentrum Karlskaserne
-URL:        https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640558/index.html?nodeID=523250640558
-SOURCE:     kunstschule-labyrinth.ludwigsburg.de
+TITLE       Ferienworkshop: Tanztheaterwerkstatt für Kinder von 8-10 Jahren in Ludwigsburg
+SUBTITLE    mit Anna Rother
+DATE_START  Di 26. Mai 2026
+DATE_END    Fr 29. Mai 2026
+TIME        9.30-12.30 Uhr
+VENUE       Kunstzentrum Karlskaserne
+COURSE_NR   L250540
+PRICE       68,50 Euro
+CATEGORIES  alle Ferienworkshops, Familie &amp; Kinder, für Kinder ab 8 Jahren, Kunstzentrum Karlskaserne, Pfingstferienworkshops, Workshops_Karlskaserne
+URL         https://kunstschule-labyrinth.ludwigsburg.de/site/Ludwigsburg-Labyrinth-2019/node/16172667/zmdetail_523250640558/index.html?nodeID=523250640558
+SOURCE      kunstschule-labyrinth.ludwigsburg.de
 ============================================================
-
 Kursnummer: L250540
 
 Bewegung, Theater und Musik – dies sind die drei Bereiche, denen wir uns in dieser Woche mit viel Spaß und Kreativität widmen. Gemeinsam im Team finden wir dazu unseren individuellen, künstlerischen Ausdruck. Wir verbessern unser Taktgefühl, improvisieren Tanz- und Theaterszenen und lernen uns selbst besser kennen. So stärken wir unsere Selbstwahrnehmung und unser Selbstvertrauen. Bitte zieht sportliche Kleidung an, Schuhe mit abriebfester, heller Sohle oder Anti-Rutsch-Socken und nehmt ausreichend Essen und Trinken für die Pausen mit.
@@ -23,4 +22,3 @@ Anmeldeformulare unter
 www.kunstschule-labyrinth.de
 
 Veranstaltungsort: Kunstzentrum Karlskaserne
-Hindenburgstraße 29 71638 Ludwigsburg
